@@ -1,0 +1,692 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2015 Lockheed Martin Corp Earnings Call
+APRIL 21, 2015 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marillyn Hewson
+   Lockheed Martin Corporation - Chairman, President & CEO
+ * Jerry Kircher
+   Lockheed Martin Corporation - VP of IR
+ * Bruce Tanner
+   Lockheed Martin Corporation - EVP & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robert Spingarn
+   Credit Suisse - Analyst
+ * Cai von Rumohr
+   Cowen and Company - Analyst
+ * Rich Safran
+   Buckingham Research Group - Analyst
+ * Jason Gursky
+   Citigroup - Analyst
+ * Howard Rubel
+   Jefferies LLC - Analyst
+ * Myles Walton
+   Deutsche Bank - Analyst
+ * Ron Epstein
+   BofA Merrill Lynch - Analyst
+ * George Shapiro
+   Shapiro Research - Analyst
+ * Hunter Keay
+   Wolfe Research - Analyst
+ * Carter Copeland
+   Barclays Capital - Analyst
+ * Noah Poponak
+   Goldman Sachs - Analyst
+ * Sam Pearlstein
+   Wells Fargo Securities, LLC - Analyst
+ * Peter Arment
+   Sterne, Agee & Leach, Inc. - Analyst
+ * Doug Harned
+   Sanford C. Bernstein & Company, Inc. - Analyst
+ * Rob Stallard
+   RBC Capital Markets - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day and welcome everyone to the Lockheed Martin first-quarter 2015 earnings results conference call. Today's call is being recorded. At this time, for opening remarks and introductions, I would like to turn the call over to Mr. Jerry Kircher, Vice President of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Karen, and good morning, everyone. I'd like to welcome you to our first-quarter 2015 earnings conference call. Joining me today on the call are Marillyn Hewson, our Chairman, President, and Chief Executive Officer, and Bruce Tanner, our Executive Vice President and Chief Financial Officer.
+Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the Safe Harbor provisions of federal securities law. Actual results may differ. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to vary materially from anticipated results.
+We have posted charts on our website today that we plan to address during the call to supplement our comments. Please access our website at www.lockheedmartin.com and click on the Investor Relations link to view and follow the charts.
+With that, I'd like to turn the call over to Marillyn.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Jerry. Good morning, everyone, and thank you for joining the call today. We are pleased to have you join us to review our first-quarter results.
+As today's release outlined, we had another solid [quarter], operationally and financially. The Corporation continues to deliver critical solutions and products to our customers, while also returning value to our stockholders. I'm extraordinarily proud of the efforts of focus of our team and their significant accomplishments across the Corporation.
+In looking at the results for the quarter, we achieved or exceeded our expectations. I'm very pleased that strong year-to-date financial performance across multiple business areas enables us to increase 2015 full-year guidance for operating profit and earnings per share. In addition to these increases to guidance, we reaffirmed our earlier outlook for full-year orders, sales, and cash from operations.
+In addition to these solid financial results, we continued to return value to stockholders in the areas of share repurchases and dividends payments through our cash deployment initiatives. In the quarter, we repurchased over $600 million of our shares and remain committed to achieving the goal we outlined earlier this year to repurchase at least $2 billion of our shares in 2015, market conditions permitting.
+This ongoing repurchase program enables us to progress on our related goal of reducing total outstanding share count to below 300 million shares by the end of 2017. These repurchases, combined with our quarterly dividend repayment, returned over $1.1 billion in cash to stockholders this quarter.
+Turning briefly to DoD budgets, in early February, the President released his proposed FY16 base defense budget at $534 billion, reflecting a request for $35 billion more than the spending limits established in the Budget Control Act. The President also proposed an additional $51 billion in spending for Overseas Contingency Operations, or OCO. Combined, the two proposed spending packages totaled $585 billion, and if enacted, represent a significant increase in total funding for defense above prior year levels.
+In March, budget resolutions were passed by both Houses of Congress that outlined total defense spending level that equals or slightly exceeds the amount requested by the President. The Congressional resolutions are a bipartisan recognition of the need for greater investment in defense spending to respond to increasing global security threats, aging military assets, and the imperative to improve the readiness of our Armed Forces.
+The resolutions left in place the Budget Control Act sequestration cuts to the Defense Department's base budget, while increasing funding for the OCO, Overseas Contingencies Operations. This approach is intended to enable utilization of funds from the OCO to pay for other defense items outside the normally restricted war-related cost specified in the OCO.
+While it's too early to predict the final level of FY16 defense budgets, it's encouraging that the President and Congress are aligned in their recognition of the need to increase defense spending from the recent constrained levels. We look forward to finalization of Congressional budget deliberations, which are expected to be completed later this year.
+Moving outside DoD budgets, momentum continues to build with respect to our strategy to expand international business, and the success of this strategy remains a priority to me and the Corporation. This past quarter, I had the opportunity to travel to multiple countries in Europe and the Middle East to participate in wide-ranging discussions on our spectrum of products and services, and the increasingly complex geopolitical environment, which requires proven and adaptive solutions at home and abroad.
+In Europe, I had the opportunity to participate in the Munich Security Conference on international security policy. This meeting included extensive discussions on current and future security challenges and included attendees from more than 70 countries who exchanged views on defense requirements.
+While in the Middle East, I was able to travel to both Saudi Arabia and the United Arab Emirates where I met with senior government leaders who discussed the current and future regional security issues they face and how we might work with them to address their requirements. These discussions reinforced my belief that our international growth strategy is sound and working.
+There is an acute need on the part of international customers for an increasingly wide range of our products and services as the geopolitical environment becomes more complex and less predictable. These expanding requirements further position the Corporation to achieve our goal of generating at least 25% of annual sales from international customers in the next few years.
+I'd like to move to the F-35 Joint Strike Fighter and provide a brief summary on the progress of the program that we are achieving and reaching key milestones and securing new business from international customers. Recent production milestone accomplishments included roll out of the first F-35A aircraft from the final assembly and checkout facility in Italy.
+This represents the first time an F-35 been assembled outside the United States. It also demonstrates the ability of the Italian facility to complete these fifth-generation stealth aircraft and underscores the global partnerships within the F-35 program.
+Beyond this production accomplishment, the flight test program continues to progress, with completion of the 1,000 sortie at Luke Air Force Base, the 500th sortie at Nellis Air Force Base, and the overall F-35 fleet surpassing 30,000 flight hours. These events highlight the increasing tempo of flight operations across the country and an expanding number of sites.
+New business support of the program continued to grow internationally this quarter, with letters of acceptance signed by Israel for 14 additional aircraft and by Turkey for four aircraft. Additionally, The Netherlands placed an order for its first batch of eight production aircraft. These recent actions reflect the expanding commitments by international countries to secure this fifth-generation aircraft for their future fighter fleets.
+It's noteworthy that the program of record identifies over 700 aircraft to be acquired by 11 international countries and illustrates the strong future demand for the F-35 by our allies. Almost one-half of the projected annual orders over the next five years are scheduled to be placed by international customers, demonstrating the importance of international participation on the program.
+Turning to the development program, we are continuing to finalize the software that will enable initial operating capability, or IOC, of the STOVL aircraft for the US Marine Corps later this year, and are also progressing on software that will enable the Air Force [variant] aircraft to achieve IOC in 2016. This past quarter, we successfully conducted initial flight tests of the enhanced software that will be used to provide IOC to carrier variant aircraft.
+The commencement of these fights with this software is a key element to enable us to provide this revolutionary aircraft to the US Navy in 2018. Overall, the F-35 program is retiring development risk, increasing the production tempo, and securing new contract awards as we expand our activities on the program.
+Before turning the call over to Bruce, I want to highlight two noteworthy milestones that occurred earlier this month in our Aeronautics business and a key event this past quarter in our Mission Systems and Training business. On the Aeronautics C-130 program, we were enormously proud to celebrate the 60th anniversary of the rollout and first flight of the inaugural production C-130 Hercules in April 1955. With almost 2,500 C-130s delivered around the world to 63 countries, it remains the world's most fielded cargo aircraft.
+The C-130 program has the sole distinction as the world's longest continuously operating military production line. Since the debut of the A model 60 years ago, the C-130 has incorporated multiple model revisions, product improvements, and upgrades in its evolution to the J version produced today. This 60-year history of continuous improvement also created demand by commercial customers seeking to reconstitute their aging L-100 airlifter fleets with a new LM-100J version, extending the footprint of the program beyond domestic and international government customers.
+On the C-5M program, a Super Galaxy aircraft recently established 45 pending new world records in airlift capabilities, and after the results are certified, we'll hold a new total of 86 aeronautics records. Our upgrade program to install 25% more powerful and fuel-efficient engines on the aircraft has significantly enhanced the ability of the C-5M to reach speeds at a faster rate than predecessor versions and enable cargo transport of a longer distance between refueling.
+We're very proud of our upgrade actions on this airlifter as we deliver expanded strategic air mobility capabilities to war fighters. With unmatched flexibility, versatility, and relevance, the C-130 and C-5 aircraft will continue to provide essential airlift service for our nation and international users for years to come.
+Turning to Mission Systems and Training, in February, we were honored to participate with the Air Force at the groundbreaking ceremony at Kwajalein Atoll to mark the start of the construction for the Space Fence radar system. This ground-based radar system will improve the way objects are tracked in orbit and increase the ability to predict and prevent space-based collisions. The multi-year program will also serve as one of the drivers for future sales growth in the MST business area as we deliver this critical enhancement to our national capabilities.
+I'll now ask Bruce to go through the details of the first-quarter financial performance and our increased 2015 guidance. Then we will open up the line for your questions.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Marillyn. Good morning, everyone. As I highlight our key financial accomplishments, please follow along with the web charts that we included with our earnings release today.
+Beginning with chart 3, we have an overview of our first-quarter results. Sales for the quarter were $10.1 billion and this was in line with our expectations. We will provide more color on our sales results on the next chart.
+Our segment operating margin was better than expected in the quarter at 12.9%, and enabled us to achieve earnings per share of $2.74. We generated $957 million in cash from operations, also in line with our expectations, but lower than we have historically generated in the first quarter. We'll discuss the quarterly phasing of our projected cash from operations for the year in a few charts.
+Our cash deployment actions remained strong, with $1.1 billion of cash returned to shareholders, including more than $600 million of share repurchases. And because of our operating performance in the first quarter, we are increasing our full-year outlook for both operating profit and earnings per share, so we're off to a very solid start to 2015.
+On chart 4, we compare our first-quarter sales results for 2015 with our results in 2014. Sales are lower by about 5% compared with the first quarter of last year, but as you recall, we said that this was our expectation during the January call. The lower sales level was driven primarily by two business areas, Missiles and Fire Control and Aeronautics.
+In both cases, fewer deliveries drove the reduction, PAC-3 and tactical missile deliveries in Missiles and Fire Control, and three fewer aircraft deliveries in Aeronautics. We remain on track to achieve the sales outlook we've provided at the beginning of the year.
+Chart 5 compares our segment operating margin with the first quarter of 2014. Segment operating margin was 50 basis points lower this quarter compared with the same period last year, but remained near historically high levels. Three of the five business areas had higher margins this year than in the first quarter of 2014, with Space Systems having the largest increase due to higher risk retirements.
+Mission Systems and Training had a strong performance quarter, but was unable to match its near record-level margin results from the first quarter of last year. IS&GS's margin was down considerably from last year at this time, though we had expected a fairly large reduction when we provided our outlook for the year in January.
+The first-quarter results were lower than expected due to performance issues on an international program. Results from the rest of the IS&GS portfolio of programs were stronger than expected and were able to offset much but not all of the impacts of this program. Overall, our performance was better than expected and resulted in our increase in segment operating profit for the full year.
+Turning to chart 6, we'll review our earnings per share results this quarter with our results from a year ago. Our EPS of $2.74 was $0.13 lower than the results from last year, but higher than our expectations, and because of this, we increased our EPS for the year as we'll discuss in a few charts.
+Chart 7 provides details into our cash deployment actions during the quarter. As we previously mentioned, we repurchased more than $600 million of our shares in the quarter, more than we had planned in our initial guidance projections, and combined with dividends paid of nearly $500 million, we returned $1.1 billion of cash to our stockholders, or 131% of our free cash flow in the quarter. We expect to have a larger amount of share repurchases in the second quarter, utilizing the greater level of cash we have on the balance sheet as a result of the debt issuance we had in late February.
+On chart 8, we discuss our updated outlook for our full-year 2015 results. We are not changing our guidance for either orders or sales at this time, though orders in the first quarter were slightly ahead of our expectations. Sales, as we mentioned earlier, were as we expected for the quarter.
+We are increasing our profit projections by $50 million as a result of our strong performance in the first quarter. We're also increasing our earnings per share guidance by $0.05, but there are several moving pieces that deserve more explanation and we'll provide that on the next chart.
+We're leaving our cash from operations guidance unchanged, but I do want to mention that our phasing this year will look different compared to our results in recent years. We expect that our quarterly cash phasing be significantly weighted toward the second half of the year, with as much as two-thirds of our cash coming in the last two quarters of the year. We expect this phasing in part because our cash collections will mirror the increased delivery rates we expect throughout the rest of the year, and we anticipate reaching final agreement on a number of contracts in the second half of the year that will bring cash collections with them.
+Chart 9 provides a reconciliation between our prior EPS outlook and our current expectations. The increase in our segment operating profit outlook will increase our expected EPS by $0.11 per share. As we previously mentioned, our share repurchase activity in the first quarter was slightly higher than we had planned, and we also had a lower level of options exercised in the quarter than we were expecting.
+The combination of these two items resulted in a lower average share count level than our previous projections and improves our estimated EPS for the year by $0.07. We now project our full-year average share count will be just over 315 million shares.
+Offsetting these EPS increases is the additional interest from the remainder of the year for the debt issuance that closed in February. Netting these changes together, we now expect our EPS for the year will be $0.05 higher than we guided in January, to a new range of $10.85 to $11.15 per share.
+On Chart 10, we provide our sales outlook by business area for the year, with no change from the outlook we provided in January. Chart 11 shows our current outlook for segment operating profit compared with what we were expecting last quarter. We increased our profit outlook in four of our five business areas, with Space Systems having the largest increase for the year ant $30 million.
+The other three business areas were each increased by $10 million to $15 million and we lowered our expected full-year profit for IS&GS by $20 million for the reasons we previously discussed. The net change for the Company was a $50 million increase in our segment operating profit outlook.
+Finally, chart 12 provides our summary of the quarter. We're off to a solid start for the year, with our results either tracking to or exceeding our expectations for the first quarter. We remain committed to our cash deployment actions to generate returns for our stockholders and the breadth and strength of our portfolio will enable us to achieve these results. With that, we're ready for questions. Karen?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Peter Arment, Sterne Agee.
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne, Agee & Leach, Inc. - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Yes. Good morning, Marillyn and Bruce
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne, Agee & Leach, Inc. - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Bruce, could you give us, if you can, give us a little more color on the -- you said the $70 million adjustment or lower profit accrual in IS&GS in the quarter from the international program?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [5]
+--------------------------------------------------------------------------------
+
+          Sure. I'll start, and if Marillyn has something to add to this, she will surely do so. This is a fairly good sized international program, one of our command-and-control entrants that we are selling internationally. This is a pretty complex system that we were developing under IRAD, and as we got into the actual integration of this system [in country], that turned out to be more complicated than we originally anticipated.
+We think the charge we took in the first quarter has this effort, I will say, sized appropriately for the remaining work to be done. But importantly, we also think that there's a greater market potential for this product once it's installed and is showing its capabilities, so we're optimistic there is a chance for future profitable sales with this product going forward.
+The good news in the quarter within IS&GS is there were a number of performance improvements in the rest of the portfolio so the way I think about it is we have one issue, one fairly large issue, on a large program that was offset by a number of improvements across the rest of the portfolio, or maybe said differently, but for that IS&GS, we would've had a very strong quarter except for that one contract.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [6]
+--------------------------------------------------------------------------------
+
+          Not anything more to add other than to just say that the contract signed is less than $500 million, just to keep it in perspective.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Robert Spingarn, Credit Suisse.
+
+--------------------------------------------------------------------------------
+Robert Spingarn,  Credit Suisse - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [9]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Robert Spingarn,  Credit Suisse - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          I wanted to follow up on the profit side. Your margin guidance is generally below your performance in all the segments than what you saw in the first quarter, especially when you make the adjustment in the IS&GS for the $70 million, so is there anything other than conservatism baked in there?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [11]
+--------------------------------------------------------------------------------
+
+          Rob, I don't think that we consciously try to bake either conservatism or optimism in there. We always start every year by saying that -- or at least I think I do -- by saying that we think we have the potential as we go throughout the year to have similar levels of risk retirements and profits pick-ups through the year as we've had in prior years. This issue that hit us on the international program in IS&GS is the thing that sort of proves that it can sometimes go both ways there, so these are not just givens, it's not just conservatism, as we go throughout the rest of the year.
+As we look forward, the timing of risk events -- there tend to be -- the back end has a few less events than we've had in the first part of the year. We also had, in particular, with Space Systems, for instance, significantly higher weighted ULA equity earnings in the first quarter as compared to the whole year.
+I want to say, if you look at it on a percentage basis, probably 45% of the equity earnings for Space Systems occurred in the first quarter and the remaining 55% or so will be spread over the next three, so there's just a lot of phasing. We did have a couple, within the business areas, a couple of contractual or administrative settlements that happened in the first quarter that we're not expecting to materialize in the next three quarters as we sit here today.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Rich Safran, Buckingham Research.
+
+--------------------------------------------------------------------------------
+Rich Safran,  Buckingham Research Group - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Hi, good morning.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [14]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Rich Safran,  Buckingham Research Group - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Marillyn, I heard your remarks about the budget at the opening. If we assume for just a moment that the FY16 budget is above the spending caps, maybe closer to the request, or if OCO funds are applied, I wanted to know if you had a sense of what the priorities would be for any additional funds, where there might be upside to Lockheed Martin programs? Is this the kind of thing that would impact your short-cycle business at IS&GS or is this long-cycle business or maybe both?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [16]
+--------------------------------------------------------------------------------
+
+          First of all, in terms of the budget itself, you're right, the President's space budget is significantly above the Budget Control Act, sequestration budget caps that were out there. But just to remind you, those limits still remain in place from FY16 and beyond, so it's important that Congress address that as they move forward.
+They took a stab at it with these resolutions by increasing the OCO in order to fund some additional spending, but until they do some statutory change, that really doesn't change the sequestration that's out there, so we really need the President to consent to the OCO uppers that they have and he wants increase in both defense and domestic spending caps, so we know that's the case.
+However, back to your question about what it means for us, certainly F-35 and C-130Js are important. In fact, if you've looked at what's come through on the unfunded priorities list, there are six F-35Bs on that list coming in from the Marine Corps, and another eight F-35Cs for the Navy that are on the unfunded priorities list, so to the extent that additional funding is found, that's important. Moreover on the C-130, there are another 13 aircraft there, and the KC-130J have another two aircraft, and then there's a number of other items that have additional funding that are in our portfolio as we go forward.
+I would just say that, in terms of long-cycle versus short-cycle business, you hit right on it. Building an aircraft, doing a long-lead funding, and going through the production process, we are well over three years on our aircraft and in [linear and] development, even longer than that, with the F 35.
+So as we get things lined up, it's -- as we get funded for these, then that is a long-cycle business that will be in our portfolio, will be in our backlog, and that's important. A lot of things also are related to what happens with our troops and what's going on in the various conflicts around the world, and so we'll just have to watch how that transpires, as well, as to what kind of funding that Congress and the DOD need in order to address those continuing threats.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Howard Rubel, Jefferies.
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies LLC - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Good morning, Marillyn, and Bruce, and Jerry. Thank you very much.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [19]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Marillyn, there's been countless headlines about all the challenges the F-35 faces. Some of them are history that people like to dredge up and talk about things that you've already solved in terms of problems, and then there's things that you are still wrestling with every day. Can you bring us to the point where we understand how to ignore some of the bad news and how you are coping with some of these issues that still aren't where you would like them to be?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [21]
+--------------------------------------------------------------------------------
+
+          What a great question. Thank you for that question. We are challenged with that regularly because it is the largest program with the Department of Defense and it's a complex development program so it's challenging in that sense. Every year, as you know, the GAO comes out with their annual report, there is an OT&E report that comes on annually to Congress, there are a myriad of reports that are required just given the size of the program.
+We take every one of those reports into account. We read them all. They are not always exactly right, and that's just the facts of the matter. What we try to do is stay focused on performance because that's the first and foremost thing that we can do to continue to keep this program on track.
+I would say, from a status standpoint, if you look back at some of the technical challenges we had early on, we've solved the landing hook, we've solved the helmet issues, the software programs are going well. So from that perspective, the program is maturing, the development program that we are moving through, we're 65% complete on that, and we are going to continue to ramp up the production.
+Manufacturing is going well. Last year, we delivered 36 aircraft in 2014 and this year we're going to deliver about 45, so you can see it ramping up. As I mentioned earlier, the initial operating capability, IOC, for the Marine Corps is going to be happening this summer. You've heard from the Marine Corps that they are confident. We are also confident they will meet their IOC.
+So from that perspective, the key is to not react to -- every media write-up is going to say it's the largest program and it will reflect back on initial stages of the program, but if you look at -- since we rebaselined the program in 2010, we have been on track with our costs and our schedule performance. We have rolled out a blueprint for affordability jointly with the US government that is driving the cost down. By the time we move into full rate production, the cost of the F-35 will be comparable or lower than a fourth-generation fighter which much more capability.
+So I would just encourage you to continue to watch us track through the ramp-up of the production, the things we're doing to drive the cost down, and as we continue to move through the flight test program. As each of the services declare their initial operating capability, and as we continue to roll our more and more capability of the aircraft, I think that our nation and our allies are going to be very proud to have the national security requirements capabilities that this aircraft will provide for many decades to come.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Cai von Rumohr, Cowen and Company.
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen and Company - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you very much. Aeronautics, help me understand, you did 11.8% margin in the first quarter with deliveries expected to get better as we go through the year on the mature programs, and yet it looks like the margin goes down. As I read your commentary, it doesn't look like there's anything abnormal in terms of the positives. There is that $25 million risk retirement, but why don't the Aeronautics margins hold near where the first quarter is for the rest of the year?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [24]
+--------------------------------------------------------------------------------
+
+          Cai, I will take that one on. Probably the biggest reason is we have got two things going on there. One, we have a pretty good sized ramp, obviously, on the F-35 program in total, as compared to the rest, even with the delivery increases that you talked about, so you'll have the F-35 dilution effect occurring there.
+What may be lost a little bit in your question is C-5 deliveries are expected to increase fairly significantly over the first quarter just in terms of quantities and that's another program that has a lower margin than the overall Aeronautics program in general. The combination of those two is what we're seeing right now offsetting the higher margin we had in the first quarter. Having said that, I still think we're going to end the year at 11% or more, and I do think there is potential that we could do a little better than that if some of the risk retirements break a little early for us or come in a little larger than we have in our current outlook.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Ron Epstein, Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Good morning. Just a quick question for Bruce, just a couple details. When you look at the financials, it looks like this year, if you add up your accounts receivables and inventories, divide it by sales, you are running at a little bit of a higher rate, this 95%, than you historically have, at least for recent history. Recent history seems like it's been more in the 70% to 80% range. What's driving that build-up in your working capital?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [27]
+--------------------------------------------------------------------------------
+
+          A couple of things. If you just look at the first quarter, Rob, we have a historically low AR at the end of the year as the payment offices clean up everything, if you will, on their docket, if you will. A lot of it has to do even with the timing of when we close the first quarter. Historically, you actually do see that we usually have a spike in our accounts receivable in the first quarter because of those two phenomenon.
+Inventory is growing a little bit. In part, that's one of the elements I was trying to describe in my prepared remarks that talk about some of the contractual resolutions or contractual finalizations that we're expecting in the second half of the year. We expect to have some collections associated with those, as things like billing arrangements get finalized and the performance-based payment terms get finalized, and so we would expect to have some reduction in our inventory account going forward.
+At the end of the day, Ron, the spike we see in working capital, in general, for all elements of working capital, not just AR and inventory, we expect that, that will probably come down over the next three quarters of the year and probably end the year not too differently than where we started the year or ended the year 2014.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Jason Gursky, Citi.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [30]
+--------------------------------------------------------------------------------
+
+          Good morning, Jason.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Marillyn, I just wanted to ask a question about missile defense and the marketplace there today, in light of recent awards that have been going on internationally. Can you just talk a little bit about the competitive dynamics that are going on there and what you think the opportunity set is for Lockheed with the various products you've had and the contribution to the Patriot. Update us on the market and what the opportunities are specifically for Lockheed going forward?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [32]
+--------------------------------------------------------------------------------
+
+          Sure. I would just start by saying that there continues to been an expanding demand for missile defense in the Asia-Pacific and the Middle East for our products along the lines of the THAAD, Aegis, Aegis Assure, Patriot, and potentially MEADS, as well. As we look, for example, MEADS, I know there was an announcement today about Raytheon winning the opportunity in Poland, but we -- our Patriot, our PAC-3, is part of that system, that Patriot system, so it's an opportunity for us, as well.
+But we still have an opportunity in Poland on -- that MEADS international was selected to participate in the technical dialogue on a short rage air and missile defense system called Narew in Poland, and we expect to continue to be in that dialogue. That's one that -- the MEAD system is the only one that offers the capability in network and integrate on a variety of air and missile defense system elements, including things that are developed in Poland, their sensors, their command-and-control, et cetera.
+And then Germany in the midst of evaluation to make their decision on their air and missile defense system. As you know, they have invested a fair amount into the MEADS system, along with Italy and the US, and so we expect to participate in that opportunity. We hope that they will select MEADS as they move forward on their selection.
+Around the world, though, there continues to be a very strong demand. As you look at Aegis, there continues to be a demand for Aegis. There -- Aegis Assure, we just stood up or are in the midst of standing up our Aegis Assure in Romania, we will have another one in Poland, so that opportunity in the European theater is also important.
+There are discussions -- and there's South Korea on both PAC-3 and ultimately on THAAD, interest in the Middle East by a number of countries on PAC-3 and THAAD. So you're going to continue to see a continuing demand for our portfolio. We have a very strong set of products and capabilities in that arena that is going to continue to have a demand.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Noah Poponak, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Hi. Good morning, everybody
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [35]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Bruce, on the debt you raised intra-quarter, it looks like the interest expense you've added to your full-year earnings outlook includes interest on all of that. Is that true? And it looks like, intra-quarter, you were discussing the potential to use some of that to refi, so if you do that, is there an opportunity to later reduce the interest expense for the full year? And then beyond, refi, what else are you going to do with this cash?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [37]
+--------------------------------------------------------------------------------
+
+          Good questions, Noah. The average interest rate for the -- because we did it in three tranches of varying sizes, but the average interest rate is about 3.5%, so to your first question, we're just taking a 3.5% with the last 10 1/2 months or 9 1/2 months, whatever it is, of exposure on the debt, and that is what the interest calculation is for this year.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [39]
+--------------------------------------------------------------------------------
+
+          Going forward, we didn't tee-up -- on the call -- not on the last call, because I'd have the extra quarter, to your point, but in the disclosure we did for that, we described that we would potentially look at taking out some near-term debt maturities that mature in 2016. We actually have two tranches that happened in 2016.
+They are worth a little less than $1 billion combined, and so we would expect that -- and one of those at least is a fairly good sized interest -- has a fairly good sized interest coupon on the debt, so we would expect the interest to mitigate some in 2016, as we take out that roughly $1 billion of debt with the proceeds. The rest of it is strictly general-purpose, Noah, and as I'd tried to tee-up in the earlier remarks, I do think that we could use the potential for that for additional share repurchases throughout the rest of this year and moving into 2016.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Hunter Keay, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Hunter Keay,  Wolfe Research - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Good morning. Thanks for taking my question.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [42]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Hunter Keay,  Wolfe Research - Analyst    [43]
+--------------------------------------------------------------------------------
+
+          Marillyn, you talked a little bit about your [rear at] 25% international mix over the next few years, but do you feel like maybe given an improving domestic budget environment right now, that maybe that number goes back to the 20% level over the next couple of years, if you maybe consider that, that 25% going higher is maybe a function of maybe worsening domestic environment budgetary conditions? If the domestic budget environment continues to get a little better than we all thought maybe last year at this point, is the international opportunity set still robust enough for you to get to that 25% level, even if domestic is picking up better?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [44]
+--------------------------------------------------------------------------------
+
+          My answer to that would be yes, absolutely. Our backlog today is $20 billion in international backlog at the end of 2014. That's a significant backlog for us. The quality and maturity of our portfolio that we're selling around the world is going to continue to have a demand. And as you probably know, or we've talked about, I think I even said in my remarks, over one-half the orders on the F-35 are going to be to international customers in the next five years, so that program alone is going to continue to grow.
+Earlier, my comments about missile defense, continued strong demand for missile defense. We expect countries, besides countries that are program of record on F-35, there are going to be others that are going to need to retire their fourth-generation aircraft, so we expect other countries to want to procure the F-35. Airlift, C-130s, and 72 countries, and the Js is going to continue to be in demand, as some of those countries upgrade their airlift capability to the J.
+So I would say that are going to continue to be on a path to get to 25% over the next few years, and at the same time as budgets recover and defense will continue to sell within the US. Both elements of our portfolio will continue to rise, but I do expect, just given the backlog and given the opportunities that we have on the international front, that we will achieve the 25%.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Doug Harned, Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford C. Bernstein & Company, Inc. - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [47]
+--------------------------------------------------------------------------------
+
+          Good morning, Doug.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford C. Bernstein & Company, Inc. - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          I wanted to go back to IS&GS. I know that you've been getting more international orders so your backlog has a larger international component and you talked about the issue you had with this one contract. Could you describe the kinds of international orders you've been winning, do these tend to be fixed price in nature, which in theory could give you some upside and margin, but also expose you to potentially more risk? I'm just interested in how large international is becoming an IS&GS and what the opportunity and the potential risk might be there?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [49]
+--------------------------------------------------------------------------------
+
+          Doug, let me try to give you a little color to that. The international content in IS&GS is growing, not leaps and bounds, but it's growing from a fairly small beginning, I'll say, to where now, I'm just thinking off the top of my head, it's probably in the maybe 10%, maybe a little less than that, something like 7% or 10% or so of the sales of IS&GS, maybe a little less than that even, is what our international content is. But think of that as much higher than it was, say, three, four years ago, so that part of the business is growing.
+Almost all -- I'm thinking if there's an exception to that -- but I will say almost all of the international work that we are doing, not just in IS&GS, but around the whole Company, is in fact [from] fixed-price effort, so there's both upside and downside risk associated with doing that. You should think of -- a lot of this is doing IT work. For instance, what we're doing in Australia is not dissimilar than what we're doing with the Pentagon here in the United States, aggregating a lot of the systems and making those systems -- doing upgrades, making those systems perform better and doing the overall systems development work for all the IT services for, in this, case the Ministry of Defense, or Department of Defense in Australia.
+We do a lot of cyber work internationally. We're getting -- that's a growing portion of the business as [nets wan], that we're very happy to work. Our reputation is spreading across the globe as we do work for individual countries, and in some cases, individual firms within those countries. That gets word-of-mouth sales that happen elsewhere.
+We also do, internationally within IS&GS, a lot of airport management or air traffic management type activities. So the things we do with our FAA business in the United States, think of that is doing it elsewhere, but also a lot of productivity sorts of things from an airport perspective, internationally.
+That's probably the three big pieces. I should say, there's also a little bit of intel piece, not dissimilar, again, to what we do with our intel customers in the United States. So probably those four pieces, Doug, you should think of as what we're doing internationally within IS&GS, and that portion is growing pretty significantly for us, from again, a fairly modest start a few years ago to where it is today.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          Carter Copeland, Barclays.
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Good morning, all.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [52]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Just a quick clarification on that, Bruce, with that being 7% to 10%, and Marillyn's comment earlier about less than $500 million, it would make that seem like that's probably the largest program in IS&GS on the international side. Is that correct?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [54]
+--------------------------------------------------------------------------------
+
+          I don't know that it is the largest, Carter, but it's one of the largest that we have, one of probably a couple of that size. I was looking at some data here. The actual number is slightly less than 10% for IS&GS, so a little more specificity than I gave Doug on the previous question.
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          Great. On the Aerospace margin front, you teed-up on the prior call and during the quarter, some potential upside, you would talked about 100 basis points on the F-35 development contract, and once that got -- the delays from last year worked their way through, and also on the C-5, even excluding the over and aboves, and I wondered, you highlighted the small amount of risk retirements on F-35, but I wondered if you could give us an update on the progress of both of those?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [56]
+--------------------------------------------------------------------------------
+
+          Carter, I want to correct something I heard you say. We weren't talking about development program increases, we were talking about production program increases.
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Production, correct. Sorry.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [58]
+--------------------------------------------------------------------------------
+
+          What you saw in the first quarter, and what we disclosed in the earnings release was one of those risk retirements that we were expecting to happen. That's actually probably one of the larger ones that will happen throughout the rest of the year. At least, planning-wise, that's one of the reasons why the margins in the first quarter were in fact higher than what we expect for the rest of the year, so that's tracking to what I said earlier and what I had talked about, about a potential 100-basis point improvement in the production year-over-year from 2014 to 2015, I still think is doable and on track as we sit here today.
+C-5, we talked about that program in the past, about the potential for a step up over time. I still think that's a path that we're looking at doing in the latter part of the year. Again, as you alluded to, and I'll make the comment, none of this considers the potential for some entitlement actions that we have relative to be over and above work. That would be separate and distinct from this. This is just recognizing that we are doing a better job of turning out the aircraft in shorter cycles and the like that are resulting in better performance on that contract for us.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+          Myles Walton, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Great. Thanks and good morning. The question I had was on Space, and in particular, the margin performance you had in the first quarter. You have about $125 million of headwind on ULA for the rest of the year, so I get that, but it does look like certainly the risk retirements at Orion and the government side, and broadly across the portfolio are better than we've seen in a while.
+I'm just curious, usually good things follow good things. Was there a certain risk retirement related to Orion and government programs? Were you reaching critical milestones or is Space just looking like it is probably going to be a source of continued upside for the rest of the year?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [61]
+--------------------------------------------------------------------------------
+
+          Good question, Myles. You should think of Space Systems as having a couple of risk retirements that happen in the first quarter. One of them was associated with the Orion vehicle. This was actually associated with the launch that we did last year, as we finalized the results of that in the first quarter of this year, we trued up our booking position, if you will, for that event, and that resulted in a step-up associated with that event that will not repeat itself, obviously, in the next three quarters.
+We also had a couple of one-offs in the quarter for things like some reliability incentives that we had -- at least one of the contracts within Space Systems, if not another one. That just happened to fall the first quarter, if you will, so we got a pretty good increase associated with that reliability incentive, and that also reflected part of the effort this quarter that won't happen going forward.
+I'll also remind you that, as you said, the latter three quarters of the year, we have the ULA totally different profile than what we've had last quarter, and again, as I made comments earlier, much lower equity earnings going forward as compared to the first quarter. I'll also remind you, though, that we do have what's left of the restructuring costs that have not been taken but that are reflected in our operating performance, and those will continue to happen in the next three quarters without the benefit of these step-ups we took in the first quarter.
+Combined, I know there's a lot of moving pieces I just gave you there, but combined, that's why we look at the margins doing what they do in the next three quarters for Space Systems. What I will say though is Space Systems is performing very, very well right now and so I look at that and say there is the potential for opportunity as we go forward.
+Every year, we do have opportunity and we're performing very, very well on our government contracts in Space Systems. There's a lot of incentive-based contracts there, where if we do well, we obviously get the margins associated with that, but the government gets the flip side of those incentive contracts, as well, and so we're performing very well there and we have some potential to do even better going forward.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Rob Stallard, RBC.
+
+--------------------------------------------------------------------------------
+Rob Stallard,  RBC Capital Markets - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Thanks so much. Good morning
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [64]
+--------------------------------------------------------------------------------
+
+          Good morning, Rob.
+
+--------------------------------------------------------------------------------
+Rob Stallard,  RBC Capital Markets - Analyst    [65]
+--------------------------------------------------------------------------------
+
+          Bruce, just quick question on the book-to-bill. I was wondering if you could comment on the various trends that you are seeing there, particularly again on the short-cycle side and when we might see some improvement in perhaps the IS&GS book-to-bill through this year?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [66]
+--------------------------------------------------------------------------------
+
+          Rob, maybe I'll just give you -- I thought that there might be a question on orders, so maybe I'll just give you a little bit of a full overview of where we sit from an orders perspective. It has been our history, at least the last few years, we're going to be significantly back-end weighted in our orders for the year.
+As we sit here today, it wouldn't surprise me if there is probably 65% or so of the orders that we're expecting to have for the year will actually materialize in the second half of the year. You should think of that -- we've got quite a few big-ticket items to keep your eye. We've got the bomber awards some time in the summer of this year. We've got finalization of the C-130J multi-year. We've got the next production lot, lot 9 of the F-35 program occurring.
+With that, and it's just a lot of contracts, but they add up to a lot of dollars collectively, they add up to a lot of dollars. Just a whole lot of various F-35 sustainment contracts and long-lead contracts for future LRIPs. You combine that with a lot of the international orders we are looking at for THAAD and PAC-3, for instance, and you see there some pretty big chunky-sized orders coming in the next three months, but more weighted in the second half of the year. I didn't mention JLTV, but that's obviously another critical strategic win, so the big strategic items we're looking for from a competitive perspective this year are the bomber award and JLTV.
+To your specific question on IS&GS, we're going to -- last year we actually grew backlog in IS&GS, which was the first time we've done that for a while. As we look forward, the IS&GS orders are probably sequentially going to grow and get close to the sales value, but probably not as much as the sales for the year, so we'll probably have some reduction in our backlog in IS&GS as we close the year, in part though, because recall, we did get so many orders in 2014, there were multi-your orders that won't be replicated, if you will, in 2015.
+And maybe one last comment. We still think, as we sit here today, and we've said this for a couple of years in a row, we do think we're on track to get back, similar to where we started at the end of last year at about the $80 billion-plus level for a total backlog for the Corporation.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Sam Pearlstein, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities, LLC - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [69]
+--------------------------------------------------------------------------------
+
+          Good morning.
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities, LLC - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Bruce, I was wondering if you could talk a little bit more -- you talked about the phasing just now of the orders you've done it on the cash flow. Can you talk a little bit about maybe the earnings as we go through the year, and then also the buyback activity? Should it be fairly ratable at this $600 million? And related to that, you mentioned the options exercise. Is there a point where we start to see the share count really move down when we get to the other side of those options? Is that this year?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP & CFO    [71]
+--------------------------------------------------------------------------------
+
+          Yes, let me try to hit all those for you, Sam. Overall, margins, we had a bit of a spike, probably not unlike what we did last year, frankly, as a Corporation. We came down from a pretty high first quarter and we dropped the next three quarters. A lot of that is just the phasing and timing of when we get some of our awards and some of our incentives on our contracts across all the business areas, so I would expect margins would be probably lower over the next three quarters.
+The second and third quarters will probably be similar to each other, whereas the fourth, we could have a little bit higher margin. So think of second and third running in the low 11%s, and maybe, as we sit here today, with the timing of our risk retirements, the fourth quarter could actually be in the high 11%s going forward. That's how we see it as we sit here today. Again, as I said on an earlier comment, if we pull some of those to the left or do higher adjustments than we have in our plan, obviously, we could get better than that or worse than that.
+The repo -- second part of your question -- the repo activity, we did $600 million in the first quarter. We would expect to do more in the second quarter. If I was to predict, I would say it's going to be maybe not twice as much as we did in the first quarter, but it wouldn't surprised me if we did as much as $1 billion or so in the second quarter, and then we will trail off maybe a little bit in the third and fourth. That's as we sit here today and a lot of that is based on the cash that was available on the balance sheet in the first quarter versus what we've got after the debt issuance in February that enables us to do that enhanced repos for the rest of the year.
+There about 900,000 options that were exercised in the first quarter. We started the year with about a little more than 6 million options outstanding. As I said earlier in the prepared remarks, we were expecting options actually to have a higher level of exercising than we experienced in the first quarter, so we're watching that closely.
+Last year, we did 3.7 million shares or 3.4 million shares. We're expecting in our guidance right now about 3 million for the year, so that will be the toggle switch as to whether or not we do higher or lower than that. The last thing I'll say on the option exercise is, you asked the question about would we expect to see a step function decrease and the answer is yes to that, Sam.
+As soon as the options have been exercised, there are no options replenishing those, if you will, so this is a diminishing number in our dilution equation, that once those 5 million options that are left are exercised, they will not be replicated by a like number of options going forward. The way I usually like to describe it is every single dollar share repurchase spent, once we're at that point where we no longer have options, will have a greater chance of actually reducing the share count of the Corporation.
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corporation - VP of IR    [72]
+--------------------------------------------------------------------------------
+
+          Karen, we have got time for one more question.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+          George Shapiro, Shapiro Research.
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Good morning. Marillyn, I just wanted to ask your strategy in the cyber world. You obviously Raytheon make a big acquisition yesterday in the commercial cyber world. You're a big player in this area. If you can just lay out what your strategy is?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [75]
+--------------------------------------------------------------------------------
+
+          Sure. I'd be happy to. It's an important area for us as a Company. For the past 20 years consecutively, we been the largest IT provider for the US government, and working for all the cabinet agencies on a range of IT, as well as cyber security. I like the portfolio we have around cyber security. We have a multi-decking track record with encryption, with data security solutions.
+We've centralized all of our cyber security in the IS&GS organization, and so in our go-to-market strategy, both within the US government, as well as commercial, that's where we're moving forward, we see incremental growth there. We've rolled out, and even internationally, as Bruce commented earlier, we have cyber security intelligence center in Farnborough in the UK; we've have got another one in Canberra, Australia; we have our own here in the US, so it's absolutely an important growth area for us. What's key to us is that we been doing cyber security long before they ever coined the term cyber security, so it's a very important growth area for us and one that we expect to continue to excel in.
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corporation - VP of IR    [76]
+--------------------------------------------------------------------------------
+
+          That wraps it up for the time. Let me turn it over to Marillyn for final comments.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [77]
+--------------------------------------------------------------------------------
+
+          Let me just conclude today -- I just want to reiterate that the Corporation has had another solid core and it's well-positioned to deliver even higher value to customers and stockholders in 2015. The ongoing execution of our employees, coupled with our growing cash generation, our strong backlog of work, and a solid balance sheet will continue to [prevail] our Corporation forward in 2015 and beyond. Thanks again for joining us today. We look forward to speaking with you on the next earnings call in July. Karen, that concludes our call today.
+
+--------------------------------------------------------------------------------
+Operator    [78]
+--------------------------------------------------------------------------------
+
+          Thank you. Ladies and gentlemen, thank you for your participation in today's conference. This does conclude the program and you may now disconnect. Everyone, have a good day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
