@@ -1,0 +1,660 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2011 Marriott International Inc Earnings Conference Call
+APRIL 21, 2011 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Arne Sorenson
+   Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging
+ * Carl Berquist
+   Marriott International - EVP and CFO
+ * Laura Paugh
+   Marriott International - SVP Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Joe Greff
+   JPMorgan Chase & Co. - Analyst
+ * Janet Brashear
+   Sanford C. Bernstein & Company, Inc. - Analyst
+ * Felicia Hendrix
+   Barclays Capital - Analyst
+ * Robin Farley
+   UBS - Analyst
+ * Jeffrey Donnelly
+   Wells Fargo Securities - Analyst
+ * Steve Kent
+   Goldman Sachs - Analyst
+ * Shaun Kelley
+   BofA Merrill Lynch - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Welcome to the Marriott International first-quarter 2011 earnings conference call.  Today's call is being recorded.  At this time for opening remarks and introductions, I would like to turn the call over to the Executive Vice President and Chief Financial Officer, Carl Berquist.  Please go ahead, sir. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [2]
+--------------------------------------------------------------------------------
+
+           Thank you, Melissa.  Good morning, everyone.  Welcome to our first-quarter 2011 earnings conference call.  Joining me today are Arne Sorenson, President and Chief Operating Officer; Laura Paugh, Senior Vice President, Investor Relations; and Betsy Dahm, Senior Director, Investor Relations.
+ As always, before we get into the discussion of our results, let me first remind everyone that many of our comments today are not historical facts, and are considered forward-looking statements under Federal Security laws.  These statements are subject to numerous risks and uncertainties as described in our SEC filings, which could cause future results to differ materially from those expressed in, or implied by, our comments.  Forward-looking statements in the press release that we issued last night, along with our comments today, are effective only today, April 21, 2011, and will not be updated as actual events unfold.  You can find a reconciliation of non-GAAP financial measures referred to in our remarks on our website at www.marriott.com/investor.
+ Let's get started.  In the first quarter we reported diluted earnings per share of $0.26, an 18% increase from prior year and consistent with our $0.24 to $0.28 February guidance.  For our fiscal first quarter, system-wide world-wide RevPAR rose 6.5%.  In North America, system-wide RevPAR increased 5.8%, just short of our 6% to 8% guidance.  If calculated on the basis of a calendar quarter, our North American system-wide RevPAR would have been up 6.8%, a full percentage point higher.  With strong demand and limited supply growth, most markets in the US reported significant RevPAR growth.  In contrast, Washington, DC, was weak, reflecting a significantly shortened congressional calendar, lower government per diems, and the lingering threat of a government shutdown.  With the recent budget settlement, business is already improving in DC.
+ New supply in New York also put pressure on RevPAR, although strong demand kept RevPAR growth in positive territory.  Across the US, the Marriott brand in the quarter for the quarter, group business was weaker than expected, but at the same time new group bookings made in the first quarter for later in 2011 were strong, up about 10% year-over-year.  We believe our first quarter group business shortfall was an anomaly rather than the start of a trend.
+ After reviewing our results, one might ask -- why was our first-quarter RevPAR growth lower than the Smith Travel.  Much of the difference is due to the different calendar period as I mentioned earlier.  In addition, we have a significant concentration of hotels in Washington where first-quarter demand was weak.  System-wide, 1 in 20 of our domestic hotels are in the greater Washington market, 2.5 times the industry's distribution.
+ Our exposure to group business is also considerably higher than the typical Smith Travel hotel.  The average company-operated Marriott brand total in the US is nearly 45% larger than the average upper upscale Smith Travel hotel, about 40% larger than the typical Sheraton, and 25% larger than the typical Hilton, and larger hotels have higher group mix.  Since group business tends to lag in an economic recovery, RevPAR improvement in our group hotels will likely lag as well.
+ Another difference from Smith Travel and most of our competitors is that Marriott reports RevPAR results on a comparable-store basis, not a same-store basis.  We exclude hotels from our RevPAR statistics that are impacted for the full year by meaningful renovations.  On a same-store basis, renovations can hurt RevPAR when construction is under way, but can yield outside year-over-year gains when construction is complete.  We choose to use comparable statistics to remove this volatility, and give a more accurate measure of system performance and demand trends.
+ Of course, sometimes renovations are too small to make a hotel non-comp for the full year, but still big enough to impact RevPAR results in a given quarter.  The renovation of meeting space and a small proportion of the guest rooms at the Philadelphia Marriott downtown reduced RevPAR growth for the North American company-operated Marriott brand by about 0.5 percentage point alone.  This property remained in our comp base because the renovation will be largely complete mid-year.  Renovations of Courtyard lobbies, also still in our comp base, reduce Courtyard company-operated RevPAR by about 1 percentage point, as 47 properties are under renovation this year compared to 30 hotels in the year-ago quarter.
+ Now some have speculated that we might be over-priced.  We have looked at our pricing trends in the first quarter, and feel that we're right on track.  We continually evaluate our pricing relative to competitors and market dynamics.  Without a doubt, Marriott led the way on price increases in 2010.  Today, however, competitors are raising rates as well.  Based on our market reviews, we are not over-priced.
+ Outside North America, constant-dollar RevPAR for comparable system-wide hotels rose 11.2% in the quarter.  Demand was very strong in Europe, Latin America, and most of Asia, but understandably weak in the Middle East and Japan.  House profit margins for our worldwide company-operated properties increased 30 basis points during the quarter, and house profit per available room rose over 6%.  International hotels benefited from very strong RevPAR growth, while the 30 basis point decline in North American margins was largely related to the impact of the New Year's holiday in this year's fiscal quarter when it was excluded from the year-ago quarter.  US margins were also hurt by higher state unemployment tax rates, higher sales and marketing costs, and timing of property-level bonus accruals.  We expect domestic house profit margins will increase 100 to 150 basis points, and international house profit margins will increase about 100 basis points for the full year.
+ Globally, fee revenue increased 9% in the quarter, including a 5% increase in incentive fees in this seasonally slow quarter.  Owned, leased, corporate housing and other revenues, net of direct expenses, increased 67% reflecting much stronger results from our owned and leased hotels in Germany, the UK, and St.  Thomas in the Virgin Islands.  Results also benefited from the impact of converting a hotel from leased to managed.  Results from our leased Ritz Carlton hotel in Japan declined $2 million alone in the quarter.  Branding fees associated with our corporate credit card were strong in the first quarter.
+ General and administrative expenses rose 15%, consistent with our guidance, reflecting expenses associated with growth in international markets, higher brand investment, higher accruals for incentive compensation, and tough comparisons to favorable items in the prior year's quarter.  Last year's G&A included the benefit of $6 million of guarantee reserve reversals and $2 million from collection of a receivable previously reserved.  Given that much of the increase in the first-quarter G&A were due to non-comparable items in the prior year, we expect the year-over-year increases in G&A to moderate later in the year.
+ For our Timeshare business, first-quarter contract sales were consistent with expectations.  Timeshare segment earnings exceeded expectations due to favorable reportability.  Our sales force continues to sign up existing owners to our new points product, and our average contract value continues to build.  We launched some special promotions near the end of the quarter to accelerate sales, and expect better segment earnings for the full year than previously guided in February.  Now we are on track with our Timeshare spin-off transaction.  We have forwarded our requests for a private letter rolling to the IRS, and we are in the process of arranging bank financing for the new company.  The Form 10 is under way, and we expect to file it with the SEC in June.
+ We currently expect the Timeshare business to pay a franchise fee to Marriott totaling approximately 2% of developer contract sales, plus a flat $50 million annually for the use of our brand.  The flat fee would increase periodically by an inflation adjustment.  At the end of the first quarter, the Timeshare segment had $3.2 billion in assets including $1.4 billion of inventory and nearly $950 million of securitized debt.  So the spin off will have a significant favorable impact on our balance sheet.  More financial information about the new company will be in the Form 10.  All in all, we are on track and confident that we will be able to close this transaction later this year.
+ Turning to guidance for the rest of the year, our international RevPAR growth is likely to slow from the first-quarter pace.  The 2010 World Expo will be a tough comp for our Shanghai hotels later this year.  For our 31 hotels in the Middle East and 10 hotels in Japan, we expect RevPAR to remain weak although we also expect modest improvement over the current levels later this year.  As a result, for the second quarter and the full year, we expect international RevPAR growth to total 5% to 7%.  Excluding the Middle East and Japan, we expect international RevPAR will increase by 8% to 10% in the second quarter, and 6% to 8% for the full year.  Today, we have significant group business on the books for 2011, and special corporate rate negotiations are complete with rates increasing consistent with our expectations.  We see strength in transient business demand, and continue to estimate 6% to 8% RevPAR growth for our North American system-wide hotels for the second quarter and the full year.
+ Now, let's take a look at the P&L.  Compared to our full-year guidance in February, today we expect our fees in Asia will be better than earlier anticipated, but will be more than offset by weakness in the Middle East.  On the owned, leased, and other line, we expect to benefit from stronger performance among our European owned and leased hotels, as well as a higher termination fee, but we also expect a $10 million decline in profit from Japan.
+ Our full-year outlook for G&A expense is up a bit, reflecting higher legal expenses, some prior-year bonus true-ups, and a delay in the favorable recognition of a completion guarantee.  In the second quarter we expect G&A will be impacted by higher costs in international markets as well as higher work-outs and legal costs.  Interest income for the full year is likely to be a bit lower than we anticipated, as we expect we will be repaid early on an outstanding loan.  Our share count is coming down quickly as we continue to take advantage of recent share price weakness to repurchase shares.
+ Turning to development, during the quarter we added 100 properties with over 14,000 rooms.  At quarter end, our development pipeline totaled over 95,000 rooms worldwide with nearly 39,000 rooms in international markets.  Just as many hotel companies take different approaches to measuring RevPAR growth, you'll find different approaches to measuring development pipelines.  We take a conservative approach, so you can be sure we have even more deals in the works than are reflected in our 95,000 rooms, but because of our approach, our accuracy in predicting unit openings has been quite high.  For example, at year-end 2006 our pipeline totaled 100,000 rooms and over the next 3 years we actually added just over 100,000 new rooms.
+ Looking ahead, with a growing proportion of room additions coming from conversions and last minute new unit flaggings, we believe our actual openings over the next 3 years are very likely to exceed today's pipeline.  Today, nearly 40% of our pipeline rooms are under construction, and over 10% are awaiting conversion.  We completed the purchase of a 50% interest in the AC Hotel joint venture during the first quarter, which added over 7,000 rooms to our system.  We expect to add another 1,700 AC rooms in the second quarter.  We plan to launch the AC Hotels by Marriott brand on all our booking channels next month.
+ For 2011 we expect earnings per share will increase 17% to 26% over the prior year adjusted EPS, assuming 6% to 8% world-wide system-wide RevPAR growth and roughly 35,000 gross room additions.  We anticipate EBITDA will climb 11% to 16% compared to last year's adjusted amount.  Now we haven't adjusted our earnings guidance for the pending Timeshare transaction, and are providing an earnings outlook assuming the businesses remain as is, unadjusted for pro forma changes for incremental expenses associated with the split of the Company.
+ We assume about $500 million to $700 million in investment spending in 2011, including $50 million to $100 million in maintenance spending.  We repurchased over 13 million shares for nearly $500 million year-to-date through this week.  We expect to remain aggressive given our recent stock price and substantial excess debt capacity.
+ With that, I will turn it over to Arne. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [3]
+--------------------------------------------------------------------------------
+
+           Thanks, Carl.  Good morning, everyone.  We made some news at the recent JPMorgan Lodging conference when we pre-announced our first-quarter RevPAR trends.  At the time, we didn't have the opportunity to explain in depth what we were seeing.  While in a perfect world we would have preferred to wait until this call so that we had more time to give you a full explanation, we believe that investors deserve to know what we knew in a timely manner.  We did not like the idea of participating in such a significant conference and having investors leave there expecting us to meet our RevPAR target when we believed that was unlikely.  Unfortunately as is often the case when full information is lacking, there were some who stepped in to speculate.  Frankly, I was mystified by some of the conclusions.
+ First, let's begin with market share.  Occasionally, you will hear someone represent recent RevPAR growth rates as a proxy for market share.  It goes something like this -- if brand A grows RevPAR by 8% and brand B grows RevPAR by 5%, then brand A must be taking 300 basis points of share.  This is so superficial as to be meaningless.  RevPAR growth statistics alone say little about market share.  As Carl discussed earlier, different geographic concentrations, group concentrations, and timing of renovations can have a material impact on RevPAR growth without a material impact on market share.  Similarly nonsensical is the statement that a brand is taking market share if its average index is higher as a result of deleting its worst-performing hotels.  Such a higher average index is math, not a result of any movement in market share.
+ So, let's talk about RevPAR index.  RevPAR index is compiled by Smith Travel Research and compares the absolute RevPAR of a particular hotel to the average RevPAR of its specific competitors in the same market.  It's not a perfect measure, as results can vary based on the selection of the hotels in the competitive set, and it doesn't identify performance of specific competitors, but it's the only way we have to evaluate an individual hotel's market share.  If the data shows a meaningful change in index, we look for an underlying cause.  Sometimes the property is coming out of a renovation.  Sometimes new supply has entered the market, and sometimes it's simply the economic cycle.  In an economic decline, stronger brands frequently increase their index as customers are able to find more than typical availability at their favorite hotel.  In an economic upturn, on the other hand, weaker brands tend to take share as customers are shut out of their favorite properties as sell-out nights increase.
+ Further, hotels with greater group concentrations tend to show increasing RevPAR index in weak economic climates when group business holds up better than transient, but in strengthening economies hotels with greater group concentration lag the market as they can't price-up as quickly as transient properties.  While RevPAR index can vary considerably from month to month, and business cycle to business cycle, each of our brands has a very strong RevPAR index.  Our high index reflects our strong locations, quality products, extensive distribution, popular frequent-traveler program, easy to use reservation channels, and of course, outstanding service both on and off property.  While we're not the only company to do well across many of these measures, in our opinion none of our competitors do as well as Marriott across so many programs, across so many markets, and across so many brands.
+ The performance of our newest brand, Autograph, is revealing.  In 2010 we added a collection of a dozen beautiful, mature, and well run hotels to the new Autograph collection, plugging them into the Marriott reservation system, frequent-traveler program, and back-of-the-house system.  While RevPAR index data is only available through February, for the months of December, January, and February, the 12 hotels increased RevPAR by 17% and increased RevPAR index by 11 points.  By the way, this significant increase is not reflected in this quarter's RevPAR growth rate because these hotels were not in our system in early 2010, and therefore we do not view them as comp hotels, even though obviously we know how they performed a year ago.  The bottom line performance of these hotels was even more impressive as they also paid a lot less to book each of those reservations.  Our brands and systems have delivered amazing value for these new owners.
+ So how is the Marriott Brand RevPAR index doing?  After adjusting for the renovation impact at just 2 large hotels, RevPAR index of our company-operated North America Marriott Hotels and Resorts brand hotels was flat in the 3 months ending in February, flat in February year-to-date, and flat in February alone.  This is gratifying because given our heavy mix of group business, we would not have been surprised to see our RevPAR index decline at this point in the economic cycle.  Looking over a longer period of time to capture both sides of the economic cycle, RevPAR index for the Marriott brand rose 1.6 percentage points over the last 2 years, and 2.8 percentage points over the last 3 years.  After evaluating all of the data, we conclude our brands are doing very well compared to our competitors.  Our customer satisfaction scores remain high, and our customers remain very loyal.
+ Now, speaking of our customers, over half of the occupancy in our hotels is touched by direct sales, largely through group meeting planners, corporate travel managers, and other intermediaries.  Several years ago, these customers told us that they wanted to deal with sales people who understood and could sell all of our brands, meeting all of their business needs including group, business travel, and extended stay.  We listened, and beginning in 2007 started rolling out sales transformation in the US, organizing our sales executives to be customer-centric rather than property-centric.  By reducing the number of property sales calls made to the same customer, we are calling on many times more customers.  That is, more sales calls to corporations, to associations, to religious organizations, even to sports teams.
+ While our sales staff at very large properties remain on property, we are booking most medium-sized group meetings, defined as 100- to 300-room nights, in centralized off-property sales offices.  Our sales efforts are more pro-active than ever before, with account managers able to sell the broad Marriott-managed portfolio from Fairfield Inn to Marriott Hotels and Resorts.
+ Under the industry's traditional sales approach, sales executives would be assigned a particular property or market, and would have little incentive to sell business at other hotels or in other markets.  Now, with incentives in place to sell across the system, sales executives are booking business in many different hotels far from the sales executive's typical market area.  In 2010, over $100 million of group revenue was booked outside the local market, and in 2011 we estimate this revenue will total nearly $150 million.  Not only is the system more productive, our customers prefer our approach and their feedback has been very favorable.  We are encouraged by the early results.  We are deployed in 37 states with the remainder to be completed this year.
+ It is important to note that sales transformation doesn't take all sales people off property.  For the largest group hotels serving the largest meetings, they continue to have a dedicated sales staff.  While over the past few years we have seen some start-up issues to be expected from such a change, the system is working.  Adjusting for renovations, RevPAR index at deployed, full-service hotels increased nearly 1.5% year-over-year in the last 3 months, and again, this is impressive given we would have expected RevPAR index to be lower given where we are in the business cycle.  We expect our total group market share will expand further as we bring the substantial power of this system to bear.
+ Sales transformation is the most recent example of Marriott innovation.  Years ago we were the first lodging company to introduce revenue management, and the first hotel company to offer Marriott brands, but perhaps our first innovation is our business model.  It permits rapid unit growth while still yielding impressive returns on invested capital.  We very much like today's opportunities in international markets, and we are aggressively pursuing such growth.  In just the last 12 months, we added over 100 hotels outside the United States, launched AC Hotels and Autograph in Europe, and announced the expansion of our Fairfield brand to Brazil and India.
+ Asia continues to be a fantastic growth opportunity for us.  So far in 2011, we have signed 12 new hotel deals in China and India, but we remain selective about sites, product quality, contract terms, development partners, and net present value.  All additional room additions are not created equal.  We are building the system of international hotels in the right markets with the right economics that will provide a solid foundation for successful long-term growth.
+ Our current portfolio of luxury and full-service hotels is impressive and produces tremendous cash flow.  We have been in the Washington market for over 50 years, and today we have a 33% market share of upper upscale and luxury rooms in our hometown.  We have been in New York for over 40 years, and today we have a 21% market share of the upper upscale and luxury rooms there, but our share of upper upscale and luxury rooms in other global gateway markets has reached impressive levels in much less time.  As recently as 1991, we had only a single hotel in each of London, Paris, and Hong Kong.  Today, in a highly fragmented industry, we have a 9% share of the upper upscale and luxury market in Paris, 16% share in London, 20% share in Hong Kong, 20% share in Beijing, 21% share in Shanghai, and a 40% share in Moscow, and we continue to grow our share in these valuable markets.
+ We have focused our development efforts on gateway markets because they tend to command the highest room rates, provide the strongest economics, and add the most value to a brand.  We do not set development goals blindly based on room counts.  We set our goals to create long-term shareholder value.  We invite you to visit our international hotels for yourself to see the quality of our products.
+ In the US also, there is still plenty of growth opportunity.  According to Smith Travel Research, Marriott has roughly 10% of total lodging rooms in the US, yet added nearly 14,000 rooms to its US system in the last 12 months, 20% more rooms than Hilton and nearly 4 times as many room openings as Starwood.  In fact, 1 in 5 hotel rooms opened in the US last year carries one of our brands.  Only the strongest brands can grow in the US today because only the strongest brands can attract capital and new owners.  In fact, since its launch 12 months ago, our newest Autograph collection brand added nearly 4,000 rooms, far ahead of its competitors, and Autograph is just starting in Europe.
+ During our recent analyst day we demonstrated how 5% to 9% RevPAR growth from 2010 to 2013 could generate 13% to 22% compounding annual EBITDA growth, and $3.3 billion to $5.3 billion of cash flow available to shareholders.  Our incentive fees are sensitive to RevPAR improvement, and our strong cash flow and strong brands also drive unit expansion.  We have never been more optimistic about our business, our underlying competitive strength, and our long-term growth potential.  We have been committed to an asset-light strategy for over 30 years.  Our decision to spin off our Timeshare business later this year will bring us closer to an ideal business structure with much higher return on invested capital.  Combining an attractive ROIC, rapid EBITDA growth, and very strong brands, we believe is a winning combination no matter how you measure it.
+ Now Melissa, we'll take any questions.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     Thank you.
+ (Operator Instructions)
+ Your first question is from Joe Greff of JP Morgan. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [2]
+--------------------------------------------------------------------------------
+
+     Good morning, Joe. 
+
+--------------------------------------------------------------------------------
+Joe Greff,  JPMorgan Chase & Co. - Analyst    [3]
+--------------------------------------------------------------------------------
+
+     Good morning, everybody.
+ Arne, Carl, thanks for addressing the market share RevPAR index topic up front.  Appreciate that.
+ Carl, when you look at North American group revenues, let's say for the second quarter through the end of the year, versus those revenue expectations or contributions from 3 months ago, would you say they're up, down, the same?  And then what we have been hearing more recently is that group bookings have accelerated fairly nicely over the last 4 or 5 weeks, if you can comment on that?
+ And then my second question is, Carl, how much are share buybacks?  Additional share buybacks are baked into the guidance, and if you can help us understand what the diluted share count was, the absolute diluted share count was at the end of the first quarter, that would be helpful?  Thank you. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [4]
+--------------------------------------------------------------------------------
+
+     Sure.  Let me take the group question first.  I think we have seen good group bookings for 2011.  In fact, in the first quarter our group bookings for the rest of 2011 were up 10%, and March was one of -- I think the second best months for group bookings that we have seen in the last couple of years.  So as you said, Joe, that is consistent.  We have seen strong bookings for the rest of the year for group, and as I mentioned in my prepared remarks, we think what we saw in the first quarter was more of an anomaly.
+ As it relates to share repurchase, as you know, our model is such that it generates strong cash flows and even after our capital expenditures of $500 million to $700 million this year, we'll have substantial excess capacity, debt capacity, and cash flow that we'll use for either opportunistic investment or back into the share repurchase.  As you saw, we were pretty aggressive in the first quarter and especially through today, given the current share price.  As it relates to the diluted shares, do we have that count there? 
+
+--------------------------------------------------------------------------------
+Laura Paugh,  Marriott International - SVP Investor Relations    [5]
+--------------------------------------------------------------------------------
+
+     The basic shares at quarter end were 363 million shares, and the dilution on average for the quarter was about 15 million shares, so if you wanted to get a quarter-end approximate fully diluted shares, you'd add those 2 together. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [6]
+--------------------------------------------------------------------------------
+
+     And we'll be filing our 10-Q tomorrow and that number will be there, in the 10-Q, Joe. 
+
+--------------------------------------------------------------------------------
+Joe Greff,  JPMorgan Chase & Co. - Analyst    [7]
+--------------------------------------------------------------------------------
+
+     Thank you, guys. 
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+     Your next question comes from Steve Kent of Goldman Sachs. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [9]
+--------------------------------------------------------------------------------
+
+     Hi, Steve. 
+
+--------------------------------------------------------------------------------
+Steve Kent,  Goldman Sachs - Analyst    [10]
+--------------------------------------------------------------------------------
+
+     Good morning.  I had just a couple questions.  I'll just rattle them off quickly.
+ One is, could you just talk about the $500 million to $700 million in investments spending that you at one point talked about?  Where you are on staging that for this year and whether it accelerates more next year?
+ And then I am interested on the Timeshare business.  The $50 million fee, how did you come up with that number, especially relative to an expectation of $215 million or $220 million of Timeshare sales?
+ And then the last question, and I think you started to address this, but I just wanted to get a better sense for it, which was the North American comparable company-operated house profit margins down 30 basis points, but then going to positive 100 to 150 for the full year.  Can you just again explain how that stages or how that rolls out over the year?  What levers or what ability you have to move it back up to a much more healthier profit margin? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [11]
+--------------------------------------------------------------------------------
+
+     Let me -- it's Arne.  Why don't I jump in at least a couple of these things, and Carl add on as you think appropriate.  I think on the capital spending, we have talked about this $500 million to $700 million figure for the last couple of quarters.  I think still probably the best bit of guidance for you when you look longer term is to look at the information we shared with you at our last analyst conference.  Obviously, with each passing year fewer and fewer of the dollars that we would model to invest in our business have been committed, and so there is higher level of guesswork, and certainly the actual investing activity depends on actual deals and our desire to pursue those deals.  I think, generally, the expectation would be that you would see a roughly flat level of investment spending in '11, '12, and '13, but that will be obviously driven by opportunities as they pop up.
+ On the Timeshare fee piece, we put in this release that it will be a $50 million fixed fee franchise fee with an adjustment for inflation over time plus 2% of sales.  And, really what we wanted to do when we structured this was to align the interests of the 2 companies so as to maximize their joint interest in seeing Marriott branded Timeshare business grow.  We will not be forbidding the stand alone Timeshare company from doing business that's not branded with our brands, and so we really wanted to be careful about not charging a marginal fee on their sales volume which would discourage them from growing with us.
+ And so that's really why we ended up with that 2% fee on sales, and I think the $50 million was also just a way of recognizing the tremendous value that the Marriott brand and the affiliation and the rewards programs and the other connection with our customer base has provided and will continue to provide for that business going forward.  And, of course, the branded aspects of the Timeshare business will remain exclusively dedicated to our customers and our people.
+ And then, lastly, on margins, it is an interesting comparison between Q1 US margins minus 30 basis points and full year of plus 100 to 150.  You've got a few things that are going on which are going to impact how those quarters compare.  Partly it's a question of the timing of accrual of incentive comp.  You will recall a year ago at this time in the first quarter we were really much more tentative about whether or not we would see a recovery.  We set up our compensation plans across the Company, this would be at both the hotel level and the corporate level.  So that more modest bonuses would be paid if we only achieved the budget, which was based on RevPAR numbers which essentially reflected the weakness, a little bit more of the weaker environment that we entered 2010 from.  And it was really only an upside performance, significant upside performance that would get managers back to a position where they made incentive comp they might have made in normal times.  And so, in the first quarter we were booking much lower levels of accruals for that incentive comp.
+ This year we're back to more of a normal environment.  We think this will come out as the year goes along because the ultimate potential is not higher, but we're booking those incentive comps relatively earlier.  Similarly, we got some squirrelly stuff going on.  We talk about our calendar quarter versus our fiscal quarter.  New Year's Day this year is in 2011 for us.  It was not in 2010.  That has both an impact on RevPAR, which is quite meaningful in the first quarter, not so terribly significant on a full-year basis and an impact on margins.  And then, obviously you look at the headline RevPAR number.  We would expect those RevPAR numbers to be stronger for the managed portfolio in Q2, Q3 and Q4 than they were in Q1 and that will have an impact on margins, too. 
+
+--------------------------------------------------------------------------------
+Steve Kent,  Goldman Sachs - Analyst    [12]
+--------------------------------------------------------------------------------
+
+     Okay.  Thanks very much and have a nice holiday weekend. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [13]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+     Your next question comes from Janet Brashear of Sanford Bernstein. 
+
+--------------------------------------------------------------------------------
+Janet Brashear,  Sanford C. Bernstein & Company, Inc. - Analyst    [15]
+--------------------------------------------------------------------------------
+
+     Thank you.  I think it's worth pointing out, too, that I am asking you this question from your beautiful Hotel Arts in Barcelona this week. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [16]
+--------------------------------------------------------------------------------
+
+     Outstanding. 
+
+--------------------------------------------------------------------------------
+Janet Brashear,  Sanford C. Bernstein & Company, Inc. - Analyst    [17]
+--------------------------------------------------------------------------------
+
+     Yes, it is very nice.
+ Anyway, I wanted to ask about -- more about the Timeshare spin off and what the growth strategy is going to be.  You said, and I think Steve said on the last call, that there aren't any initial plans to build new timeshare, but I wanted to think about how you might grow this business and attract capital as a growth business?  Will you appeal to other brands right from the get-go, and I say you, but obviously it is the new business.  Will there be an asset-light strategy similar to Wyndham?  Or -- I think Carl talked a little bit at the investment conference about maybe assimilating some orphan timeshare assets under the umbrella?  Could you just expand upon some of those strategies maybe? 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [18]
+--------------------------------------------------------------------------------
+
+     Sure.  I think as you look at the transition to the point system, you are putting the Company in a position where there is not a need to continue to do major development, new development, but instead can be much more efficient in growing the business.  And continuing to grow the business to the point system by either having the existing inventory, which we have about $1.4 billion where the inventory -- which about half is finished product on the books, so you have a long runway when you come out of the box for growth.  And, at the same time, as there is a need for new product to add to the system, the projects don't need to be as large to support a whole sales infrastructure.  Since you're selling points, you're selling all of the resorts at the same time, so the individual projects don't need to be as large.
+ I think those two things are going to work well in the favor to help with the gross story and at the same time reduce the need for a major capital investment in the system.  Right now, the business is generating positive -- what I would say positive cash flow from development in the sense that the cost or the product cost right now is greater than the capital you need to put back in the business and given the level of inventory that we have, I see that continuing in the near term. 
+
+--------------------------------------------------------------------------------
+Janet Brashear,  Sanford C. Bernstein & Company, Inc. - Analyst    [19]
+--------------------------------------------------------------------------------
+
+     Thanks.
+ Could you just talk -- Carl, do you see the business appealing to other brands at the outset?  I know if you go back to the Host Marriott spin originally it was Host Marriott and then it became Host, but it was a multi-year transition before it got into other brands.  What sort of timeframe do you see that going on with Timeshare?  And then is this asset-light strategy that Wyndham pursues something that this business might similarly adopt? 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [20]
+--------------------------------------------------------------------------------
+
+     I think as the Company gets out and grows and matures, it will develop different strategies relative to approaching the market and growing its product.  Whether or not it will be similar to Wyndham's asset-light model or instead as I mentioned smaller projects, controlled built by the Timeshare company, that we'll wait to see.  Also, whether or not there will be an acquisition mode or merger mode with other brands.
+ Again, I think in the -- as it first spins off it will tend to deal with what it has right now.  Like I said, we have plenty of inventory, about $1.4 billion on the books, but it will not be precluded from doing any type of mergers or acquisitions going down the road. 
+
+--------------------------------------------------------------------------------
+Janet Brashear,  Sanford C. Bernstein & Company, Inc. - Analyst    [21]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+     Your next question comes from Felicia Hendrix of Barclays Capital. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [23]
+--------------------------------------------------------------------------------
+
+     Good morning, guys. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [24]
+--------------------------------------------------------------------------------
+
+     Good morning. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [25]
+--------------------------------------------------------------------------------
+
+     So just a first question.  I know your visibility is pretty limited on the leisure customer, actually on most of your customers, but mainly also a lot on the leisure customer.  Just wondering what your expectations are for performance in that segment this summer just if gas prices persist where they are now. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [26]
+--------------------------------------------------------------------------------
+
+     Generally, we're pretty optimistic.  We obviously have seen gas prices move approaching $4 a gallon in most markets, some over, and I think are watching both gasoline and what that does to the drive market and also a little bit what that does to cost of the airline ticket.  Airline ticket has moved meaningfully, I think, particularly the marginal ticket for leisure traveler; and generally I think we're seeing that there has not been an impact from either the cost of the airline ticket or gas prices so far.
+ Maybe a more precise way of saying that is that whatever impact exists there has been swamped by the fact that the consumer is feeling more confident and therefore they're more active than they were a year ago.  So net-net, we still come out with growing leisure business, and I suspect we'll see that, that continues through the height of the leisure season this year.  That -- in other words, that whatever dampening under the surface may exist because of gas prices, we still have got a starter consumer net of that than we would have had a year ago. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [27]
+--------------------------------------------------------------------------------
+
+     That's encouraging.  Now, I might have misinterpreted something that you said, Carl, but you were talking about that property you were renovating in Pennsylvania, it had 0.5% of RevPAR impact, correct? 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [28]
+--------------------------------------------------------------------------------
+
+     Yes, Philadelphia. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [29]
+--------------------------------------------------------------------------------
+
+     Yes.  Philadelphia.  I was just wondering when that's done, what kind of benefit should that have on RevPAR? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [30]
+--------------------------------------------------------------------------------
+
+     Next year it should be great. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [31]
+--------------------------------------------------------------------------------
+
+     Should be great next year. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [32]
+--------------------------------------------------------------------------------
+
+     Great. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [33]
+--------------------------------------------------------------------------------
+
+     That's a classic.  Carl talked about this in generic sense, but essentially we don't -- we won't take a hotel out that's under renovations unless a material amount of the guest rooms are out as calculated on a full-year basis.  The Philadelphia hotel he talked about, the renovation basically has taken every square foot of function space out of commission, but has a very modest impact on available guest rooms, and so it doesn't trigger our non-comp thresholds even though in the first quarter because every square foot of meeting space was out.  That hotel significantly lagged its competitive set, which we anticipated in many respects, but has a real headline impact, surprisingly big for the Marriott brand. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [34]
+--------------------------------------------------------------------------------
+
+     As you compare to the Smith Travel numbers. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [35]
+--------------------------------------------------------------------------------
+
+     Right.  Okay.  Thank you.
+ And then on your SG&A you outlined in your release the drivers behind the increases, but you highlighted certain things.  I was just wondering if there is anything else in there that we should know about beyond additional spending for this Timeshare spin and international? 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [36]
+--------------------------------------------------------------------------------
+
+     One thing we have not put in our guidance -- the incremental costs of the Timeshare spend.  Our intention on that was to, as those numbers become material or meaningful, we'll point those out as we give you our earnings because as you can imagine, they will be onetime costs just related to the transaction itself. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [37]
+--------------------------------------------------------------------------------
+
+     Okay.  That's fair.  And the final question gets back to the fee that the Timeshare will be paying Marriott, the 2% plus the $50 million.  Is there any way to kind of translate that $50 million fee back into a percentage so we might be able to compare that more to, say, your -- the franchise fees that you get now? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [38]
+--------------------------------------------------------------------------------
+
+     You could look at the contract sales of the business and do the math, and I think we -- in addition to the things that we've talked about before, while there is not an overwhelming market here that we can turn to and say what's the model, it felt to us like a fee arrangement that was consistent with the kind of franchise fee approaching the lodging space.  Sort of market in that sense. 
+
+--------------------------------------------------------------------------------
+Felicia Hendrix,  Barclays Capital - Analyst    [39]
+--------------------------------------------------------------------------------
+
+     Okay.  The consistency is what I was trying to get to.  That's very helpful.  Okay.  Thank you very much. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [40]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+     Your next question comes from Shaun Kelley of Bank of America Merrill Lynch. 
+
+--------------------------------------------------------------------------------
+Shaun Kelley,  BofA Merrill Lynch - Analyst    [42]
+--------------------------------------------------------------------------------
+
+     Good morning. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [43]
+--------------------------------------------------------------------------------
+
+     Good morning, Sean. 
+
+--------------------------------------------------------------------------------
+Shaun Kelley,  BofA Merrill Lynch - Analyst    [44]
+--------------------------------------------------------------------------------
+
+     Just wanted to ask -- hit on international for a quick second.  Obviously, your guidance contemplates a fairly big sequential step down, but the first quarter still came in a little better than I think guys you were anticipating, so I guess I am wondering on a core basis, kind of excluding the Middle East and Japan impact.  I would think with a strong Euro you guys should actually benefit a little bit from that going forward, so trying to understand -- are your expectations on kind of the ex-Middle East and ex-Japan piece lower in the back half at all, given, is there anything else that you are seeing out there right now in the international side? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [45]
+--------------------------------------------------------------------------------
+
+     Generally, I would say that our expectations ex-Japan and ex-Middle East are higher than they were a quarter ago, modestly, and that's basically on strength in Asia and strength in Europe.  And, so under the Company guidance we gave you, you get to the next level of detail, and basically we, compared to a quarter ago, we're losing probably a full $0.03 a share, something like that based on the Middle East and Japan, and Middle East of course are -- the most hard hit markets will be Egypt and Bahrain.  Japan obviously has been devastated by what it suffered about a month ago or 6 weeks ago, and we anticipated none of that.  There was a little bit of impact in Q1 from those things, but really not very significant.
+ To some extent we would see relatively greater strength in Europe and Asia as mostly offsetting those which is why we're more or less at the same place on earnings for the full year, and mostly in the same place as far as it relates to RevPAR guidance.  We do have some issues that we're going to wrestle with that we have long known and have been factored into our guidance, but you look at Shanghai, for example, where we've got 21% I think I said of upper upscale and luxury supply.  Increasingly, in the second quarter and in the third, we'll have tough comparisons in that market because of the World Expo last year, and so those will result in lower headline numbers, but still underneath that, the business conditions are very good and encouraging. 
+
+--------------------------------------------------------------------------------
+Shaun Kelley,  BofA Merrill Lynch - Analyst    [46]
+--------------------------------------------------------------------------------
+
+     That's helpful.  And then I guess to go back to the G&A piece, and I know this has been answered a couple of different ways, but as we're looking through the numbers, with now the first and second dollar numbers that you guys have provided, it actually implies that I think your expense dollars are negative in the second half.  And I am just wondering since you probably have some full-year investments as it relates to the building out some of the international stuff, is that realistic and is it really just the difference in timing of accruals?  I know you had a big one in the fourth quarter of last year that you'll lap, but just wondering if we can get more clarity on that? 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [47]
+--------------------------------------------------------------------------------
+
+     You have to be careful.  Some of the one-time items that we called out in the previous earnings releases that we have done, and even this quarter, the first quarter we had some as we called out some one-time items last year that were benefits that caused some of the variances, and so you have to be careful there.
+ The other thing that is happening is, as Arne pointed out, on the margins at the hotels, the G&A also has the effect of our compensation, our incentive compensation.  Where in the first quarter, we weren't recording the accruals as high last year as we are this year, and then we stabilized them later in the year, so those variances are in there as well. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [48]
+--------------------------------------------------------------------------------
+
+     This is really repeating something that Carl said, but if you look at core G&A this year compared to last year and just for whatever reserves were dealt with last year, whatever else is coming through the model, and getting directly to your question, G&A will be up year over year.  And I think we talked about 3% to 5% growth in G&A a quarter ago.  We would probably tend to today believe that the core G&A rate is probably about the same, maybe towards the higher end of that range.
+ And that's driven by the things we referred to in the script.  A bit of that is investing in international growth, which we're really excited about, but we are adding people and we have got some initiatives under way to do things like the Fairfield brand in India and Brazil, and elsewhere and those things are expensive, and then some other investing in the brands which we are stepping up a bit.  Those would be the primary drivers beyond the normal inflation factors of compensation and the like. 
+
+--------------------------------------------------------------------------------
+Shaun Kelley,  BofA Merrill Lynch - Analyst    [49]
+--------------------------------------------------------------------------------
+
+     That's great.
+ My last question is on the incentive fees.  This quarter they were only up a couple percent.  I know there is a little -- there's a lot of seasonality in that, and you may have to rebuild a little bit of base there before we can recognize some of those fees as well.  So, kind of wondering, though, with New York and DC having some issues and some of the supply issues pretty good in New York not going away, wondering if there has been any change to the trajectory of -- I think you guys said something like 20% growth on a year-on-year basis was contemplated in the full-year guidance coming into this year.  Has there been any real change to that?  And, that's it for me. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [50]
+--------------------------------------------------------------------------------
+
+     Remember -- Carl, jump in here -- by the first quarter you've got the law of small numbers, so the total dollars of fees from the first quarter is not that significant which has a significant impact in those percentages.  I think the one thing that has changed would be something like Egypt and the Middle East, generally, so the numbers are not huge, but we're talking about $10 million or so incentive fees that compared to a quarter ago we could not achieve in 2011 because of the turmoil in those markets.  And you can do the math on what you would expect the full year number to be, but that's a number of points of growth year-over-year. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [51]
+--------------------------------------------------------------------------------
+
+     Yes, so just add on to what Arne said.  The other thing is, as we mentioned in the first quarter, Washington, DC was soft, and we do earn incentive fees in Washington, DC, and we would expect that to grow back as the year goes along.  And so, given the Middle East that Arne talked about and the little bit on Washington, DC, we'll probably be between 15% and 20% in incentive fees. 
+
+--------------------------------------------------------------------------------
+Shaun Kelley,  BofA Merrill Lynch - Analyst    [52]
+--------------------------------------------------------------------------------
+
+     That's great.  Thanks, guys. 
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+     Your next question comes from Robin Farley of UBS. 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [54]
+--------------------------------------------------------------------------------
+
+     Thanks.  A couple questions.
+ First is, thinking about the impact of how groups lagged the recovery -- 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [55]
+--------------------------------------------------------------------------------
+
+     Robin, can you get closer to the phone? 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [56]
+--------------------------------------------------------------------------------
+
+     Sure.  Is that better? 
+
+--------------------------------------------------------------------------------
+Laura Paugh,  Marriott International - SVP Investor Relations    [57]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [58]
+--------------------------------------------------------------------------------
+
+     Thinking about the impact of how group lags the recovery, looking at your group business in 2011, can you give us some color around how much was booked before 2011 versus what you expect to be booked in the period, and similar looking out to 2012? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [59]
+--------------------------------------------------------------------------------
+
+     You know, we got interrupted in this room, Robin.  Hate to do this twice.  Will you repeat that one more time? 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [60]
+--------------------------------------------------------------------------------
+
+     Okay. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [61]
+--------------------------------------------------------------------------------
+
+     Sorry. 
+
+--------------------------------------------------------------------------------
+Laura Paugh,  Marriott International - SVP Investor Relations    [62]
+--------------------------------------------------------------------------------
+
+     Hard to hear. 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [63]
+--------------------------------------------------------------------------------
+
+     Looking at how the group business lags the recovery, generally, if you could just give us some color to help think about the impact?  How much of your group business for 2011 was booked before this year versus what you expect to come in the year and how that also looks for 2012? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [64]
+--------------------------------------------------------------------------------
+
+     Yes, so it varies, obviously, by hotel and by size of meetings, so the biggest group hotels are going to tend to have the longest lead time in terms of their group bookings, and they could easily be starting a year like 2011 with 75% of the group business that's been booked in prior years.  Hotels, which have group business but tend to have smaller more corporate meetings, probably would have a meaningfully smaller percentage of that.  I think on average for the Marriott brand we would say, it is in the 65% range, something like that of group bookings that would be on the books at the beginning of the year for that year.
+ In many respects, it's not at all surprising.  You look at something like association business as an example.  2011 is the time when that association business that would have been booked in the heart of the recession when we were all sitting at our coffee pots and wondering about the financial meltdown and watching Lehman Brothers and all the rest of that.  That was the time when the big association meetings which would be held in 2011 would have been put on the books, some meaningful percentage of them, and so in a sense we are suffering the consequences in the group space for that recession now in 2011.  I think as we look at the way group bookings are coming in, we are quite gratified and in fact they show that the recovery is taking place in that space, too.
+ To be fair, our bookings in January and February were stronger than they were in March.  We're not entirely sure that we can give you an explanation for that right now, but you look at the last number of months and you even look at the way things are going now, we feel really good about the way group business is coming back.  That will, obviously, ultimately pay benefits in the balance of 2011, but also 2012 and 2013 as well. 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [65]
+--------------------------------------------------------------------------------
+
+     And then, also on your international business, you talked about growth rates in Q2 and full year, implying a slowdown in growth rate in the second half, excluding even Japan and the Middle East.  Is that moderating growth, is that all Shanghai or anything else in there that would make that growth rate slow down in the second half? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [66]
+--------------------------------------------------------------------------------
+
+     Shanghai would be the most significant, I think, nothing else that I think we would call out.  I suppose on average, you've got comps that get a little tougher as the year goes along that could be a piece of it, but generally we're not building in an expectation of moderating economic performance in those markets. 
+
+--------------------------------------------------------------------------------
+Robin Farley,  UBS - Analyst    [67]
+--------------------------------------------------------------------------------
+
+     Great.  Thanks. 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [68]
+--------------------------------------------------------------------------------
+
+     You bet. 
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+     Your next question comes from Jeffrey Donnelly of Wells Fargo. 
+
+--------------------------------------------------------------------------------
+Jeffrey Donnelly,  Wells Fargo Securities - Analyst    [70]
+--------------------------------------------------------------------------------
+
+     Good morning, folks. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [71]
+--------------------------------------------------------------------------------
+
+     Good morning. 
+
+--------------------------------------------------------------------------------
+Jeffrey Donnelly,  Wells Fargo Securities - Analyst    [72]
+--------------------------------------------------------------------------------
+
+     I am not so lucky.  I'm only looking at a Marriott hotel in Boston, not visiting one.
+ Actually, a question on capital allocation.  I am just curious how do you think about the appeal of further share repurchases versus co-investment in say, conversion of distressed hotels, other opportunities on your plate?  How do you tier up that menu and just given recent purchases, is it fair to say share repurchases are the top of that right now? 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [73]
+--------------------------------------------------------------------------------
+
+     No.  I think as we look at it, as we have stated in the past, first and foremost we want to invest in our business, and we're going to be disciplined about that.  And we're going to make sure that we can get the returns that we think are appropriate given our cost to capital, but even after we set aside, as we mentioned in our call, the $500 million to $700 million, the model still generates significant cash flow above and beyond that.
+ Now, would we use that money for opportunistic investment?  Absolutely, if in fact we felt that it gave the Company sufficient returns and relative to, like I said, our cost to capital.  Even with that said, we'll have substantial cash left and as we have done in the past, we return that to shareholders, either through dividends or share repurchase and we like share repurchase given our ability to move the lever, so to speak.  I think we'll continue with that same philosophy for the rest of this year and going forward. 
+
+--------------------------------------------------------------------------------
+Jeffrey Donnelly,  Wells Fargo Securities - Analyst    [74]
+--------------------------------------------------------------------------------
+
+     And then, thank you for touching on the sales force initiatives in your remarks.  We had heard from some owners though that the early data points on the rollout of Sales Force 1 had been a bit uneven with large groups and large group hotels benefiting more than say small group bookings.  Can you repeat for us where are you in the rollout, when you think the remainder of the rollout happens this year?  I just am curious from a timing standpoint.  I guess how do you respond to the concern that some segments of the business have been disproportionately impacted or benefited?  Is that a fair statement? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [75]
+--------------------------------------------------------------------------------
+
+     Yes.  I mean, this is a bunch of questions there.  Let me try to make sure I hit them all.  We are, I think I said in the prepared remarks, 37 states have been rolled out.  The balance of the US will be rolled out by mid-year 2011.  While, for the biggest hotels, there are still sales people on property, this is -- and to some extent, we have had above property -- we've had booking centers and other sales efforts that we have used for a number of years.  This is still a significant change in the way we're arrayed against our customers as opposed to arrayed by hotel, so it takes awhile for these markets to stabilize and to make sure that we've got true comparisons.
+ We are obviously in active conversation with our owners and franchisees about the way this program is going.  You're talking about hundreds and hundreds of hotels that are impacted by it.  There hasn't been a program that we have ever done that applies 100% positively for every single hotel, and so we've been tweaking and calibrating, and doing some other things, but generally what we're seeing is encouraging in the sense that we're taking meaningful market share where we're stabilized.  I didn't talk about this, but when you get to a large collection of hotels, in every given year market share is moving up and down for many hotels in the portfolio, and so when we're taking share, we may be seeing 55% of the hotels going up and 45% of them going down.
+ Every hotel's got its own story, and that story is driven by renovation activity, product quality, new supply in a market, what's happening with renovations with competitors, and of course, the inherent brand strength and the like.  What we're seeing it with this sales transformation, though, is a meaningfully higher number of hotels are taking share with the stabilized markets and again our customers are giving us good feedback.  We'll continue to be very carefully talking with our owners and working this through, and we don't want to sit here this morning and say that we're done and that victory is totally accomplished, but we're really encouraged by the way this has gone so far.  And feel like, ultimately, this will prove to be what we anticipate which will be a very powerful driver of market force and enhanced customer loyalty and customer market share. 
+
+--------------------------------------------------------------------------------
+Jeffrey Donnelly,  Wells Fargo Securities - Analyst    [76]
+--------------------------------------------------------------------------------
+
+     If I could get just one last question.  Do you have an ability to talk about bookings, booking pace, that you have seen recently by group size?  I am just curious for larger versus smaller meetings, whether it is a greater number of meetings, room nights, or anticipated attendance, have you seen some inflection there? 
+
+--------------------------------------------------------------------------------
+Arne Sorenson,  Marriott International - Pres, Chief Operating Officer and Pres of Continental European Lodging    [77]
+--------------------------------------------------------------------------------
+
+     I don't think we're really seeing much change.  I think, generally, we are seeing still not much of a lengthening in the booking window, so I think group customers -- yes, some big meetings maybe are coming back on the books that wouldn't have been booked certainly a couple of years ago, but compared to a few months ago I wouldn't say that there is anything that's meaningful shift. 
+
+--------------------------------------------------------------------------------
+Jeffrey Donnelly,  Wells Fargo Securities - Analyst    [78]
+--------------------------------------------------------------------------------
+
+     Great.  Thank you. 
+
+--------------------------------------------------------------------------------
+Carl Berquist,  Marriott International - EVP and CFO    [79]
+--------------------------------------------------------------------------------
+
+     Well, I think that's it.  We've hit our allotted time here, so we really thank you all for your interest in the stock and as we've always said, keep on traveling.  Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+
+     Thank you for participating in today's conference.  You may now disconnect.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

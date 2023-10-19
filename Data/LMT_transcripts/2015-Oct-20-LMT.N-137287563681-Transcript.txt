@@ -1,0 +1,561 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2015 Lockheed Martin Corp Earnings Call
+OCTOBER 20, 2015 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marillyn Hewson
+   Lockheed Martin Corporation - Chairman, President, CEO
+ * Jerry Kircher
+   Lockheed Martin Corporation - VP IR
+ * Bruce Tanner
+   Lockheed Martin Corporation - EVP, CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jason Gursky
+   Citigroup - Analyst
+ * Rich Safran
+   Buckingham Research Group - Analyst
+ * Pete Skibitski
+   Drexel Hamilton - Analyst
+ * Myles Walton
+   Deutsche Bank - Analyst
+ * Ron Epstein
+   BofA Merrill Lynch - Analyst
+ * David Strauss
+   UBS - Analyst
+ * Carter Copeland
+   Barclays Capital - Analyst
+ * Rob Spingarn
+   Credit Suisse - Analyst
+ * Noah Poponak
+   Goldman Sachs - Analyst
+ * Seth Seifman
+   JPMorgan - Analyst
+ * Sam Pearlstein
+   Wells Fargo Securities - Analyst
+ * Peter Arment
+   Sterne Agee CRT - Analyst
+ * Doug Harned
+   Bernstein - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, ladies and gentlemen, and thank you for standing by. Welcome to the Lockheed Martin third-quarter 2015 earning results conference call. Today's call is being recorded.
+At this time for opening remarks and introductions I would like to turn the call over to Mr. Jerry Kircher, Vice President of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corporation - VP IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Karen, and good morning, everyone. I'd like to welcome you to our third-quarter 2015 earnings conference call. Joining me today on the call are Marillyn Hewson, our Chairman, President, and Chief Executive Officer, and Bruce Tanner, our Executive Vice President and Chief Financial Officer.
+Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the Safe Harbor provisions of federal securities law. Actual results may differ. Please see today's press release and our SEC filings for description of some of the factors that may cause actual results to vary materially from anticipated results.
+We have posted charts on our website today that we plan to address during the call to supplement our comments. Please access our www.LockheedMartin.com and click on the Investor Relations link to view and follow the charts.
+With that I'd like to turn the call over to Marillyn.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Jerry. Good morning, everyone. Thank you for joining us on the call today as we review our financial results and key accomplishments in the quarter as well as provide a status update on the strategic initiatives we announced during our July earnings call.
+As today's release illustrates, we continue to drive towards achievement of our full-year goals with another quarter of solid operational accomplishments and financial results that exceeded our expectations. This outstanding year-to-date financial performance enabled us to again increase full-year 2015 guidance for sales, operating profit, and earnings per share.
+In addition to the increase to guidance, we've reaffirmed the prior 2015 outlook for full-year orders and cash from operations. Overall, the Corporation continues to excel in the attributes we most value: providing critical solutions to customers and returning value to stockholders.
+Looking beyond this year into 2016, we have provided our preliminary trend outlook of selected financial metrics and assumptions. I wish to note that these trends reflect a continuation of our current portfolio. We have excluded any impacts of the pending Sikorsky Aircraft Corporation acquisition or the strategic review of our information technology infrastructure services and technical services businesses.
+In addition to the open elements resulting from these pending strategic actions, there is continuing uncertainty about the final level of fiscal-year 2016 DoD and federal budgets. The government is currently operating under a short-term Continuing Resolution that limits expenditures to prior-year fiscal levels; and this carries through December 11, 2015. With a large portion of our backlog work already funded from prior fiscal years, we do not expect significant impacts to our 2016 financials from this current short-term CR.
+There are multiple and differing budget scenarios proposed by the White House and Congress for FY16 budgets. Significant differences remain between the proposed budgets in the areas of funding sources and the potential use of increased overseas contingency operation funds for DoD.
+Reconciliation of the different DoD budget positions remains unresolved and could remain this way for some time. We hope that this is not the case, as it is not in the nation's interests. A substantial delay would require an extension of the CR to enable continuation of government operations beyond December 11.
+While we think it unlikely, a Continuing Resolution and its associated budget constraints could be extended for the full FY16 year should the varying budget positions remain unresolved. In the event of a full-year CR, we would anticipate some level of impact against our 2016 orders profile and corresponding backlog levels.
+We continue to urge bipartisan negotiation and resolution of the FY16 budgets to remove the uncertainty associated with nonstrategic, short-term government funding actions. We will provide updates to our 2016 outlook as additional clarity on federal budgets and finalization of our strategic actions occur.
+While Bruce will cover the financials in detail a little later, I want to particularly highlight our continued exceptional cash generation. This quarter we achieved over $1.5 billion in cash from operations, bringing September year-to-date cash generation to over $3.7 billion.
+Also during the quarter, our Board of Directors approved two key actions in the areas of cash deployment. First, we increased the quarterly dividend to $1.65 per share and $6.60 annually. This action represents the 13th consecutive year that the dividend rate has been increased by double-digit percentages.
+Second, we also increased the share repurchase authority by $3 billion, bringing total repurchase authority to over $4 billion. This level of authority provides additional flexibility to continue to make share repurchases consistent with our plan to have less than 300 million shares outstanding by the end of 2017, if market conditions and our fiduciary duties permit. These projected share repurchases, coupled with dividend payments, are expected to result in our returning the vast majority of annual free cash to stockholders through 2017 and continuing our long-standing strategy of disciplined cash deployment and value creation.
+Moving to operations, while numerous mission success events were achieved across the Corporation this past quarter, I wish to highlight some noteworthy achievements on the F-35 Joint Strike Fighter program in our Aeronautics business. On JSF, we were extraordinarily pleased with the achievement of initial operational capability for the F-35B variant in July. The declaration of IOC by the US Marine Corps makes it the first F-35 variant available for combat operations and achieves an enormous milestone for the program.
+Other key F-35 milestones accomplished this quarter included a number of firsts on the program, including the inaugural European flight of the first F-35 assembled in Italy's final assembly checkout facility. This marked the first time the jet has flown outside of the United States. Additionally, rollout of the first F-35 aircraft for the Norwegian Armed Forces was accomplished this past quarter, marking an important production milestone for the future of Norway's national defense.
+Beyond these key milestones, aircraft production continues to ramp up, and we are on track to achieve deliveries of approximately 45 aircraft in 2015, representing 25% higher aircraft deliveries than were achieved in 2014. Since program inception, we have delivered 140 production aircraft to our US and international partners.
+The F-35 program continues to expand and is now generating approximately 20% of annual Corporate revenues. This figure is expected to grow over the next few years as production rates increase for deliveries to US and international customers.
+I'd like to briefly turn to a status of the two strategic actions we announced back in July. First, the acquisition of Sikorsky Aircraft Corporation continues to progress through the regulatory review process. Competition-based regulatory reviews have been completed in seven jurisdictions, importantly including the United States where we and Sikorsky have the most activity. The sole remaining such review is ongoing in China, which we are expecting to clear without difficulty.
+Other regulatory activities such as licensing and permitting continue in process. We have previously announced that we expected to close the acquisition in either the fourth quarter of 2015 or in the first quarter of 2016; but with the progress of the regulatory reviews we now expect to close in the fourth quarter. We very much look forward to adding the men and women of such an outstanding company to the Lockheed Martin team, where we will continue to make history together.
+Regarding our second action, the strategic review of our government information technology infrastructure services and technical services businesses, we continue to evaluate multiple options ranging from a spinoff to shareholders, a reverse Morris Trust transaction, or a sale of these businesses. Exploration of these options is intended to ensure that these businesses are best positioned to address competitive pressures in what is becoming an increasingly difficult environment, by improving the affordability of their products and services. This should benefit customers, our stockholders, and the employees.
+On that note, I particularly wish to thank the affected employees for their continued focus and outstanding performance while we evaluate the strategic review options. I believe we are on course to complete the strategic review in 2015, and we will provide an update on our action plan when the final decision is completed.
+I'll now ask Bruce to go through the details of third-quarter and full-year financial performance and our 2016 financial trend preview, and then we'll open the line for questions.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Marillyn. Good morning, everyone. As I highlight our key financial accomplishments, please follow along with the Web charts that we included with our earnings release today.
+Beginning with chart 3, we have an overview of our third-quarter results. Sales for the quarter were $11.5 billion ahead of our expectations when we spoke in the second quarter. Our segment operating margin was also better than expected in the quarter at 11.9% and enabled us to achieve earnings per share of $2.77.
+Cash from operations in the quarter was strong at $1.5 billion and reflects an earlier phasing of cash in the second half of the year than we had planned. Our cash deployment actions in the quarter remained strong, with $1.3 billion of cash return to shareholders, including more than $800 million in share repurchases.
+Based on these results, we are increasing our full-year outlook for sales, segment operating profit, and Earnings-per-share. So we continued to perform well in 2015 and are positioned to end the year better than we expected when we began the year.
+On chart 4 we compare our sales and segment operating margin in the third quarter with our results in 2014. Sales were higher by about 3% compared with the third quarter of last year, with the growth driven by the F-35 program in Aeronautics and the ramp-up of new programs in Mission Systems and Training. Segment operating margin was slightly lower in the quarter, at 11.9% versus the 12.1% we experienced last year.
+Space Systems had good performance in the quarter, but could not equal the results from the third quarter last year, which were the highest of any quarter in 2014. Improved performance in Aeronautics and Mission Systems and Training helped to bring the overall margin this quarter to near the results in 2014.
+Chart 5 compares our earnings per share this quarter with our results from a year ago. Our EPS of $2.77 was $0.01 higher than the results from last year; but the results this quarter included a negative $0.08 impact from a severance charge associated with IS&GS.
+If you'll turn to chart 6, we'll review our share repurchase activity for the quarter and year to date. During the quarter, we repurchased more than 4 million shares for $823 million, bringing our year-to-date total to 12 million shares repurchased for $2.4 billion. Both the quarter and year-to-date totals significantly exceed our levels from last year, and we are now expecting to spend at least $3 billion for the full-year 2015, keeping us on track to bring our share count below 300 million by the end of 2017.
+Chart 7 provides details into our total cash returned to stockholders through the end of the third quarter. Through dividends and share repurchases during the first three quarters, we have provided nearly $3 billion in cash to our stockholders, or 117% of our free cash flow through the same period. As you can see, this is significantly higher than our actions in 2014.
+On chart 8 we discuss our updated outlook for our full year of 2015 results. We are not changing our guidance for orders at this time. We continue to expect that the fourth quarter will have the highest level of orders in the year, with a number of large digital events such as the finalization of the C-130J Multiyear and F-35 LRIP 9 contracts and the award of the Long Range Strike Bomber program.
+Depending on the timing and ultimate value of some of the expected orders in the quarter, we could end the year in excess of the high end of our guidance, but remain confident that under the most likely scenarios we will end the year with $80 billion or more of backlog.
+Because we have increasing clarity on the year, we are providing point estimates rather than ranges for the remaining metrics. Beginning with sales, we are increasing our outlook to $45 billion, the high end of our previous outlook, reflecting higher than expected sales in Aeronautics and Space Systems for the full year.
+For segment operating profit, we are increasing our outlook to $5.4 billion, $25 million above the high end of our previous guidance, recognizing stronger performance across the business areas. We are also increasing our earnings-per-share outlook, the top end of the prior guidance, as a result of the increased profit outlook.
+And we are leaving our cash from operations outlook unchanged at equal to or greater than $5 billion, but there are several large collections that could push that number higher or lower than our expectations depending on their timing. These include the collections associated with the contract finalizations that I mentioned earlier as well as the timing of deliveries in December.
+Chart 9 provides our sales outlook by business area for the year, also with point estimates for each of the business areas rather than the ranges we provided in the prior outlook. Both Aeronautics and Space Systems are now above the prior high end of our guidance for sales.
+Chart 10 shows our current outlook for segment operating profit by business area compared with what we were expecting last quarter. You can see that our current outlook for each business area is equal to or better than last quarter's outlook and results in the increase to $5.4 billion.
+On chart 11 we provide our first outlook information for 2016. We expect sales next year will be comparable to the current outlook for 2015, but it is driven primarily by two business areas moving in opposite directions: Aeronautics and IS&GS. Aeronautics is expected to grow at a high-single-digit rate over 2015, while IS&GS is expected to decrease in 2016 by an even greater rate.
+Sales for the other three business areas combined are essentially comparable to their 2015 levels. Without the reduction in IS&GS we would expect the remaining portfolio to grow about 2% over the 2015 level.
+Segment margin will likely be in the 11% to 11.5% range, with the reduction from this year's level attributable to several items. First, the F-35 program will grow more than double digits above the 2015 level; and while the margin for the program is expected to be higher in 2016, it is still dilutive to both the current level of Aeronautics margin and the overall Company's margin.
+Second, we are seeing a reduction of margins on recently negotiated programs such as C-130J, air missile defense programs, and others after several years of strong performance. We've also made a number of important strategic bids that were highly competitive but which offer long-term value creation.
+Third, we are expecting reductions in revenue for some of our programs such as GMLRS, ATACMS, Javelin, and Fire Control programs as in-theater demand slows down from 2015 levels. These programs experienced unplanned demands from OCO funding that enabled better than historical margin levels in recent years.
+At this time we expect our FAS/CAS benefit to be $810 million next year, which assumes a discount rate of 4.25% and zero return on our assets in the current year. These obviously can both change between now and year-end, but that's where we see them today.
+Our cash from operations should be comparable to 2015, and we do not expect to make any contributions to our pension plans next year. And, in line with our plan to reduce share count below 300 million by the end of 2017, we expect to make share repurchases of greater than or equal to $2 billion in 2016.
+Importantly, please note that this outlook excludes both the Sikorsky acquisition and any actions related to our businesses under strategic review.
+Finally, on chart 12 we have our summary. We've had strong performance through the first three quarters of the year and we expect a strong close to 2015. We're maintaining our focus on the cash deployment actions that you've come to expect from us, and we continue to like how our portfolio positions us for the future.
+Before closing I also wanted to make a few comments about the strategic actions that we announced last quarter. As Marillyn said, we expect to reach a decision on the path forward for our businesses under strategic review before the year-end and will communicate that decision to you then. And when we outline our formal guidance in January for 2016, we will provide that guidance in a business area structure that will reflect all businesses under strategic review in IS&GS, including the technical services business for Missiles and Fire Control, and the realignment of the remaining businesses from IS&GS into Mission Systems and Training and Space Systems.
+With that, we're ready for your questions. Karen?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Jason Gursky, Citi.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, everyone. Bruce, I just wanted to dive a little bit deeper on the margin outlook for 2016. There were a couple of things that you mentioned, C-130, air missile defense, and then some strategic bids. But I would like you to offer a little bit more color on each of those.
+C-130 and air missile defense, have those been definitized at this point? Or are we still waiting for that to happen?
+And on the strategic bids, can you just walk us through what segments those are impacting and just the competitive dynamics that are going on there?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [3]
+--------------------------------------------------------------------------------
+
+          Yes, that's a mouthful there, Jason. Let me try to cover all these things.
+So margins, we talked about C-130, air missile defense, and some other programs. C-130, we're just coming off of a number of contracts that were negotiated essentially the same time frame, and we're about to start delivering next year actually the first aircraft associated with the Multiyear contract that -- we've just reached the handshake agreements here within the last couple of weeks.
+As you can imagine, we've done very well based on our previously reported results on those aircraft programs; but it's a reset, if you will, when you start negotiating the next contract. You start with the good performance in mind, and then you have to start seeing if you can improve off of that now higher bar, if you will, of performance.
+So that's the C-130. Again, as I said, we did reach handshake for that within the last couple of weeks.
+The air missile defense program is a similar story. A lot of PAC-3 negotiations, the early stages of THAAD program where we performed very well, again sort of resets on of those contracts going forward.
+We just reached agreement on fiscal year 2014 and 2015 here recently, although none of those including the Multiyear are at this point definitized. We suspected that they will be before the end of the year.
+Then I talked about strategic bids. Just to rattle off a few of them -- and you should think of these as impacting a lot of these business areas, not just one single business area -- but things like the bomber program that we're hopeful is announced this year. Obviously, a very strategic bid, obviously one that does have long-term value creation for the Corporation; but one that we did view very strategically and we bid it accordingly.
+You can also think of programs such as a number of radar programs like, for instance, the long-range discriminating radar, the 3DELRR program.
+Within our Missiles and Fire Control business, a couple of things going on there. So programs like the joint air-to-ground missile, the JAGM, that we won recently, that was essentially the replacement of the Hellfire missile; obviously an important franchise program for us going forward.
+Then within the ground combat vehicles, although it's still under protest, JLTV was one of those. You may not have been watching quite as closely the amphibious combat vehicle for the Marine Corps, but that's another one that we're tracking very closely.
+And then you didn't mention it, Jason, but in the remarks I made the comment about a number of overseas contingency operations programs being expected not to be funded at the same levels going forward as they were in 2015 and previously. Think of that as a lot of use of sort of the expendable items that those programs make up, with unplanned orders that increase the volume of activity unexpectedly higher than we had priced; and we got the benefit of that unplanned volume. We're not planning on that in 2015, going forward.
+So I think I hopefully covered a bunch of the items you were talking about, Jason. I'll stop there and go to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski, Drexel Hamilton.
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Drexel Hamilton - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Good quarter, guys. Hey, guys, on the 2016 guidance, is there upside to the flattish top line if we do get a budget before the end of this calendar year? Or is there risk if we don't?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [6]
+--------------------------------------------------------------------------------
+
+          Pete, I'll take that one. I don't see a whole lot of swing one way or the other, quite honestly, in 2016. The vast majority of sales that will be recognized in 2016 are already in backlog, or we would expect them to already be in backlog by the end of this year.
+Essentially other than, again, IS&GS, which is the short-turn business within the Corporation, we would not expect orders that would be received in the fourth quarter of this year, the first year of the fiscal year for the government, to necessarily translate into a lot of sales next year. You should think under the Continuing Resolution you can't have new start programs; you can't spend more in the new fiscal year than the prior fiscal year.
+The rest of the business areas like IS&GS, that's not going to be a hindrance. Again, we're expecting that business area to actually decrease in volume, so we wouldn't expect to have a huge impact from what we're guiding as a result of the CR. But conversely, as I said, we wouldn't expect to see upside either.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Rich Safran, Buckingham Research.
+
+--------------------------------------------------------------------------------
+Rich Safran,  Buckingham Research Group - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Good morning; how are you? Marillyn or Bruce, in the release you note that you may be at risk for reimbursement in excess of cost. You're still in negotiations, and the concern that current funding is insufficient to cover your production costs.
+I wanted to know if you could provide more clarification on your statements in the release; discuss the impact it may have on your $5 billion full-year cash flow goal for 2015. Also, if you could just tell us when the deadline would be for receiving funding such that the $750 million you mention in cash you expect to collect could be pushed into 2016.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [9]
+--------------------------------------------------------------------------------
+
+          Bruce, why don't you take that one?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [10]
+--------------------------------------------------------------------------------
+
+          Yes, sure, Rich. Let me take a shot at that. I'll probably give you more color than you really want for that.
+But -- so you should think of this affecting a number of very large programs, specifically just to name two -- but it's not limited to those two -- the C-130J Multiyear and the LRIP 9 negotiations. Again C-130J we did reach handshake, as I said earlier to Jason, just a couple weeks ago. We're still in the process of negotiating LRIP 9.
+But on both contracts, think of this as where we receive initial funding to start work. This is typically described as long-lead funding or advanced procurement funding. We literally take that money and begin to work with our supply chain to start funding the supply chain.
+It doesn't honestly go in the early stages to do a whole lot of work for Lockheed Martin, because we're further down that food chain, if you will, than our suppliers. In both cases, we ran out of funding provided; in both cases we asked for additional funding; and in both cases we were told that none would be provided until those contracts were actually negotiated.
+This is a little change, frankly, from historical -- my experience at least historically as to how we get funding. Ordinarily, you get long-lead funding; when you reach the end of that long-lead funding you ask for additional funding, which usually comes in the form of an undefinitized contractual action or a UCA, as it's called. Or you actually end up with a negotiated contract.
+For whatever reason, the government in this case decided not to fund until we reach negotiation. So we were faced with a decision of -- do we actually disrupt the supply chain?
+And you can imagine the kind of disruption that that creates, selling potentially hundreds to thousands of suppliers to stop work, furlough their employees, potentially lay off employees; and then having to restart that effort. And most of our supply chain simply can't afford to fund this on their own. So with that in mind, we decided to continue funding those programs, again primarily funding our suppliers as opposed to Lockheed Martin.
+You should think also that the funding needs on these program starts to accelerate pretty dramatically at certain points in time. In the case of both those programs, from the summertime until the end of the year the funding needs increase dramatically.
+That's why we disclosed that in the earnings release to you today. That's why we'll disclose that in the 10-Q that you'll see in a couple of days.
+I'll tell you we have elevated this to very senior levels at the Pentagon. We've been told that funding will be provided on both those programs.
+But it does require, I'll say, a lot of paperwork notifications, contract modifications and the like to make it happen. We think that will occur this year, but obviously a lot of cash is tied up and we want to make sure that we at least notified you of that.
+Honestly, this is a little bit difficult for me to understand as to why we're in this situation. You really have to ask the folks in the Pentagon as to why we're in this spot.
+As far as you did ask the question as far as cash in 2015, above or below 2015, we do need -- we identified the value of the two particular items for both the Multiyear and the F-35. It's worth about $0.75 billion.
+The timing wise, we need to get that probably notification and ability to bill sometime before Thanksgiving typically, to get that by the end of the year. That's not always the case; sometimes we can get it if it happens in the early December time frame. But just to be certain that's when it would be helpful to make that happen.
+And you should think of this between the two years 2015 and 2016, if it goes -- if it doesn't happen in 2015, it will happen in 2016. You should think of the two years still being the same cash value, just how much of that happens in 2015 versus 2016.
+So current plan is $5 billion and $5 billion. If we were short $750 million we would add that $750 million to next year.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Noah Poponak, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Hi, good morning, everyone. I wondered if you could address this recent press about some possible fairly large Corporate overhead cost reduction. It's hard to tell what's related to the government IT business review and what's part of the remaining business. It would seem like a fairly large number that's out there if it is in fact a decent amount of the remaining business.
+Then related -- or I guess depending on your answer to that related -- Bruce, in the past you've commented when you've given your initial segment margin outlook about qualitatively how much conservatism is in it, or how much upside risk there is. I guess I wonder, if there is more cost coming out than normal, is there more upside risk or not? Thank you.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [13]
+--------------------------------------------------------------------------------
+
+          Let me take your first question, Noah. I did see the press that was out around a 30% overhead reduction. Let me just put some color around that for you.
+We are always looking at our business structure and looking at different excursions we should take in order to keep our business competitive within the business environment that we operate in. So it may be looking at targets of 20%, 30%, 40%. I mean that -- so just to put it in perspective, this is a matter of us constantly looking at where the opportunities are for us to be as affordable as we can, and how we adjust our business base to the business environment that we're operating in.
+We look at the supply chain, we look at overhead, and we look at performance in the business areas. Every year the business areas set affordability targets, that they then look at both production and overhead cost reductions that they can take, improvements in their processes.
+And similarly we do that as the Corporate level. So that's the essence of that. Bruce, I think you'll take the next part.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [14]
+--------------------------------------------------------------------------------
+
+          Yes. Noah, back on -- I think just to repeat your question, the initial segment margin outlook in years past we've talked about potential to do better than that going forward. I'll say, Noah, 2016 initial guidance that we're providing is very similar in terms of expectations of upside or downside as to what we've done in years past.
+If you go back and look at 2014 and 2015, for instance, from the start of the year to the end of the year we saw improvements in both of those years in terms of the overall Company segment margin, because we performed better on certain programs. That enabled us to take step-ups during the year that resulted in that higher performance, that higher segment margin.
+So as I always say, I think we have the same opportunities as I look at 2016. That doesn't make it happen, just because I think there are opportunities there; it actually takes a lot of work to make those materialize. But we surely believe we are sitting here with the same opportunities as we had in 2014 and 2015.
+Then I think you try to link that with the potential reductions that Marillyn talked about. I don't see a whole lot of swing around those, even if those were at the full value that was reported in the press -- which I don't particularly think there is a high likelihood of that. But I wouldn't expect that to have a very significant impact on the overall Company margins at all.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Ron Epstein, Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Hey, yes; good morning, guys. Marillyn, I have a big-picture question for you. Post the announcement of the Sikorsky transaction, the DoD came out and said -- you know what? We don't want to see any more big M&A. And they suggested that the consolidation in the industry has been anti-innovative.
+Then notably your Company came back and took issue with that. Can you elaborate on that, your thoughts on consolidation, and the impact that it has or not had on innovation?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [17]
+--------------------------------------------------------------------------------
+
+          Yes, I'll be happy to. Thanks for the question, Ron. I guess I've had a lot of discussions with Frank Kendall and others about this policy statement that he put out. And respectfully, I told him that we disagree with that; that his general conclusion and his rationale that consolidation in the industry is bad for the industry, there's really no evidence to support that.
+There is no evidence to support that with our Sikorsky acquisition we reduce competition or inhibit innovation in any way. In fact, if you look at our performance, we have consistently delivered the best and most sophisticated defense capabilities in the world and we're going to intend to continue to do that.
+We successfully compete for opportunities that come about, and we invest in advanced technologies every day. We offer cost-effective solutions. We wouldn't be able to be reporting out the type of financial results that you're seeing and have been seeing for the last several years without performing well.
+We're performing well for the Department of Defense. We're performing well for other government agencies and for other countries around the world in what we're doing.
+So I wholeheartedly disagree that through consolidation, through some change in size of the business, that that's going to impede our innovation and somehow inhibit our innovation.
+I recognize that from the perspective of the Department of Defense they have to make sure that they've got a competitive industrial base. So that -- they have to maintain that proper balance.
+But really we believe that you have to continue to look at how you can be most effective. It's not about the size of the Company. It's about performance.
+That's been the standard in our free enterprise system forever, and I think it's what makes us strong as a nation. Actually, if you consider what would the alternative be -- to be a smaller company and break it up -- it could actually cost you more. I think with the economies of scale that come with what we can bring together in our business, and how we can invest in research and development, how we can invest in the capital expenditures that we need to -- and as Bruce just described to you, how we can help to fund suppliers through the period between contract negotiations, we would not be able to do that if we didn't have the economies of scale that we have today.
+So, bottom line as you can hear from my passion in my voice, we do not believe that consolidation will inhibit innovation in the industry. Thank you for the question.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Carter Copeland, Barclays.
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Hey, good morning; just a quick clarification on the comment around IS&GS. Bruce, the higher rate that you stated, was that a higher rate of decline than the 2015 number, or a higher rate of decline than the high-single-digits that you pointed to for the Aerospace growth? Just wanted to clarify that.
+Then I also wondered if you'd give us a bit of an update given the Q4 close on Sikorsky, what that does in terms of the timing of the integration costs and the synergy targets that you had laid out before, in terms of how much of that comes into 2015, or how that impacts 2016 relative to what you said on the last call. Thank you.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [20]
+--------------------------------------------------------------------------------
+
+          Yes, you bet, Carter. Sorry if I wasn't clear in the words to begin with on the IS&GS, but the latter is the short answer to that. IS&GS is decreasing at a faster rate than the high-single-digit rate of growth for Aeronautics in 2016. So IS&GS will be decreasing at higher than a high-single-digit rate in 2016, if that makes sense.
+Then to your question as to Sikorsky and the timing and how that potentially changes integration costs and synergy costs, I wouldn't expect they would have huge impacts on the integration costs or the ability to achieve synergy. We're still looking at spending -- I think the last time I talked to you -- $80 million to $100 million or so of integration costs probably in the first year. That's in large part to accelerate the synergies that we expect are there with the Sikorsky integration.
+We expect that will still take place in 2016. What will change -- or what will not necessarily change but will be greater clarity is that now a lot of the transaction costs associated with closing of the Sikorsky deal will hit in the fourth quarter of this year. So you should think of that rough order of magnitude -- and I hope we're on the lower end of this -- but probably accounting for $0.10 to $0.15 impact to earnings per share in the year.
+We thought about that, relative to describing that in the guidance we provided. But we're still hopeful, quite honestly, that we can have an R&D -- research and development tax credit that will pass this year and that offsets -- that actually probably maybe more than offsets that impact of the transaction cost in 2016. So net-net we would expect to see those costs hit in the fourth quarter, but we're also hopeful that the R&D tax credit more than mitigates that also in the fourth quarter.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          Myles Walton, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Thanks; good morning. Bruce, I was hoping you could touch back on the Sikorsky for a second in terms of doing the alignment of their accounting with your accounting inside of Lockheed, how the margins of Sikorsky might behave.
+And then also related, as you look at the $5 billion cash for next year, and substituting out the IS&GS or IT tech services business for Sikorsky, what's the put and take from a cash flow perspective?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [23]
+--------------------------------------------------------------------------------
+
+          Okay. Myles, we're going to give you in January a whole lot more insight into Sikorsky, assuming it closes in the fourth quarter of this year. We made obviously some -- when we did the due diligence process with Sikorsky we made some relative assumptions as to, I'll say the conforming accounting that we expect to do.
+I tried to tee that up I think in the last call, and I literally don't have any better information to give you than what I provided to you on the July call. I'll give you I think much greater insight into that when we actually provide the formal guidance in January, not just for the rest of the Company but for Sikorsky in particular as well -- again, we assuming we close that in the fourth quarter.
+As far as the $5 billion of cash next year, it obviously depends on when the strategic review culminates. We're looking at -- depending on whether it's a sale, a spin, or a Reverse Morris Trust -- somewhere in probably the middle of next year to the third quarter of next year.
+So I would like to think that we may be able to offset most of that if it were to spin or be sold or and did a Reverse Morris Trust next year. Again, with both the spin or Reverse Morris Trust or the sale we would expect to get cash proceeds back. I know that's not operating cash flow, but it would be greater, frankly, than whatever the shortfall is that we would expect to lose with the transfer of that business outside of the Corporation.
+So probably a little bit of a wishy-washy answer, but I don't know, given the timing of when that deal would close and the timing of the cash flow in the year for IS&GS, to really give you a good idea what that benefit would look like -- or detriment.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Peter Arment, Sterne Agee.
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne Agee CRT - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Yes, good morning, Marillyn, Bruce. Marillyn, I guess, could you give us like a big-picture view on what you're seeing from international customers? I know there's been a lot of volatility in the oil exporter countries. Have you seen any slippages?
+Or -- and maybe just related to that, Bruce, if there are any significant programs that we should be thinking about for 2016 in terms of international contracts. Thanks.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [26]
+--------------------------------------------------------------------------------
+
+          Thanks for the question, Peter. We are continuing to see strong demand in the international marketplace for our programs. Missile defense continues to be a big driver for a lot of the Asia-Pacific and Middle East countries. Things like THAAD, Aegis, Aegis Ashore, Patriot, MEADS, there is a continued demand for that.
+You know that we continue to have the demand for our tactical aircraft, F-16 and the F-35, as well as mobility, C-130J.
+In terms of oil prices, we're really not seeing a pullback on expenditures for oil prices because frankly these countries are looking to meet their essential national security needs, and many of them have deep reserves -- countries like the kingdom of Saudi Arabia and Qatar and the UAE and others. Really they are not -- we don't see them pulling back at all on what they need to do in terms of purchasing their missile defense, their fighters.
+Then I think you've probably seen that Saudi is doing their Naval Expansion Program where they've already committed to purchasing MH-60 (inaudible) helicopters, and now there is a process underway with the LCS being -- there is positive momentum on their acquisition of the LCS.
+They -- now the Congressional notification forward for them to purchase up to four Littoral Combat Ships for their multimission surface combatant, and we stand ready to support that sale. Because what they are interested in is the Freedom Class LCS variant that we produce, which we could potentially get under contract sometime next year.
+We're making great progress. We achieved 20% in international sales; we're now on a path to 25% of international sales.
+For 2014 we had about $20 billion in international in our backlog. So we continue to see a strong pull for our portfolio internationally.
+As I travel around the world, and I just returned from the Middle East, there is -- continue to be a strong demand.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [27]
+--------------------------------------------------------------------------------
+
+          Peter, you asked about just some of the larger maybe international pursuits in 2016 that we're looking to accomplish. Probably first and foremost to that is a THAAD sale to Qatar. This has been in discussions for quite some time and it's ongoing, quite frankly; but we think that ultimately will close in 2016.
+Marillyn just mentioned Littoral Combat Ship as part of the SNEP program in Saudi Arabia. We'll see if that's able to close in 2016, but I think the prospects just got better with the Congressional notification that we saw yesterday.
+There's numerous F-35 international buys, all commingled within the LRIP 9 and LRIP 10 contracts that we're negotiating there. But those do contain significant quantities of international customers.
+Then maybe just to finalize the thought there, we expect to have both some modification -- or at least one fairly good-sized modification program on F-16s; and we haven't given up on selling new F-16s to at least a couple of different prospects. We're hopeful we can get at least one of those deals closed in 2016.
+So that's four -- probably more than that if you include the multiple numerous customers within F-35 -- but those are some of the larger ones next year.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Doug Harned, Bernstein.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Bernstein - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Thank you. On international sales, when I look at Missiles and Fire Control, I think of that as a unit that's -- there's a lot of drive from international sales in it: PAC-3, THAAD, different missile programs. But if you look over the last several years, backlogs have been pretty flat.
+Now I know you've had some pullback on the services side and backlogs were a little bit better, got better this quarter. But can you reconcile the fact that we should be seeing a lot of international demand for these programs, yet so far we really haven't seen it reflected in a big increase in backlogs there?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [30]
+--------------------------------------------------------------------------------
+
+          Yes. Doug, I'll try to answer that. I think the biggest reason that you don't see that is, one, we've seen some delays in negotiations. As I said, we just now finished actually negotiating here -- I say just now, here recently we just finished negotiating both the FY14 and FY15 Patriot deals, the PAC-3 deals. Those orders when they are finalized are pretty good size.
+We typically don't see at Missiles and Fire Controls the sort of multiyear orders like you might associate with the aircraft programs at Aeronautics. They tend to be individual fiscal-year buys. So because we don't reach forward and get multiple fiscal years in a combined buy, you don't see the increases in backlog that you might experience with Missiles and Fire Control.
+As you look at the year 2015, we do expect to end the year at higher levels of backlog than we began the year for Missile and Fire Control, by as much as about $1.5 billion. So it's not like it's shrinking; it is growing at a clip. But it's not growing leaps and bounds like you would expect to see with a large multiyear program, because that's simply not the way those products are typically being bought.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Rob Spingarn, Credit Suisse.
+
+--------------------------------------------------------------------------------
+Rob Spingarn,  Credit Suisse - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Morning. I just want to ask a couple things on F-35. Since you're still negotiating LRIP 9, how much margin risk is there, given the work that's already been done that you referred to earlier?
+Then Marillyn, you talked about the full year, the effect of a full-year CR and how debilitating that would be. But it would be largely a backlog issue in 2016. Are we referring to the slippage of -- I think it's 19 F-35s?
+And at what point would we see that in the P&L? And how would that affect just the production efficiencies?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [33]
+--------------------------------------------------------------------------------
+
+          I'll take on the first one, Rob. the F-35 LRIP 9 negotiation and margin risk if this is not done. Rob, I would characterize this as par for the course; typical. This is what we've been going through with F-35 for quite some time.
+I'll say that the numbers that we talk about for 2016, because there's so little impact of LRIP 9 affecting the P&L in 2016, I wouldn't expect to see a huge swing no matter what we negotiated margin-wise on LRIP 9.
+Maybe I'll let Marillyn answer the broader CR question, but you asked a specific one about 19 aircraft on the F-35, if there is a full-year Continuing Resolution. I think that number is about right; that's the number that the Pentagon has talked about.
+Again, we wouldn't expect to see much of an impact of that affecting 2016. You would start to see that pick up steam in 2017 and 2018 and beyond.
+Mind you, we do record revenue and earnings on a cost-to-cost basis as opposed to units of delivery, so those 19 aircraft would stop -- start -- stop having -- excuse me -- less growth than we had expected to have happen, but not much in 2016. It will start happening in 2017 and beyond.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [34]
+--------------------------------------------------------------------------------
+
+          I think you pretty well answered it, Bruce. I think that was the key.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          Sam Pearlstein, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Good morning. Could you talk a little bit about the Space Systems segment, just what drove the better than expected sales and earnings? Does it change your view towards how strategic it is to maintain your ULA joint venture?
+And if I can sneak a second one and, Bruce, can you just tell us: is CapEx supposed to be flat year-over-year as we look at the 2016 free cash? Thanks.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [37]
+--------------------------------------------------------------------------------
+
+          Yes, I'll try that, Sam. Third quarter, Space was actually down about 5% in the quarter. You should think of that -- we had a commercial launch last year and none this year; that was probably the biggest driver for the reduction.
+There was a lot of pieces moving around, but that was the biggest reason for the delta. Even with that --
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          I was thinking more in terms of the year getting better more than the (multiple speakers)
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [39]
+--------------------------------------------------------------------------------
+
+          Oh, the year, I'm sorry. For the full year? Yes, so we've had -- the overall performance has been very good. We've had extremely good performance on our government satellite contracts, and we actually have had some upticks from an EBIT perspective as well with the F-35 -- I'm sorry, from the ULA joint venture that your next question asked about.
+So the combined, we're seeing really, really good performance out of Space Systems on their legacy programs. Think of it as the satellite programs like SBIRS and advanced VHF. But also in the launch vehicle business for the ULA, we're seeing some more equity earnings there.
+As to the other question on the ULA JV, we haven't decided anything differently about the ULA JV, despite what's in the press, Sam. So I'm not going to comment on that at this point in time.
+I think your last question was on CapEx for next year and how we should think of that. You should think of that being essentially comparable to this year's level, maybe a little bit higher. But I'll tell you, every year as we look out into the next year, people think we're going to spend more in CapEx and we tend to not do that as we go throughout the year.
+So for right now I'll just say probably pretty comparable to this year's level.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          Seth Seifman, JPMorgan.
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Hi; thanks very much. Good morning. Just to ask about the plan, the strategic review: your ability to conclude the strategic review and make a decision about what to do with those businesses, how much is that contingent upon a budget outcome, just having a budget outcome, and on any particular budget outcome?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [42]
+--------------------------------------------------------------------------------
+
+          Yes. Seth, I don't think we see much dependency whatsoever on a budget outcome. And again, I'll just go back: if you look at this business and what the projections are for this business, they are unaffected by the budget outcome in terms of Continuing Resolution and the like.
+Because again, a Continuing Resolution would put a hindrance on new starts, programs that are growing fiscal year over fiscal year. We don't have a whole lot of that in this business, and I wouldn't expect that to have much of an impact as far as deciding what to do with the businesses under strategic review as a result of that.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [43]
+--------------------------------------------------------------------------------
+
+          I would just add to that that we are getting strong expressions of interest from a lot of different parties, ranging from strategic buyers to nonstrategic buyers. I think that makes the point that these are high-quality assets and it's a very strong business portfolio. So just reaffirms our belief that this is the kind of business that would benefit from a lower cost structure outside of Lockheed Martin.
+We feel very strongly that we'll be able to come to a conclusion by the end of the year on what the path forward is for that element of our business, to make it more competitive and stronger in the marketplace.
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corporation - VP IR    [44]
+--------------------------------------------------------------------------------
+
+          Karen, I think we're coming up on the hour. Maybe I'll -- one last question and we'll turn it over to Marillyn for final comments.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          David Strauss, UBS.
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Thank you; good morning. Bruce, maybe looking to get a little bit of help in terms of how we model things on a go-forward basis. With the outcome of whatever you decide to do with government IT and TS there will be a fair amount of dilution. Depending on which route you choose and the cash that comes in, would you expect to be able to fairly quickly offset a fair amount of the dilution from potentially selling those businesses? Or just in terms of how we're modeling this going forward, how should we think about it?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP, CFO    [47]
+--------------------------------------------------------------------------------
+
+          Yes. Depending on the structure, David, there's a lot of moving pieces to try to predict the outcome there. You should think of a spin as essentially left pocket, right pocket to our shareholders, right? Because the value of the business under a spin would simply be held by the same shareholders that hold Lockheed Martin stock today. So total effect on shareholders is not -- should be inconsequential in that view.
+I understand the dilution if you look at the after Lockheed Martin, but there is a lot of moving pieces that could affect that. Obviously, the amount of cash that we get back; whether it's a sale, obviously we get back a lot more cash; whether it's a split or not as part of a spin-merge. There's a lot of different moving pieces there that are just at this point hard to predict.
+We'll have, I think, a whole lot more fidelity and a whole lot better insight on that when we finally come to reach a final decision of the outcome or the path of the outcome in December. And again we're going to communicate that to you just as soon as we get there.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, CEO    [48]
+--------------------------------------------------------------------------------
+
+          Let me just conclude the call today. I want to end by reiterating that the Corporation had another solid quarter and we continue to be well positioned to deliver substantial value to our customers and to our stockholders. We'll continue to progress toward a successful closure for 2015 and as we look ahead in 2016.
+Thanks again for joining us on the call today. We look forward to speaking to you on the next earnings call in January. And let me just turn it back over to you, Karen, to conclude our call.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          Thank you. Ladies and gentlemen, thank you for your participation in today's conference. This does conclude the program, and you may now disconnect. Everyone have a good day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

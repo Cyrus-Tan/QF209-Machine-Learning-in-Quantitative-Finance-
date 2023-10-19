@@ -1,0 +1,710 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2017 Boeing Co Earnings Call
+JULY 26, 2017 / 2:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Gregory D. Smith
+   The Boeing Company - CFO and EVP of Enterprise Performance & Strategy
+ * Thomas J. Downey
+   The Boeing Company - SVP of Communications
+ * Dennis A. Muilenburg
+   The Boeing Company - Chairman, President & CEO
+ * Troy J. Lahr
+   The Boeing Company - VP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Peggy Hollinger
+    - 
+ * Howard Alan Rubel
+   Jefferies LLC, Research Division - MD and Senior Equity Research Analyst of Aerospace and Defense Electronics
+ * Douglas Stuart Harned
+   Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst
+ * Gillian Rich
+    - 
+ * Samuel Joel Pearlstein
+   Wells Fargo Securities, LLC, Research Division - MD, Co-Head of Equity Research & Senior Analyst
+ * Seth Michael Seifman
+   JP Morgan Chase & Co, Research Division - Senior Equity Research Analyst
+ * Jon Ostrower
+    - 
+ * Andrew Gollan
+   Berenberg, Research Division - Senior Analyst
+ * Rajeev Lalwani
+   Morgan Stanley, Research Division - Executive Director
+ * Jason Michael Gursky
+   Citigroup Inc, Research Division - Director and Senior Analyst
+ * Ronald Jay Epstein
+   BofA Merrill Lynch, Research Division - Industry Analyst
+ * David Egon Strauss
+   UBS Investment Bank, Research Division - MD and Senior Research Analyst
+ * Myles Alexander Walton
+   Deutsche Bank AG, Research Division - Director and Senior Research Analyst
+ * Doug Cameron
+    - 
+ * Alwyn Scott
+    - 
+ * Cai Von Rumohr
+   Cowen and Company, LLC, Research Division - MD and Senior Research Analyst
+ * Peter John Skibitski
+   Drexel Hamilton, LLC, Research Division - Senior Equity Research Analyst
+ * Peter J. Arment
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Dominic Gates
+    - 
+ * Julie Johnsson
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day, everyone, and welcome to The Boeing Company Second Quarter 2017 Earnings Conference Call. Today's call is being recorded. The management discussion and slide presentation, plus the analysts and media question-and-answer sessions, are being broadcast live over the Internet. 
+At this time, for opening remarks and introductions, I'm turning the call over to Mr. Troy Lahr, Vice President of Investor Relations for The Boeing Company. Mr. Lahr, please go ahead.
+
+--------------------------------------------------------------------------------
+Troy J. Lahr,  The Boeing Company - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, and good morning. Welcome to Boeing's Second Quarter 2017 Earnings Call. I'm Troy Lahr, and with me today is Dennis Muilenburg, Boeing's Chairman, President and Chief Executive Officer; and Greg Smith, Boeing's Chief Financial Officer and Executive Vice President of Enterprise Performance & Strategy. After management comments, we will take your questions. (Operator Instructions)
+We have provided detailed financial information in today's press release, and you can follow the broadcast and presentation through our website at boeing.com. 
+Before we begin, I need to remind you that any projections and goals in our discussion today are likely to involve risks, which is detailed in our news release, various SEC filings and the forward-looking statement disclaimer in the presentation. In addition, we refer you to our earnings release and presentation for disclosures and reconciliation of non-GAAP measures that we use when discussing our results and outlook. 
+Now I'll turn the call over to Dennis Muilenburg.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Troy, and good morning. My comments today will focus on our second quarter results, the health of our business environment and our performance and growth plans. After that, Greg will walk you through the details of our financial results and our outlook. 
+With that, let's move to Slide 2. Thanks to the dedicated efforts of employees throughout our company, Boeing delivered second quarter 2017 financial results that included strong operating performance and robust cash generation. During the quarter, we generated $5 billion of operating cash and repurchased $2.5 billion of Boeing stock as we continue to deliver on our commitment of returning cash to shareholders while investing in innovation, future growth and our people. From 2012 till now, we have repurchased more than 200 million shares and increased our dividend per share by 190%. 
+Revenue in the second quarter was $22.7 billion, reflecting planned production rates and timing of commercial and defense deliveries. Core earnings per share of $2.55 was driven by solid execution across the company. Based on our strong first half 2017 performance and improving confidence in our outlook, we are raising full year guidance for operating margins, earnings per share and operating cash flow. Greg will discuss these in more detail shortly. 
+Now let's look at the second quarter operating performance for our businesses. For the quarter, Commercial Airplanes generated revenue of $15.7 billion on 183 delivers and reported operating margins of 10%. A healthy pace of sales announcements at the Paris Air Show contributed to 183 net new airplane orders worth $22 billion during the quarter, adding to our already robust backlog that now stands at more than 5,700 airplanes. 
+Other key commercial milestones in the quarter included delivering the first 737 MAX 8, launching the 737 MAX 10 and manufacturing the first 777X test parts in our new Composite Wing Center. Also, the second and third 787-10 aircraft entered the flight test program ahead of schedule. 
+Boeing Defense, Space & Security reported second quarter revenue of $6.9 billion. Operating margins were a record for this business segment at 12.9% on continued strong operating performance. New orders booked during the quarter totaled $5 billion, including a $1 billion award from the U.S. Missile Defense Agency, a contract for the U.K. Ministry of Defense for 38 Apache attack helicopters and an F-15 support contract with the Defense Logistics Agency. 
+Key milestones for our defense and space unit included a successful ground-based midcourse defense intercept test and first flight of the second production-ready T-X trainer aircraft. Also, as part of our next step in driving market-based affordability, Defense, Space & Security announced a more streamlined organizational structure designed to accelerate decision-making, further improve productivity and enhance our competitive position. 
+Overall and to summarize for the quarter, we delivered solid execution across the company, generated strong cash flow, increased our backlog and returned significant cash to shareholders.
+With that, let's turn to the business environment on Slide 3. We continue to see healthy demand in our commercial, defense, space and services markets. In the commercial airplane market, airlines continue to report solid profits, and passenger traffic continues to outpace GDP, with traffic growth 8% through May. Also, cargo traffic is starting to experience a healthier recovery with 10% freight traffic growth over the first 5 months of the year. Beyond positive traffic growth trends, we've seen over the past few years an evolution in key market dynamics that we believe, in the aggregate, are driving greater stability and far less cyclicality for our industry. For example, demand is more geographically diverse and balanced across the globe. It is more diverse and balanced across the spectrum of customer business models as well. There is also more balance in demand between new airplanes needed to replace older airplanes and those needed to support fleet growth requirements. And customer purchasing patterns have become more stable and consistent, driven by sustained and increasing airline profitability. Reflecting these shifts, we recently updated our 20-year commercial market outlook, and we now forecast $6.1 trillion of demand for approximately 41,000 new airplanes over the next 20 years, an increase of more than 1,400 aircraft from last year. More specifically, we see demand for more than 29,500 aircraft in the single-aisle market and approximately 9,100 aircraft in the widebody market. This long-term demand, combined with healthy market conditions and a robust backlog, provide a solid foundation for our planned production rate increases. Our high confidence in increasing 737 production to 57 per month in 2019 is based on our existing backlog of nearly 4,500 aircraft and a production skyline that is oversold through the end of the decade. 
+In the widebody market, we continue to see some varying levels of near-term demand across aircraft models. However, we've seen steady orders and have high confidence in a meaningful increase in widebody replacement demand early in the next decade. 777 production for 2017 is sold out. And for the current-generation 777, we have 111 orders in backlog, which includes 4 additional aircraft that we booked in July. Production continues at the 7-per-month rate before we lower the production rate in August to 5 per month. And as we've previously stated, that production rate will result in 777 deliveries of approximately 3.5 per month in 2018 and 2019 as we transition production to the 777X. At that rate and with the existing orders and commitments in place, we are now in an oversold position in 2018 and approximately 90% sold-out in 2019. 
+While we still have more work to do to fill the remaining 777 production slots, based on the current environment and our ongoing sales campaigns, we believe the rate plan that we've put in place establishes a floor for the program and supports our production bridge from the current 777 to the 777X. And we have a strong foundation of 340 777X orders and commitments that support our plan for ramping up production and delivery of the new 777X. 
+Our 787 Dreamliner program also stands on a strong foundation for long-term production with over 700 firm orders in our backlog. The recent order from AerCap for 30 787-9 Dreamliners illustrates continued healthy near-term demand for this unmatched, fuel-efficient family of aircraft. As we've discussed on prior calls, we have a focused effort underway to secure additional 787 orders to support the 14-per-month production rate planned for the end of the decade. We remain disciplined in our ongoing 787 production rate assessment, with an emphasis on production stability, growing profitability and ensuring that supply and demand are kept in balance. 
+Turning to Defense, Space & Security. We continue to see solid demand for our major platforms and programs. In the enacted FY '17 federal budget, Congress added 7 AH-64 Apaches, 12 F-18 Super Hornets and 4 V-22 Ospreys as well as a significant funding increase for a space launch system. We're also seeing strong support for numerous Boeing programs above the President's FY '18 budget request. 
+International demand for our defense and space offerings remains high as well, in particular, for rotorcraft, commercial derivatives, fighters and satellites. We continue to make progress towards completing a healthy mix of previously announced international sales, including 36 F-15 fighter aircraft to Qatar, 28 F-18 fighter aircraft to Kuwait, up to 48 Chinook helicopters to Saudi Arabia and the final C-17 to India. 
+Our investment in future growth and new sales continues in areas that are priorities for our customers such as commercial derivatives, rotorcraft, satellites, services, human space exploration and autonomous systems. As part of these efforts, we are also leveraging capabilities and technologies across the enterprise for winning future franchise programs such as the JSTARS Recapitalization, Ground Based Strategic Deterrent, unmanned carrier-based MQ-25A and the T-X trainer, along with advanced weapons programs and other important opportunities. 
+Turning to the services sector. We see the $2.6 trillion services market over the next 10 years as a significant growth opportunity for the company. To capture an increasing share of that growth, our new Boeing Global Services business is focused on traditional services, such as parts, modifications and upgrades, as well as new offerings, utilizing data analytics and information-based services. Comprised of major elements from our former Commercial Aviation Services and Global Services & Support Groups, Boeing Global Services successfully began operating as an integrated new business unit on July 1, and it has already begun capturing key market opportunities. 
+On the defense services side, we announced exclusive aftermarket distribution agreements with GE Aviation and Rolls-Royce for engine spare parts that have a combined potential value of more than $10 billion over the life of the program. Also during the quarter, Norwegian selected Boeing Global Services to provide flight training across its entire Boeing fleet. And in part to fuel our growth in digital aviation, we launched Boeing Analytics, brings together our enterprise capabilities and the work of more than 800 analytics experts across our company, who are focused on transforming data into actionable insights and customer solutions. With growing markets and opportunities ahead, our team remains intensely focused on growth, innovation and accelerating productivity improvements to fuel investments in our future. The gains we have achieved thus far this year and those we expect in the months ahead are reflected in the increased guidance for margins, earnings per share and cash flow that Greg will discuss in more detail. 
+With that, Greg, over to you for our financial results.
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Dennis. Good morning, everybody. Let's turn to Slide 4, and we'll discuss our second quarter results. Second quarter revenue came in as planned at $22.7 billion, while core operating earnings per share increased to $2.55, driven by solid performance across the portfolio. 
+Let's now move to Commercial Airplanes on Slide 5. For the second quarter, our Commercial Airplane business reported revenue of $15.7 billion, reflecting the execution of planned production rates and timing of deliveries. BCA operating margins were 10% on solid execution on production programs and within our services business. As Dennis indicated earlier, BCA captured $22 billion in net orders during the second quarter, and backlog remains very strong at $424 billion, more than 5,700 aircraft, again, equating to more than 7 years of production.  Cost performance on the 787 program continues to improve, with deferred production balance declining by $531 million in the quarter. 
+Turning now to Defense, Space & Security results on Slide 6. Second quarter revenue in our defense business was $6.9 billion. Operating margins were 12.9%, largely driven by strong performance at Military Aircraft and Global Services. Boeing Military Aircraft's second quarter revenue was $2.9 billion, reflecting the planned wind-down of the C-17 program. Operating margins of 13.2% reflect overall solid core operating performance. 
+Network & Space Systems reported revenue of $1.7 billion on planned timing of satellite volume, and operating margins were 9.1% in the quarter.  Global Services & Support revenue was $2.3 billion, reflecting timing of contracts and mix, and operating margins of 15.4%, reflecting strong execution across the portfolio and favorable contract mix. Defense, Space & Security reported backlog of $58 billion, with 37% of that from international customers. 
+Let's move to cash flow on Slide 7. Operating cash flow was very strong at $5 billion for the second quarter, driven by solid operating performance across the company and favorable timing of receipts and expenditures. 
+With regard to capital deployment, as Dennis mentioned, we repurchased 13.6 million shares for $2.5 billion in the second quarter. And for the first half of the year, we've completed 28.5 million shares totaling $5 billion. Our continued balanced cash deployment efforts reflect our ongoing confidence in the long-term outlook for our business. We anticipate completing the remaining $9 billion repurchase authorization over approximately the next year. Returning cash to shareholders, along with continued investment to support future growth, again, remain a priority for us. 
+Let's move now to cash and debt balances on Slide 8. We ended the quarter with $10.3 billion of cash and marketable securities. This cash position provides us flexibility to invest in highly profitable growth opportunities while, again, also returning cash to shareholders. 
+We also announced today that we're taking action to further derisk the company by accelerating $3.5 billion of pension funding, which we expect will eliminate nearly all future mandatory pension funding through 2021. During the third quarter, in addition to the previously announced $500 million cash pension contribution, we will make another $3.5 billion of discretionary pension contribution using Boeing common shares. We will utilize our strong cash position to increase share repurchase by the $3.5 billion above our prior plan for 2017, and we now expect to repurchase approximately $10 billion of Boeing common shares for the full year. We continue to expect operating cash flow to grow annually through the end of the decade, and we remain committed to returning approximately 100% of free cash flow to investors. 
+Over the past several years, we have taken meaningful actions to reduce risk and cyclicality in our business, and today's actions are another step in that direction. 
+Let's turn now to Slide 9, and we'll discuss our outlook for 2017. We increased 2017 core earnings per share guidance by $0.60 to now be between $9.80 and $10, driven by improved performance across the company and lower-than-expected tax rate. We're also increasing BCA margin guidance to greater than 10% and BDS margin guidance to greater than 11.5%. As Dennis indicated earlier, we're also raising cash flow guidance for improved performance and tax savings from the additional pension funding. 
+Cash flow guidance is increasing by $1.5 billion to $12.25 billion, with approximately $700 million related to tax savings and about $800 million on improved operating performance. 
+We're also lowering CapEx guidance -- spending guidance by $300 million to $2 billion for the year on improved efficiency, disciplined spending and some favorable timing. 
+So in summary, our core operating engine continues to deliver strong results, increasing momentum for our company. In the second half of the year, an important focus for us will be ensuring the continued seamless ramp-up of Boeing Global Services and leveraging our new 3-business-unit strategy in the marketplace. We'll also be expanding our efforts in driving key cross-enterprise levers to improve productivity and affordability and accelerating innovation across the company, all with an eye towards profitable growth in the second century.
+So with that, I'll turn it back to Dennis for some closing comments.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          All right. Thank you, Greg. With the strong first half of the year behind us, our team remains focused on further driving both growth and productivity. In addition to the encouraging commercial airplane market dynamics I mentioned earlier in my remarks, we've also taken our own actions to reduce cyclicality in our business, including remaining disciplined in our production rate decisions; derisking our pension liabilities; strategically phasing our research and development spending; creating labor stability with long-term contracts; and expanding our services business, which is also less cyclical. Our priorities going forward are to leverage our unique One Boeing advantages, continue building strength on strength to deliver and improve on our commitments and to stretch beyond those plans to sharpen and accelerate our pace of progress on key enterprise growth and productivity efforts. Achieving these objectives will require a clear and consistent focus on the profitable ramp-up in commercial airplane production, continuing to strengthen our defense and space business, delivering on our development programs, growing our integrated services business and leveraging the power of our 3-business-unit strategy, driving world-class levels of productivity and performance throughout the enterprise to fund our investments in innovation and growth and to develop and maintain the best team and talent in the industry, all of which position Boeing for continued market leadership, sustained top and bottom line growth and to create increasing value for our customers, shareholders, employees and other stakeholders. 
+Now we'd be happy to take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from the line of Doug Harned with Bernstein.
+
+--------------------------------------------------------------------------------
+Douglas Stuart Harned,  Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Dennis, in the past, you've talked about taking free cash flow up sequentially year-over-year, and you've obviously got a very big free cash flow number this year, an increase. And first of all, I want to make sure that's still true in the following years, but I'd like to understand 2 aspects of it. First, does your outlook, with rising free cash flow, assume that you'll get to the mid-teens target for margins that you've talked about in the past? Or could that be additional upside? And then second, on CapEx. You've taken down CapEx $300 million for this year. How does that fit in with the trajectory going forward, where you've got the 777X and you potentially may have, longer term, a new midsize airplane coming out? So how do you think about both aspects of the cash flow trajectory?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          You bet. Doug, first of all, on your initial question, absolutely confirmed. We still expect year-over-year cash growth throughout the end of the decade. Even with a higher foundation, starting point for that based on the performance this year, we still expect year-over-year cash growth going forward. A lot of that, again, is driven by just fundamental performance of the business, increasing profitability on the 787. You can see the progress we're making there. And we expect to make more progress going forward, the ramp-up on 737 production and just fundamental improved performance across our programs. So we'd still expect this to be a sustained year-over-year cash growth business. Now our work on margins, as you referenced, contributes to that. We still have our target out there for our teams to get to 15% margins by the end of the decade. You can see that we're making progress towards that target. And as we've mentioned to you before, we expect that to be steady progress, not progress that waits till the end of the decade. We expect to see incremental margin improvement over the next several years. That is a contributing factor, and we're keeping that target closely in focus. And then on the CapEx point, you did see us reduce our guidance for the end of the year in terms of CapEx spend this year, reflecting some efficiencies in our performance as well as a bit of timing. But you should expect to see a very stable CapEx profile going forward. I said part of our plan for the company is to have a non-cyclical business and a well-tailored R&D and CapEx profile. And we think, as we're in the middle of 777X, over the next few years, that will be winding down. We have other investments that we're contemplating for the future, but all of those are feathered in to provide us a very nice, stable CapEx and R&D profile for the rest of the decade.
+
+--------------------------------------------------------------------------------
+Douglas Stuart Harned,  Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Does that triple -- does that CapEx reduction reflect anything about how 777X is proceeding?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          I think it gives you a sign that the program is proceeding on plan. We have hit the peak on the CapEx spending for 777X. The Composite Wing Center was one of our big investments there. We're now building initial production parts in the Composite Wing Center. So 777X is moving forward right on plan, and we expect to begin delivering those airplanes in 2020, as planned.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Our next question is from Cai Von Rumohr with Cowen and Company.
+
+--------------------------------------------------------------------------------
+Cai Von Rumohr,  Cowen and Company, LLC, Research Division - MD and Senior Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          So Dennis, of your plan to get to sort of 15% margins in commercial, how much of that should we anticipate being from extension of accounting blocks? And how much of that is just core line performance?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [8]
+--------------------------------------------------------------------------------
+
+          Yes. All of those are contributing factors, Cai. Certainly, we're working productivity internally, and that's a day-to-day activity in every dimension of our cost profile, of our market-based competitiveness work, both direct and indirect costs, every element of overhead. Those are elements that we're working hard. It applies to our supply chain. Recall that 60% to 70% of our cost base in the Commercial Airplane business is in our supply chain, so the work we're doing through our Partnering for Success initiative. Again, we're making some great progress there with our suppliers and partners. More work to go there. And it's also true that -- favorable mix going forward. And what we see in terms of block extensions as we continue to grow our production profile, that certainly contributes as well. Those production block extensions are margin-accretive. And also related as we stand up our services business, in general, we expect services growth to be accretive to margins. So all of those are contributors to that 15% target.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Our next question's from the line of Howard Rubel.
+
+--------------------------------------------------------------------------------
+Troy J. Lahr,  The Boeing Company - VP of IR    [10]
+--------------------------------------------------------------------------------
+
+          Operator, we'll go to the next question.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          One moment, please. We're having some technical difficulties.
+(technical difficulty)
+Yes, we'll go to the line of Pete Skibitski with Drexel Hamilton.
+
+--------------------------------------------------------------------------------
+Peter John Skibitski,  Drexel Hamilton, LLC, Research Division - Senior Equity Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Yes, I want to start on MAX execution. With the 6 you delivered in the second quarter, do you feel you're on pace to meet that delivery bogey you kind of set at, I think, 10% to 15% of the total 737 deliveries for the year? And then kind of along with that, could you give us a sense of how the switchover transition is going on the 3 lines in Renton just in terms of kind of switching over the other 2 lines from the NG to the MAX and kind of what level of risk you think that entails?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [13]
+--------------------------------------------------------------------------------
+
+          Yes, you bet. Let me take a first cut, and Greg, feel free to add in here. But the MAX ramp-up is going well. As you noted, the 6 deliveries in the quarter, we're continuing to ramp up right on pace. And the airplane is also performing well in the field. As we mentioned before, our production system transition overall on 737 to 47 a month was scheduled for this quarter. The production system is now running at 47 a month, so we've successfully ramped up while we've introduced the MAX. And we are now in the process of moving from the separate third line to integrating into the NG line and actually have airplanes flowing through that integrated NG-MAX line. So team is doing a great job of ramping up the production system and fully integrating the operations. We still expect deliveries to be in that 10% to 15% of the total 737 volume for the year. Now Greg, you've got anything you want to add?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [14]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, the only thing I would add, Pete, is, as we've made these transitions in rate, again, think about risk reduction. And so I think the team has done a great job of preplanning that and investing in that third line, getting the program up and running and then transitioning into the mainline. And this is just another example of how do you derisk that transition and continue to drive value and meet our customer commitments, and the team is doing that. So we got a big back half in front of us, but they know exactly what they need to do, and they're off to a great start.
+
+--------------------------------------------------------------------------------
+Peter John Skibitski,  Drexel Hamilton, LLC, Research Division - Senior Equity Research Analyst    [15]
+--------------------------------------------------------------------------------
+
+          That's great. Greg, maybe one follow-up. Period costs, as more MAX enter service and more operators get the aircraft over the next couple of years, do you expect period costs to grow over the next couple of years on that? Or is that going to be kind of flattish?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [16]
+--------------------------------------------------------------------------------
+
+          No, it will be around flattish.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Our next question is from Jason Gursky with Citi.
+
+--------------------------------------------------------------------------------
+Jason Michael Gursky,  Citigroup Inc, Research Division - Director and Senior Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Dennis, Greg, I wonder if you could spend a few minutes talking about your updated thoughts on the middle of the market. You obviously spent some time over in Paris and probably had some customer conversations about that aircraft. So maybe just talk a little bit about how the business case is coming along on that one, a little bit about the production system and how you think you're going to get there from a cost perspective. And then you've talked about the free cash flow outlook through the rest of this decade. But this is a program that's going to probably begin ramping in 2020. So just kind of talk about the handoff from your current development programs into the middle of the market and the impacts that, that might have on cash.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [19]
+--------------------------------------------------------------------------------
+
+          You bet, Jason. We're continuing to make progress on our efforts there as we talk to customers about the potential middle-of-the-market airplane. We've talked with more than 50 customers around the globe with a diverse set of business models and business needs. We continue to see a potential market there for 2,000 to 4,000 aircraft. We're continuing to work our way through the details of what that airplane might look like, potentially a family of 2 airplanes, working through passenger size and range of the airplanes and having good, meaningful discussions with our customers. We are also working through the details of the supporting business case. We're certainly going to leverage all the investments that we've made across things like 787 and 777X, the composite technology that we've invested in. But an important part of this is also taking a look at the fundamental manufacturing system and how we design and build for the future and taking advantage of some of our new digital tools, and that allows to take significant cost out of development, production and improve downfield support. And then all of this, we're looking at it through a life-cycle lens. And as we ramp up our services business, this could also be a contributor to helping us ramp up in services. So that's all work that's productively moving forward. We're still looking at a time line that we've talked about before, that if we were to introduce this airplane, it's probably an entry into service in the 2024, 2025 time frame. So we have time to do our homework and do it well, and we'll make a good, disciplined business decision. From an R&D and CapEx standpoint, it feathers in very nicely with the work we have underway. By that 2020 time frame, we'll be down the backside of the 777X R&D profile and CapEx profile. We'll begin delivering 777Xs in that time frame. And so if we were to launch a middle-of-the-market development program, it would feather in very nicely on the backside of 777X. So we really don't see a significant change to our profile in terms of CapEx and R&D spending. We think we'll see a nice, steady profile throughout that time period. So we're going to continue to do our work here and make a good business disciplined decision and one that adds value for our customers.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+
+          Our next question is from David Strauss with UBS.
+
+--------------------------------------------------------------------------------
+David Egon Strauss,  UBS Investment Bank, Research Division - MD and Senior Research Analyst    [21]
+--------------------------------------------------------------------------------
+
+          I want to ask about cash progress through the rest of the year. Year-to-date, it looks like advances, Greg, have been a pretty big tailwind. Your guidance for the full year, how are you thinking about advances? And then your commitment to free cash flow growth from here, how are you thinking about advances playing into that and then also 777X and the inventory build there?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [22]
+--------------------------------------------------------------------------------
+
+          Yes. There was some favorable timing in the quarter on advances, but there will not be favorable timing in the year. So the guide increase is on performance as well as the tax benefit associated with the pension, so again, as I outlined, about $700 million for the pension; about $800 million. So this is -- you got to equate this to core performance. This is focused on working capital and all elements of working capital, right down to the program and functional level, looking at payables, receivables, probably most of the focus getting in the inventory, right down to the line and making very efficient business decisions there. So you got to equate this to performance. As you look at the cash flow going forward, I think Dennis addressed it earlier, we still expect it to grow for all the reasons he outlined, and I won't repeat them. But on top of that, again, we got more focus on the elements within cash down to the team level, and they're off to a great start. So I think there's more opportunity there for us to capture. In 777X inventory build and so on, it's all in those comments about us expecting cash flow to grow. We've taken that all into consideration. So it's about execution. It's about being more efficient, as Dennis outlined, and it's about executing on our production rate increases as we have and, at the same time, looking for opportunities to reduce risk, like we talked about earlier with Pete on MAX or another example on the pension. We're taking that risk off the table, and we're pre-funding that to give ourselves, again, a clear line of sight that really focuses more so on just day-to-day efficiency and operating performance.
+
+--------------------------------------------------------------------------------
+David Egon Strauss,  UBS Investment Bank, Research Division - MD and Senior Research Analyst    [23]
+--------------------------------------------------------------------------------
+
+          And Greg, in terms of the working capital opportunity, receivables, payables, inventories, how far along do you think you are in terms of both capturing the opportunity you see there?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [24]
+--------------------------------------------------------------------------------
+
+          I think there's still a lot of opportunity there. And again, we're benchmarking ourselves not just within the industry. We're benchmarking ourselves to the top quartile, as Dennis has outlined. So we're benchmarking with people that you wouldn't traditionally benchmark with outside the industry that are really good at this, taking those best practices and bringing them in. And there's some areas we're more mature than others. And by the way, there's areas within Boeing that we are at best-in-class levels. So how do we take those best practices and bring them across on the other programs? So bottom line is I think there's more opportunity there for us to capture.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          And next, we'll go to Myles Walton with Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Myles Alexander Walton,  Deutsche Bank AG, Research Division - Director and Senior Research Analyst    [26]
+--------------------------------------------------------------------------------
+
+          I was hoping to follow up on the margins at BCA. Obviously, the core underlying margins, I'm not sure you've -- kind of pre-R&D, the mature margins look like they've been the best in a decade and kind of lead me to the next question, which is you raised the guidance to greater than 10% for the year. I think the prior guidance contemplated either retaining your 14-a-month target for the 787 or taking that decision out. Are you implying that you're in a more comfortable position to retain the 14-a-month 787 production by the end of the decade with this guidance raise?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [27]
+--------------------------------------------------------------------------------
+
+          Yes. The assumptions on the guidance raise around 787 are unchanged. So they're within the guidance there, and obviously, we haven't -- we have assumed that we are going to 14 a month, and we've got a market to support that. But we've still got some work to do, so we'll continue to finish that work. But that -- all of that is taken into consideration in the margin guidance.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [28]
+--------------------------------------------------------------------------------
+
+          Those alternatives are bounded by the guidance.
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [29]
+--------------------------------------------------------------------------------
+
+          Yes, correct.
+
+--------------------------------------------------------------------------------
+Myles Alexander Walton,  Deutsche Bank AG, Research Division - Director and Senior Research Analyst    [30]
+--------------------------------------------------------------------------------
+
+          And was there any -- just a clarification. Were there any block adjustments unusual in the quarter? Could you say what they were?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [31]
+--------------------------------------------------------------------------------
+
+          Just one, 737. Nothing unusual, but 737, all MAX.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Our next question is from Rajeev Lalwani with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Rajeev Lalwani,  Morgan Stanley, Research Division - Executive Director    [33]
+--------------------------------------------------------------------------------
+
+          I wanted to come back, Dennis, to middle-of-the-market aircraft and maybe approach it a bit of a different way. You've been talking more about the prospects of it, obviously. Would it be fair to assume that such a program could serve as leverage to increase aftermarket opportunities on existing programs as opposed to just this new one? And then have you had any successful conversations to that effect?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [34]
+--------------------------------------------------------------------------------
+
+          Yes, Rajeev, as I said, as we contemplate middle-of-the-market airplane, we are taking a look at that through a life-cycle-value lens, services lens. It can be a way for us to amplify some of the investments we're making to grow services. As we look at our parts business downstream and how we structure that for the future and making sure we have the right kind of intellectual property arrangements to do that, that gives us some opportunity to expand that thought process to other product lines. The investments we're making in digital aviation, information-based services, the architecture of the airplane to maximize that value, there's learning associated there that, again, allows us to cross-pollinate to our other production lines. We're also thinking through our vertical strategy, as we build out vertical capabilities for the future, how we might use a middle-of-the-market airplane to amplify that effort, things like our Composite Wing investment that you're well aware of. Propulsion integration is another area where we've been investing. We're standing up an actuation capability. It's going to provide support to 777 and 737. We could further amplify that. So this is a way for us to also build our vertical strategy with an idea that vertical depth can also add life cycle value. So those are all lenses that we're working on, and we are certainly evaluating a middle-of-the-market airplane as a mechanism for helping us grow services. And as we think through that life cycle lens, it's a business process approach that, again, can provide value more broadly to our services business across commercial and defense.
+
+--------------------------------------------------------------------------------
+Rajeev Lalwani,  Morgan Stanley, Research Division - Executive Director    [35]
+--------------------------------------------------------------------------------
+
+          And just a brief follow-up. Just as you look more on the services side, and you've obviously been talking about it a lot more, Dennis, what have you been hearing from some of your suppliers and customers as far as just the feedback and what you're looking to do?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [36]
+--------------------------------------------------------------------------------
+
+          Yes. The key is, as we move to this dedicated integrated services business, we're absolutely focused on our customers. And we believe there's great opportunity here to add value for our customers and provide better solutions for them. So that's where this all starts. As we've had discussions with our customers, those have been very encouraging because we are focused on adding value for them. And we're convinced that with our depth of OEM knowledge, some of the investments we're making and our partnerships with our suppliers, that there are ways to do that together. And certainly, throughout our supply chain, there's interest in what we're doing in the services area. As we contemplate this growth market, as I said, about a $2.5 trillion market over the next 10 years, we see that as a growing market and one we're working with our supply chain, we can grow together and provide better value for our customers. That is our focus on this effort.
+
+--------------------------------------------------------------------------------
+Operator    [37]
+--------------------------------------------------------------------------------
+
+          Our next question is from Howard Rubel with Jefferies.
+
+--------------------------------------------------------------------------------
+Howard Alan Rubel,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst of Aerospace and Defense Electronics    [38]
+--------------------------------------------------------------------------------
+
+          I'm sorry about that before.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [39]
+--------------------------------------------------------------------------------
+
+          Howard, we're glad to have you back.
+
+--------------------------------------------------------------------------------
+Howard Alan Rubel,  Jefferies LLC, Research Division - MD and Senior Equity Research Analyst of Aerospace and Defense Electronics    [40]
+--------------------------------------------------------------------------------
+
+          To shift from performance because it's pretty impressive to talk about maybe orders and sort of the outlook for a moment, sort of 2 parts to it. One is that it looks like book-to-bill this year, based on what you've done in Paris and to date, is clearly going to be better than 1. But could you also talk a little bit about what's going on in the leasing market? Because those are kind of what I'd call shadow orders, where we're seeing aircraft being placed that had already been ordered by the leasing companies so that you're expanding your footprint. And what does that mean and give you confidence in terms of your forward look to volumes?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [41]
+--------------------------------------------------------------------------------
+
+          Well, first of all, on overall book-to-bill, Howard, we're still expecting a book-to-bill of about 1 for the year. You're right. We had a very strong Paris Air Show, and we're very pleased with the outcome there. And I think in general, there was some upside there compared to what we had expected going into the air show. So we're encouraged by the momentum there. But if we look at the overall market, both narrowbodies and widebodies, we still expect orders volume to be similar to last year, a book-to-bill of about 1. As you know, there's a lot of timing associated with orders volume. That said, with the backlog of over 5,700 aircraft, we don't have a great sense of urgency to have to build overall backlog. We're in a very, very solid position. We are very focused on filling out the 777 bridge as a key part of our orders effort. You can see we've made some great progress on that, and I wanted to reiterate again that we're now in an oversold position in 2018, so that's new good news for the 777 bridge, although we still have more work to go there. Now to your point on the leasing companies, we do see a lot of energy there, again, both narrowbodies and widebodies. And as we have customers around the world that are thinking through different business models, the leasing channels are certainly providing some good support to the overall market growth. And you can see that satisfying needs in both passenger and cargo growth. I think just as another really good signpost is, during the quarter, AerCap's order for 30 787-9s. While we continue to be mindful of some hesitancy in the widebody marketplace, having a premier customer like AerCap and their leasing horsepower making a big order in the widebody marketplace, I think, is another good signal for us. So we're going to continue to be mindful about the risks and be very focused on filling out the 777 bridge. And I'm feeling good about the progress we're making. And I think the energy we see in the leasing market supports the overall market strength.
+
+--------------------------------------------------------------------------------
+Operator    [42]
+--------------------------------------------------------------------------------
+
+          The next question is from Andrew Gollan with Berenberg.
+
+--------------------------------------------------------------------------------
+Andrew Gollan,  Berenberg, Research Division - Senior Analyst    [43]
+--------------------------------------------------------------------------------
+
+          So I have a broader question on capital structure. So in light of the decision today that we've learned about accelerating the pension funding, in recent years, Boeing's had a neutral balance sheet position in terms of gross cash and consolidated debt broadly. So with this injection into pension funding, we move to a net debt position of about $4 billion. I just would like your insights into how you think about capital structure. Is this a reflection of just confidence or how you think about the right capital structure for the group relative to history?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [44]
+--------------------------------------------------------------------------------
+
+          Yes. I think it certainly reflects confidence we have in our business, in the market and our ability to execute in that market. I think it goes to the foundation that Dennis talked about as far as the backlog. But I think as far as general capital structure, what you see today is what you should expect to see going forward. And we're very focused on, again, on risk mitigation and top line and bottom line performance. And so as we make these decisions, like pension, that really ties to our performance. If we weren't performing at the levels we were at, we wouldn't have the opportunity to do something like this. And this is a really great opportunity to look after that kind of profile up to 2021 and kind of pull that back, take that risk off the table and, at the same time, very committed to meeting our obligations to all of our employees. So returning cash to shareholders, balanced deployment, investing in our company, in innovation, that's what's gotten us here the last 100 years. That's what's going to get us and allow us to lead in the second century, as Dennis has articulated, and that's going to continue to be our focus.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          And next, we'll go to Seth Seifman with JPMorgan.
+
+--------------------------------------------------------------------------------
+Seth Michael Seifman,  JP Morgan Chase & Co, Research Division - Senior Equity Research Analyst    [46]
+--------------------------------------------------------------------------------
+
+          I wanted to ask about the 787 and very good progress on the deferred balance this quarter, the $530 million reduction. Was there anything kind of unique about this quarter? Or is that sort of the new floor for deferred reduction going forward? And then when we think about the second half of the year and how much better things could get, I was under the impression that there were some price step-downs coming in the second half and that we would see further acceleration from that level.
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [47]
+--------------------------------------------------------------------------------
+
+          Yes -- no, Seth, I'd say there's nothing unique. It is just, again, as we've articulated, the kind of big moving pieces on improving deferred. Certainly, first and foremost, executing to making the deliveries and making rate. Team's done a great job in doing that, coming down the learning curve in the factories as well as step-down in the supply chain and then, of course, the more favorable mix as we bring more -9s and 10s in. But frankly, I guess the only thing that would be a little bit unique here is that we've got -10s in flow, and they're in early production. And as you know, that would be more of a headwind. So I think what you see here, again, beyond that, is pretty straightforward. So obviously, we expect that to improve going forward as we continue to focus on each of those elements. So again, my credit to the teams in Charleston and Seattle because they've done a great job staying day-to-day focused on every unit being more efficient than the prior one. They, in some cases, are setting new standards for the company, so back to my kind of my best practices. We have teams coming in now that are looking at some of these initiatives they have on 87, and we're bringing them across to places like rotorcraft and the fighter lines. So that just gives you a sense of how day-to-day focus is really making a difference in the progress that's being made on the 787 program.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [48]
+--------------------------------------------------------------------------------
+
+          And to your point, Greg, on 787-10, it's showing the value of real manufacturing commonality as well with those first airplanes going through the line.
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [49]
+--------------------------------------------------------------------------------
+
+          Absolutely, yes, yes.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+          And next, we'll go to Ron Epstein with Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Ronald Jay Epstein,  BofA Merrill Lynch, Research Division - Industry Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Dennis, when -- how do you think about the health of your supply chain, particularly as you start to go -- continue, not to start, but continue to go up in rate on the narrowbodies? Are there any pressure points that you worry about? And how do you think about managing those? Because, I mean, obviously, you guys are doing very well with your inside performance. But how do you make sure everybody kind of feeding that is up to snuff as well, particularly as rates go higher?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [52]
+--------------------------------------------------------------------------------
+
+          You bet. Yes, Ron, we spend an intense amount of time with our supply chain just as rigorously taking a look at their productivity curves and investments and ramp-up as we do to our internal operations. In fact, that's all done hand in hand because we know that we're only going to be successful when our supply chain is successful. And as we're ramping up narrowbodies with the 737 line now up to 47 a month in the production system, having just taken that step from 42 to 47, our supply chain has come with us. As you know, we've been paying very close attention to the ramp-up on the MAX and the LEAP engine. And our partners at GE have been doing a great job of ramping up in parallel with us. We're keeping a very close eye on any other pressure points that we might see in the supply chain. So I don't want to make this sound like it's easy, but it's something that is on track and something that we're paying attention to every day. And we're confident that we have the ability to ramp up to 57 a month. The market certainly supports that kind of ramp-up. And by doing it in a disciplined fashion, bringing our supply chain with us, we're confident we'll be able to execute. This move that we just made from 42 to 47 a month has been getting a lot of fanfare, but our team executed it really very cleanly. And that's really a credit to our team that they know how to do these rate ramp-ups and do them incrementally to take out risk and bring our supply chain along. Next year, we'll ramp up to 52 a month, and in 2019, we'll ramp up to 57 a month. So it's a nice, disciplined progression, and as part of our Partnering for Success effort, we're bringing our supply chain along. And we'll continue to keep a close eye on that. If we see any risk points or single-source risk points, we'll make sure that we're building risk mitigations behind those. But right now, we're healthy and marching forward.
+
+--------------------------------------------------------------------------------
+Ronald Jay Epstein,  BofA Merrill Lynch, Research Division - Industry Analyst    [53]
+--------------------------------------------------------------------------------
+
+          And if I may, as a follow-up to that question, when you think about standing the service organization, how are you balancing, obviously, your needs and wants in the aftermarket with your suppliers, right? Because from the supplier perspective, for a lot of them, that's their lifeblood. So how do you balance that?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [54]
+--------------------------------------------------------------------------------
+
+          Yes. As I said earlier, Ron, our objective is to grow together in a growing market, right? This is a market that has a lot of headroom for all of us to serve our customers in a more value-added way. Now certainly, from a Boeing perspective, at the market, as it stands today, we're about a 7% to 9% market share in today's market. So that gives us headroom to grow in a market where, clearly, we have a significant platform presence that's well beyond 7% to 9% of the market. Going forward, we expect that market to expand. And so while there are some places where we will logically have some competition between ourselves and our supply chain in terms of competing for certain service market segments, in large part, this is about growing the market together and adding more value to our customers. I think we're just beginning to scratch the surface on these digital aviation solutions, a value-add for our customers that's going to grow the market and something that we can do together with our supply chain. So that is our preferred business model. Now where we need to, we'll build out vertical capabilities because we're determined to make sure we're adding value for our customers. We've made some of those investments already. We're currently looking through about 40 different categories of support and parts, areas where we may invest for the future. In some cases, those will be vertical capabilities. In some cases, new partnerships with our suppliers. And in some cases, when we need to build an additional supply chain component, we'll make those kind of investments. I think a good example there is the 777X landing gear, as an example. So that whole portfolio of options is in front of us. The key here is the majority of the work should be growing the services business together, doing it in partnership with our suppliers in a way that ultimately adds value for the customers. That's how we win in this market.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          And next, we'll go to Sam Pearlstein with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Samuel Joel Pearlstein,  Wells Fargo Securities, LLC, Research Division - MD, Co-Head of Equity Research & Senior Analyst    [56]
+--------------------------------------------------------------------------------
+
+          I was wondering if you could follow up a little bit more on the Global Services. You did give us that 20-year outlook earlier in the week. You talked about the 7% to 9% share. Looking at the growth rates of the different end markets that you're targeting, I just wonder, when can you get to that aspirational $50 billion target? Is that 5 years, 10 years, 20 years, just in terms of thinking about it? And somewhat related is as you stand up the Global Services and pull out what I presume is a relatively high-margin business out of the segment, how does that affect your BCA aspirational goal of 15% margin just because it's now going to be a different business?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [57]
+--------------------------------------------------------------------------------
+
+          You bet. Let me take on that first part, and then I'll ask Greg to chip in on the second question there. If we take a look at that $50 billion target -- revenue target, annual sales, we've set an aspirational goal for our team that is an aggressive target. We are targeting to hit that level over the next 5 to 10 years, so we provided some span of time to do that. Our preference is to do it more quickly, but we're making the right disciplined investments so we grow in a value-added way, both for our customers and for our company and partners. We do see the majority of that growth being organic investment. We do expect some complementary inorganic investments, either acquisitions or, in some cases, new partnerships. We're working through a whole range of options right now that will fuel that growth. So this is a place where we will invest to grow, but we do see it primarily as organic growth. And I think already, we've seen a number of successes here just coming out of the gates that are encouraging signs on the value we can add for our customers. We stood up Boeing Analytics, as you heard. That's adding information-based services value for our customers. Just recently, we signed contracts with Delta, China Airlines and Korean Air for airplane health management, predictive alerts. We've got a new agreement with AirBridgeCargo for their fuel dashboard. We've got a 10-year service contract with Turkish to optimize navigation capabilities. We've got the agreement with Norwegian that I mentioned in my comments on flight training capabilities. So we're seeing steady progress, great opportunities for us to leverage our OEM depth, leverage our fundamental parts and services business, upgrades and mods, and then really begin to drive accelerated growth in information-based services and data analytics. So all of those will contribute to that $50 billion target. And we're going to move forward in a disciplined way but in an aggressive way. And Greg, do you want to comment on the margins?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [58]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, I would say, from the aspirational goal perspective, it hasn't changed. So yes, there'll be some movements in the portfolio to the 3 business units that, of course, we'll report out in third quarter and give you further insight into that movement. But that's going to be -- the services business is going to be about a $14 billion business at about 15%. But the aspirational goal for BDS and BCA is unchanged. Now obviously, we're looking at the BGS side of it and looking at the marketplace there and the risk and reward, and you can imagine, we're raising the bar there internally as well. So it's not just the $50 billion, but it's also, from a margin perspective, it's the risk and reward in balance and what we're offering to the customers as far as value goes. So broader aspiration, again, I wouldn't think of it any different with the change in setting up 3 business units versus 2.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+          Our next question is from Peter Arment with Baird.
+
+--------------------------------------------------------------------------------
+Peter J. Arment,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Dennis and Greg, when we were in Paris, we talked a little bit about kind of the productivity initiatives, kind of the champion time concepts. And I think we're talking about the 787, for example, about -- in terms of the productivity and what you're squeezing out there. Is this an issue that you're going to be able to still roll out broader across BCA? Or is that a little more unique just because it was a newer program at 787? Just kind of getting at the productivity gains you guys are making.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [61]
+--------------------------------------------------------------------------------
+
+          Yes, Peter, absolutely, we're going to roll it out, but it's even broader than Commercial Airplanes. And this idea of champion times not only at the unit cost level but at the component level, we have teams that are working mid-body and half-body on 787. They're setting new champion times, and what we're seeing is this culture of champion time performance. The farther you drill down, the more powerful it is. And we got teams at the workgroup level that are adopting this philosophy. We're now taking that and we're transporting it to our other Commercial Airplane programs. And Kevin McAllister is doing a great job of spreading that across his enterprise. But in collaboration with Leanne over in the defense and space business, the same thing. We're taking that same philosophy to our fighter lines, the satellite lines, the rotorcraft lines. So this is part of our One Boeing strategy, and this champion time approach to driving productivity, we think, is a real enabler for the future. And our teams are where the great ideas are. Our people are the holders of our innovation, and this champion time work is really unleashing that innovation.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, that completes the analyst question-and-answer session. (Operator Instructions) I'll now return you to The Boeing Company for introductory remarks by Mr. Tom Downey, Senior Vice President of Corporate Communications. Mr. Downey, please go ahead.
+
+--------------------------------------------------------------------------------
+Thomas J. Downey,  The Boeing Company - SVP of Communications    [63]
+--------------------------------------------------------------------------------
+
+          Thank you. We will continue with questions for Dennis and Greg now. If you have any questions following this part of the session, please call our Media Relations Team at (312) 544-2002. Operator, we are ready for the first question. (Operator Instructions)
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+
+          And we'll go to Doug Cameron with The Wall Street Journal.
+
+--------------------------------------------------------------------------------
+Doug Cameron,   -     [65]
+--------------------------------------------------------------------------------
+
+          Can I go back to the supply chain/services? The sort of mantra is that we got a close eye on this, and PFS 2.0 is a win-win, et cetera, et cetera. But yesterday, somebody like kind of trumpeted their latest Partnering for Success deal. Basically today, they issued a profit warning and is basically scared of bankruptcy. Another of your big partners or big suppliers basically said, if services expands like you talk about, then they might have to change the pricing model. So is there a disconnect between what you say and some of your suppliers say? Or have you really got all of this sorted not just now but in the medium term?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [66]
+--------------------------------------------------------------------------------
+
+          Doug, when we take a look at this, again, the key is when we talk about growing services, we always go back and start with the customer. This is about adding value for our customers. And we can do that in partnership with our suppliers, as we always have done in the past. Now certainly, as you pointed out, there's some sense of nervousness or uncertainty as we ramp up. We understand how that might be the case within some of our supply chain. But our actions are following through in developing partnerships with our supply chain and adding value for our customers. Now are there going to be some places where we're going to have to make some hard decisions, where we're going to have to develop alternatives, where we're going to have to build additional supply chain capacity? Yes, there will be some hard things that we'll have to do, but all with an ultimate focus on adding value for our customers. And I do believe, overall, the services market is a high-growth market, and the large majority of our work can be work that we grow together with our supply chain. And where we do have some hard spots, we'll deal with those. That's what our Partnering for Success initiative is designed to do. It's allowed us to get tough business issues on the table, drive those to resolution so that ultimately, we can grow together, and ultimately, we provide better value for our customers.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Our next question is from Julie Johnsson with Bloomberg.
+
+--------------------------------------------------------------------------------
+Julie Johnsson,   -     [68]
+--------------------------------------------------------------------------------
+
+          Dennis, you mentioned inorganic growth for BGS a couple of minutes ago. And BDS has been overshadowed over the last few years by the growth at -- with the commercial division. Would you mind just updating your thinking, your approach to mergers and acquisitions? I mean, Boeing's been focused on bolt-on deals for a long time, maybe going back to the McDonnell Douglas merger. And I'm wondering now, with your stock trading up near $230 per share, that's a really rich currency. And are you open to considering larger strategic acquisitions?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [69]
+--------------------------------------------------------------------------------
+
+          Julie, our strategy and our position has not changed. When we look at uses of cash, we consistently see our priorities as being, first, the most important use is organic investment. And we are making good use of that today. We are bringing more innovation to the marketplace today than we ever have, and that spans our entire business, not to leave out our defense business. It certainly includes things like the 787, the 737 MAX, 777X, but it also includes investments that we're making in programs like T-X, our satellites business, the autonomous systems that we're developing. So we are making organic investments across the board. That's still our #1 use of cash, and that's with the purpose of out-innovating our competition. Secondly, we're going to continue to return cash to our shareholders, and approximately 100% of free cash flow being returned through repurchases and dividends continues to be our second priority. Third is inorganic investments. And we don't see a need to change that strategy. We're going to continue to look for bolt-on opportunities, things that complement our organic investment, but our best, most efficient use of capital is our organic investment machine. That is a well-tested, well-honed machine, one that's producing real growth, and we complement it with our M&A actions. And we're going to be focused on growing our services business in targeted verticals, and those are areas where we have made investments in the past. And we'll continue to make inorganic investments, and we see those as being complementary as we build out vertical capabilities with life cycle value. So that's our strategy going forward.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+
+          Our next question is from Alwyn Scott with Reuters.
+
+--------------------------------------------------------------------------------
+Alwyn Scott,   -     [71]
+--------------------------------------------------------------------------------
+
+          So Boeing has done a lot to restructure, downsize its workforce, reduce production costs. Does Boeing's size and structure now properly match the revenue and demand that you see? Or if not, how do you think about what more needs to be done? I'm not thinking about incremental. I'm thinking more about sort of large structural moves.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [72]
+--------------------------------------------------------------------------------
+
+          You bet. In terms of our business structure, obviously, the big move we just made to stand up our integrated services business was a major structural move. And we're very pleased with the 3-business-unit structure that we now have. We think that's the right framework for future growth. Now within that, we need to be driving competitiveness every day, and we're going to continue to be relentless on that front. And just a reminder, our cost structure is much more than headcount. We're looking at all dimensions of our cost structure. This includes our supply chain. It includes every category of overhead, includes efficiency both inside and outside. And we're going to be relentless on driving our cost structure down and gaining efficiencies so we can fuel the future. As I said before, our #1 use of cash and what we create as we drive competitiveness is to invest in future innovation. And that's really an important investment, not only in products and services, it's also in our manufacturing and design systems. It's in our support and services systems, and it's in our people. And we're focused on making all of those investments for the future. This is not work that we're ever going to be finished with, right? This is a relentless effort to drive competitiveness to fuel our future innovation.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+          Next, we'll go to Jon Ostrower with CNN.
+
+--------------------------------------------------------------------------------
+Jon Ostrower,   -     [74]
+--------------------------------------------------------------------------------
+
+          A couple of questions. First is on CapEx and how it relates to NMA. Kind of thinking about the spending you want to put forth as far as your business plan goes, how much are you weighing the existing infrastructure that you have in the factory space and current investments as it relates to what you can use for NMA, whether it's the Composite Wing Center, existing infrastructure in Everett like the 787 line and also availability in Charleston, in St. Louis? How do you look at that? And kind of continuing the NMA thought, you've put out a forecast this week that calls for 637 new -- 637,000 new pilots over the next 20 years. How much of NMA sizing and the need for an aircraft like that relates not only to the congestion at airports but also a long-term expectation about the availability of pilots and the need to fly larger aircraft if they're not available? I mean, is the pilot shortage a real threat here? And is the NMA strategy partially in response to that?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [75]
+--------------------------------------------------------------------------------
+
+          I'll take the second one. But Greg, why don't you start with the first question?
+
+--------------------------------------------------------------------------------
+Gregory D. Smith,  The Boeing Company - CFO and EVP of Enterprise Performance & Strategy    [76]
+--------------------------------------------------------------------------------
+
+          Yes. Look, Jon, I think just like any good business discipline and decision, you look at capability, you look at capacity, and then you look at affordability. And all that will be taken into consideration when we look at the NMA with, obviously, a clear eye towards winning in the marketplace and how do you do that in the most efficient, effective way possible. So basically, everything would be considered. Just like, again, any good business decision, you're going to look at all your alternatives, taking in all those 3 elements into account and then make a good business decision at the end of it. So that's what will be embedded into the NMA business case as we think about how we mature that going forward.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [77]
+--------------------------------------------------------------------------------
+
+          Exactly. And then, Jon, on your question about pilots and demand for the future, we are taking a very hard look at this growing marketplace. This is sort of in the good-problem-to-have category. But as the world needs 41,000 new airplanes over the next 20 years, as we see traffic growing at 6% to 7%, 8% so far this year, clearly, fleet growth is right in front of us. We're projecting that the global aircraft fleet, after you account for replacements, will roughly double in size over the next 20 years. That's going to drive pilot demand. And so we're working very closely with our customers on how do we help create that pipeline. By the way, that affects both our commercial business and our defense business, where there is a need for future pilots. Some of it is in how we design our future airplanes, how we improve training efficiency, how we allow for rapid ramp-up in talent. And part of our services business is going to be related to improve the pilot training and efficiency for our customers. I wouldn't say that launch of the middle-of-the-market airplane as we consider our options there is really driven by the potential for pilot shortage. It's really more driven by just the overall market demand. We see traffic growing. We see route structures evolving. There are new point-to-point regional structures that may require a new airplane. That's really the basis for this 2,000 to 4,000 potential market that we see. Now we'll have to be mindful of pilot shortages as a potential risk area, but we don't see that as the driver for going to a middle-of-the-market airplane. Middle-of-the-market is really more driven by market growth and customer needs.
+
+--------------------------------------------------------------------------------
+Operator    [78]
+--------------------------------------------------------------------------------
+
+          Next, we'll go to Dominic Gates with The Seattle Times.
+
+--------------------------------------------------------------------------------
+Dominic Gates,   -     [79]
+--------------------------------------------------------------------------------
+
+          Staying on the NMA and the next new airplane, you did -- despite Greg's answer just now, you did, during the previous talk, talk about increasing vertical depth, the potential for doing more propulsion work, more wing work in-house. And I'm just wondering how significant a shift you see there. Of course, historically, as every new plane that Boeing has come up with has had more buy in it than make in it, the proportion -- the make-buy proportion has shifted towards buying. And like 15 years ago, Boeing was talking about getting out of the parts business. But here, you're now talking about increasing vertical depth. How big -- how significant a shift might we see in that next new airplane in terms of the make-buy proportion? And also, how do you see employment within Boeing being affected by that? We're seeing a lot of jobs lost here in Washington State. How do you see that near term as well?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [80]
+--------------------------------------------------------------------------------
+
+          Yes. Dominic, to your first question, we do see increasing focus on vertical content and life cycle value going forward. I think you've seen some of that evolution reflected in the 777X compared to the 787, where we brought more of the engineering back in-house. We think that's a more efficient way to design and engineer for the future. Composite Wing manufacturing complex, composite manufacturing is a core capability that we brought back in-house and invested. Propulsion integration, as you noted. We see selective areas in actuation systems as a place where we want to invest for the future. You noted the ramp-up that we just announced in both Portland and Sheffield associated with 737 and 777 actuation. There are several other categories of capability that we're looking at. And where we can build vertical capability that adds value, takes risk out and adds life cycle value as we look through the services lens, those are areas we're going to invest. So I think you will see an evolution that's more towards additional vertical content with a clear focus on life cycle value addition as an evaluation criteria around that. And if we decide to proceed with a middle-of-the-market airplane, that philosophy, that strategy will be reflected in the airplane. Now in terms of your question around employment, as you know, we've had -- continue to make some tough decisions as we're driving competitiveness. We're continuing to do that in a way that is very respectful of our employees and our people and, where we can, voluntary layoffs and other actions that are, frankly, good for our people and good for our company. And this is a continuous process. So I'm not going to try to give you any long-term trend or numbers prediction, just knowing that we're going to continue to drive competitiveness because we're going to invest in innovation for the future. And ultimately, that investment is good for our company. It's good for our people. It's good for growth of our business, and it's going to provide value for our customers. And that's how our head's set as we make these decisions. We're going to do the right thing to grow the company, and ultimately, that will be good for our people as well.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+
+          Next, we'll go to Peggy Hollinger with Financial Times.
+
+--------------------------------------------------------------------------------
+Peggy Hollinger,   -     [82]
+--------------------------------------------------------------------------------
+
+          Just a couple of slightly different questions, not about the performance. We've noticed the controversy over the head of the Ex-Im Bank. And I just wondered whether you think, perhaps, given that controversy, it would be a good idea to have another nominee. Or do you think you can work with this nominee? And just a little bit of a statement on where we are with regards to the Ex-Im Bank. And if you could update us a bit on Iran, please?
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [83]
+--------------------------------------------------------------------------------
+
+          Yes, on both of those, first, on Ex-Im Bank, again, we continue to believe it is fundamentally important that we get the Ex-Im Bank up and running and fully reauthorized. There are about $30 billion of deal opportunities in the pipeline that, when the bank is fully up and running again, can be executed and will create American manufacturing jobs. And those aren't just Boeing deals. Those are spread across all of the industry. So fundamentally, as a country, we need to get the Ex-Im back up and fully running. Now part of that process, the nomination process to fill the board seats is crucial. We do think it's important that we have a Chairman of the Ex-Im Bank who supports the bank's mission. And as various candidates are being evaluated, that's an important lens to be looking through. And we know there are a number of nominations in flow right now. We're encouraged that there's action being taken. We are also urging Congress and the administration to move forward with finalizing those nominations, filling the board positions and getting the bank back up and running at full speed. That will be good for the economy and good for American manufacturing jobs. On your second question around Iran, we're continuing to make steady progress on that front. Again, all of this is being governed by U.S. government policy, and we're staying completely within that licensing process, stepping our way through the gates. That is moving forward on track, and we still expect to begin delivering airplanes next year.
+
+--------------------------------------------------------------------------------
+Operator    [84]
+--------------------------------------------------------------------------------
+
+          That will be from Gillian Rich with IBD.
+
+--------------------------------------------------------------------------------
+Gillian Rich,   -     [85]
+--------------------------------------------------------------------------------
+
+          My question is kind of a follow-up to an earlier one on what specific changes in the airline industry would you say are driving these requirements for this new kind of mid-market plane, like a new design, what specific things that your customers kind of have been telling you about.
+
+--------------------------------------------------------------------------------
+Dennis A. Muilenburg,  The Boeing Company - Chairman, President & CEO    [86]
+--------------------------------------------------------------------------------
+
+          Yes, when we take a look at the market for this airplane, again, we see route structures around the world continuing to evolve as general passenger traffic growth is occurring, in particular, new regional structures, point-to-point connectivity. That's in this 4,000 to 5,000 nautical mile range, airplanes that are in the 220 to 270 passenger range. That's the ballpark that we're looking at and discussing with customers. So this is really -- reflects the fact that the overall market is growing and these new regional point-to-point structures are evolving, and those new regional structures aren't served well by existing airplanes in general. And so there's an opportunity here to add value for our customers. That's the real focus here. And in order to have an airplane that can serve that marketplace, it needs to have some of the efficiencies in terms of turn times that you get with a widebody airplane, and it also needs to have the economic efficiencies that you get with a narrowbody airplane. So hence, sort of a hybrid approach to what that design might be. Those are the details that we're working through with our customers right now.
+
+--------------------------------------------------------------------------------
+Thomas J. Downey,  The Boeing Company - SVP of Communications    [87]
+--------------------------------------------------------------------------------
+
+          That concludes our call. Again, for members of the media, if you have further questions, please use our Media Relations Team phone number at (312) 544-2002. Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

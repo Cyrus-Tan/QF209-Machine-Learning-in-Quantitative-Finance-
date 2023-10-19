@@ -1,0 +1,610 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2012 Lockheed Martin Earnings Conference Call
+APRIL 26, 2012 / 7:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Chris Kubasik
+   Lockheed Martin Corp - President, COO
+ * Christopher Kubasik
+   Lockheed Martin Corp - President, COO
+ * Bruce Tanner
+   Lockheed Martin Corp - EVP, CFO
+ * Jerry Kircher
+   Lockheed Martin Corp - VP, IR
+ * Bob Stevens
+   Lockheed Martin Corp - Chairman, CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Joe Nadol
+   JPMorgan Chase & Co. - Analyst
+ * George Shapiro
+   Access 342 - Analyst
+ * Noah Poponak
+   Goldman Sachs - Analyst
+ * Carter Copeland
+   Barclays Capital - Analyst
+ * Robert Stallard
+   RBC Capital Markets - Analyst
+ * Robert Spingarn
+   Credit Suisse - Analyst
+ * Douglas Harned
+   Sanford C. Bernstein & Company, Inc. - Analyst
+ * Sam Pearlstein
+   Wells Fargo Securities - Analyst
+ * Peter Arment
+   Sterne, Agee & Leach, Inc. - Analyst
+ * Jason Gursky
+   Citigroup - Analyst
+ * Richard Safran
+   Buckingham Research Group - Analyst
+ * Myles Walton
+   Deutsche Bank - Analyst
+ * Cai von Rumohr
+   Cowen and Company - Analyst
+ * Michael Lewis
+   Lazard Capital Markets - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+           Good day, and welcome, everyone, to the Lockheed Martin first-quarter 2012 earnings results conference call.  Today's call is being recorded.  At this time, for opening remarks and introductions, I would like to turn the call over to Mr.  Jerry Kircher, Vice President of Investor Relations.  Please go ahead, sir. 
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corp - VP, IR    [2]
+--------------------------------------------------------------------------------
+
+           Thank you, Shawn.  Good afternoon.  I'd like to welcome everyone to our first-quarter 2012 earnings conference call.  Joining me today on the call are Bob Stevens, our Chairman and Chief Executive Officer; Chris Kubasik, our President and Chief Operating Officer; and Bruce Tanner, our Executive Vice President and Chief Financial Officer.  Statements made in today's call that are not historical fact are considered forward-looking statements, and are made pursuant to the Safe Harbor provisions of Federal Securities Law.  Actual results may differ.
+ Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to vary materially from anticipated results.  We have posted charts on our website today that we plan to address during the call to supplement our comments.  Please access our website at www.LockheedMartin.com, and click on the Investor Relations link to view and follow the charts.  With that, I'd like to turn the call over to Bob. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [3]
+--------------------------------------------------------------------------------
+
+           Thanks, Jerry.  Good afternoon, everyone.  Thanks for joining our call today.  By now, you've had an opportunity to review two releases from us today; one describing our first quarter performance, and one describing the discussion I've had with our Board regarding my retirement, and our leadership transition plan.  I'll start with the latter.
+ I'm very pleased to announce that our Board has elected Chris Kubasick to be our next Chief Executive Officer, and Marilyn Hewson to be our next President and Chief Operating Officer, with both appointments effective January 1, 2013.  To assure a smooth and seamless transition, I'll continue to serve as CEO through the remainder of 2012, and with shareholder and Board approval, will serve as Chairman of the Board through January 2014.
+ Chris and Marilyn, along with Bruce and many others, have been full partners for many years in evolving our strategies and our operating concepts to deliver superior value to customers and sustained value to shareholders.  Together, we have built a great Leadership Team with bench strength, an excellent workforce, a sound strategy, a solid portfolio, and an operational momentum upon which to build value.  I'm very proud of them and all that they've accomplished, and I'm confident there will be much more to come.
+ Let me anticipate at least one of your questions today.  Why make this decision now?  Well, I must tell you, I love what I do here.  I believe in our mission, our values, our purpose, our people, our customers.  Just having the opportunity to contribute at this level is such a privilege.  I'm grateful to our Board, and I'm grateful to our employees for the chance and for the support.
+ It would be great if it could go on forever, but there are realities.  I'll be 61 years old in September, and 62.5 when the transition plan I've described is complete.  We have a mandatory retirement age here at 65.  By the end of this year, I will have served as our CEO for more than eight years, as President and Chief Operating Officer for about four years before that, and as Chief Financial Officer before that.  By any measure, that's a full period of service.
+ When I assess the complexities in the global security and economic environments, that new reality we've talked so much about, with the increasing velocity and volatility of global events that will shape our decision-making over many years, certainly beyond my mandatory retirement age, I wanted to assure that we have a tested and trusted Senior Leadership Team in place who can provide continuity, and evolve our strategies over the longer term.
+ We have that Team in place now, ready to go, and you know them well.  I've also studied leadership transition environments, and have made my own assessments about what approaches are most successful, and what works best.  Let me give you three thoughts here.  First, I believe longer-cycle transitions that assure a more complete transfer of responsibility are more effective than shorter ones, particularly for complex, long-cycle businesses like ours.
+ Announcing our transition in April, 2012, with an effective date in January, 2013 gives us eight months to focus on transition, and as I mentioned, with the support of our shareholders and the Board, I'll remain as Chairman for another year, through January, 2014.
+ Second, I think it's very healthy to draw highly qualified successes from inside the Company, essentially a grow-your-own philosophy.  We have an exceptionally productive talent management, leadership development, and succession planning process that has had full Board involvement over many years, and both Chris and Marilyn have had a series of very successful rotational assignments that have demonstrated their talent and their ability.
+ And third, I believe transitions are more successful when the Company is strong, and we are strong in every sense; leadership, people, culture, financial flexibility, strategy, portfolio all in place, which led to the performance that we saw in 2011, and that which we are reporting on the first quarter of 2012.
+ That is not to say that there is not more work to do, because there is, but there is always more work to do.  That's why we've committed ourselves to a philosophy of continuous improvement.  Every generation of leaders has their challenges.  Probably the one constant of executive life is that there will be challenges.  Our leaders are up to the task.  Chris is on the call with us today.  Congratulations, Chris. 
+
+--------------------------------------------------------------------------------
+Christopher Kubasik,  Lockheed Martin Corp - President, COO    [4]
+--------------------------------------------------------------------------------
+
+           Well, thanks, Bob, and I'm grateful to you and the other members of our Board for your confidence in my ability to lead this great Company, which has a 100-year history of protecting Americans and allies around the world.  We work with the best team in the industry every day, and I will build upon the foundation we've created to carry out our missions to support our customers.
+ I want to assure everyone, we'll remain focused on meeting our strategic operational and financial commitments, on growing our business profitably, on innovating relevant new technologies, on further engaging our employees, and on returning value to investors.
+ I have worked closely with Marilyn for almost 15 years, and I look forward to partnering with her in our new roles.  Her 29 years with Lockheed Martin, and experience in three business areas in corporate headquarters have given her unique insights in executing our strategy and sustaining our emphasis on operational excellence and affordability.
+ I'm confident the transition will be seamless and successful, and I look forward to reporting our progress along the way.  Again, Bob, thanks to you and the Board for this opportunity.  I'll turn it back to you. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [5]
+--------------------------------------------------------------------------------
+
+           Thanks, Chris, again congratulations to you, and congratulations to Marilyn.  Let me turn to a very brief summary of the first quarter, because we do want to get on to Bruce, and we want to move on to your questions.  I see the quarter as a strong start to 2012, and a continuation of the execution momentum we demonstrated last year.
+ We grew sales by 6%, earnings from continuing operations by 20%, and earnings per share by 29%.  Solid program execution and effective risk reduction, coupled with ongoing cost reduction initiatives, lifted segment operating margins to 11.9% in the quarter, up from 11% in the prior year.
+ Cash generation was $458 million, after making planned pension contributions of $505 million.  Our cash deployment to shareholders in the quarter totaled $569 million, reflecting payments of $327 million in dividends, and share repurchases of $242 million for the retirement of 2.7 million shares.
+ These results reflect the strength of our Corporation, and the quality and dedication of our workforce that I referred to earlier.  Thanks to everyone in the Company for the hard work.  Some uncertainty was relieved in the quarter, with the delivery of the President's FY13 budget request to Congress on February 6.  The proposed defense budget outlines a base budget of $525 billion, with an overseas contingency operation budget of $88 billion.
+ This budget reflects the new National Security strategy outlined by the President and the Secretary of Defense, and the priorities within the budget generally align with our portfolio and our experience.  The Department of Defense remains on a course to reduce spending by $487 billion over the next 10 years, in accordance with the requirements of the Budget Control Act, but there's been no meaningful movement on sequestration.
+ I believe our views in opposition to the sequestration process are clear, and we'll continue to work to stop this action.  At the same time, we continue to work on affordability projects.  From 2010 to 2011, we've lowered our overhead costs as reflected in our forward pricing rate proposals submitted to customers by almost $1.2 billion.  Over the same period, we removed 1.5 million square feet from facilities, and we're projecting the removal of an additional 2.9 million square feet through 2014.
+ Beyond facilities reductions, we have also had to implement painful employee reductions.  Since 2008, the net reduction of our total workforce stands at about 18%, with 26% of those reductions in leadership positions.  Business conditions and competitive pressures require us to continue to evaluate staffing levels, and were the catalysts for the recently announced layoff of an additional 500 employees within our MS2 business.
+ Finally, let me turn to the F-35 Joint Strike Fighter.  Year-to-date performance in the flight test program is ahead of plan.  On the conventional takeoff and landing aircraft, we are slightly ahead of plan for both the number of flights conducted, and the number of test points earned.  On the short takeoff and vertical landing aircraft, we are ahead of plan by about 60% on flights, and about 22% on test points earned, and on the carrier variant, we're also ahead of plan by about 31% on flights, and 32% on test points earned.
+ Contract negotiations continue on the Lock 5 program, with ongoing discussions between the customer and our F-35 team.  We received our first counter offer from the Government yesterday, and that's currently under evaluation, and we look forward to finalizing the negotiations in the second quarter.  We were pleased with the recent decision by the US Government to add two additional aircraft to Lock 5, bringing the revised procurement quantity to 32 aircraft.
+ Also, at midnight last Sunday, about 3,600 members of the International Association of Machinists Union in Fort Worth, Texas, rejected our best and final offer, and are on strike.  The offer that we advanced was fair and competitive, and balanced the interests of employees, the Company, and our customers, as we seek to position our business to meet today's affordability challenges, and win new business in the future.
+ For current Fort Worth Machinists Union employees, our offer included increases in wages, pension contributions, annual cost of living supplements and adjustments, and a ratification bonus, but also sought to convert the defined benefit pension plan to a defined contribution plan for new hires that would join our workforce in the future.
+ This position of moving from a defined benefit pension plan to a defined contribution plan for new employees has been applied consistently across our Company for some time now, since 2006, and I'm confident it's the right approach to meet the demands of our business.  Our operations will remain open, and we'll implement our contingency plan while focusing on meeting our commitments to our customers.  Now, I'll have Bruce go through some of the details of the quarter, and then we'll open up the line for questions. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [6]
+--------------------------------------------------------------------------------
+
+           Thanks, Bob.  Good afternoon everyone.  As I highlight our key financial accomplishments, please follow along with the web charts that we included with our earnings release today.  Let's begin with chart three, and an overview of the first quarter.  We grew sales for the Company by 6% over our first quarter, or excuse me, our 2011 first quarter level.  This growth was slightly better than expected, and I'll describe the drivers behind that growth on the next chart.
+ Our segment operating profit margins improved by 90 basis points to 11.9%, and I'll also provide more color on that improvement in a couple of charts.  Earnings per share from continuing operations increased by 29%, driven by the higher sales volume, the margin improvements, as well as a lower share count compared with this time last year.
+ We generated approximately $460 million in cash from operations, while making some expected payments that we discussed during the last call, including over $500 million of pension contributions made this quarter.  As the result of our performance to begin the year, we increased our segment operating profit outlook by $50 million.
+ On chart 4, we'll look at our sales by the four business areas.  Sales for the Company were slightly ahead of our expectations, with three of our four business areas growing in the quarter.  Aeronautics led this growth with an 18% increase, driven primarily by accelerated and higher quantities of both C-130 and F-16 aircraft deliveries, and higher F-35 production volumes.  Electronic Systems had 4% growth in the quarter, led by our emission systems and sensors, and missiles and fire control business units.
+ Space Systems started the year with a 2% increase in sales for the quarter, consistent with our expectations, and IS and GS declined by 3%, driven mostly by a reduction in sales for the AMF JTRS program, but this overall reduction was less significant than we had expected, with growth in our intelligence line of business helping to mitigate the JTRS decline.
+ Chart 5 shows the segment margin levels for each of the four business areas.  As you can see, most of the margin improvement that lead to the company's 11.9% level was driven by Electronic Systems.  This improvement was driven primarily by outstanding performance at our missiles and fire control business unit across a large group of programs, and also reflected the acceleration of a number of performance milestones and contractual actions that were expected to occur later in the year.
+ The net of this performance and acceleration led us to increase the guidance for Electronic Systems operating profit by $50 million for the year.  Turning to chart 6 and our earnings per share in the quarter, EPS from continuing operations grew 29% over the $1.57 per share we reported a year ago, again driven by the higher sales volumes, margin improvement, and lower share count.  And our pension-adjusted EPS of $2.41 grew by a strong 22% over last year.
+ Moving to chart 7, you can see our updated outlook for the year.  We're maintaining our sales outlook, as most of the first-quarter growth reflected the timing of deliveries, and not an increase in the total deliveries for the year.  Our segment profit outlook is $50 million higher than we provided in January, as we just discussed.
+ However, our earnings per share from continuing operations remains at $7.70 to $7.90 as a result of changes in several non-operational items.  I'll discuss this further on the next chart.  Finally, with the additional segment operating profit for the year, we believe that our cash from operations will be at least $3.8 billion.
+ On chart 8, we'll discuss our earnings per share outlook of $7.70 to $7.90.  This outlook recognizes the $50 million increase in segment operating profit for $0.10 per share, and this offset non-operational items of an equal amount.  The first of these items is a net increase in unallocated expenses, reflecting the change in our post-retirement benefit asset and liability levels, along with an increase in several corporate expense items, including our environmental remediation liabilities.
+ In addition to these non-operational cost increases, our expected average share count for calculating EPS increased, due to both the higher than planned level of options exercised in the quarter, and an increase in share price, resulting in less share count reduction for the planned $1 billion of share repurchases.
+ Chart 9 shows our sales guidance for the year, again reflecting no change from our initial guidance.  Chart 10 shows the $50 million increase in our segment operating profit outlook for the year, with all the change resulting from our increase in expectations for Electronic Systems.
+ And finally, we wrap up with our summary on chart 11.  While we're mindful of the open labor negotiations in our Aeronautics business area, and the potential impacts of sequestration, we're off to a good start for the year.  And with that, we're ready for your questions.  Shawn? 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+     Thank you.
+ (Operator Instructions)
+ Our first question comes from Richard Safran with Buckingham Research.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Richard Safran,  Buckingham Research Group - Analyst    [2]
+--------------------------------------------------------------------------------
+
+     Hi.  Good afternoon.  If it's okay, I have one question for Bruce, and then what I think may be a quick question here for Bob.  Bruce, I'm just looking at your Electronic Systems margins here, which seem to be well above expectations.  I want to know if you could provide some color on the risk retirement events that allowed margins at ES to expand so much, and any specifics you could provide would be helpful there. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [3]
+--------------------------------------------------------------------------------
+
+     Well thanks, Rich.  Yes, 15%, obviously, a little higher than we've run in years past.  In fact, I think it's probably the highest rate for any business area, possibly, in the history of the Corporation.  As I look at the performance adjustments in the quarter, they were unusually high in the first quarter, and as you said, particularly in Electronic Systems, most specifically within missiles and fire control, think of that being about $150 million more first quarter this year than the first quarter last year, and as I look at that, I think we had accelerated performance milestones, as I said on the previous discussion, contractual action, a number of risk retirements.  I'll give you a couple examples.  One, for instance, was we reached initial operating capability on our sniper pods for the Australian F-18 aircraft this quarter, when we expected to do that in a subsequent quarter this year.
+ We also had a number of completions of block delivery items, and by that, I mean where we're shipping a large quantity of, in this case missiles, Hellfire missiles, MLRSs, and the like where upon the completion of a group of deliveries, that results in the reduction of risk retirements for that block, and in some cases, it actually resulted in the reduction of warranty obligations, and so we had sort of a double-whammy effect for those two events in the quarter earlier than planned.  As I look throughout the rest of the year, Rich, I do think we are going to expect to return to lower levels of profit adjustments going forward in the remaining quarters, and I expect that total year will be very much in line with what we experienced in 2011.  I think you had a question for Bob? 
+
+--------------------------------------------------------------------------------
+Richard Safran,  Buckingham Research Group - Analyst    [4]
+--------------------------------------------------------------------------------
+
+     Yes, thanks, Bruce.  Bob, at the risk of this being a somewhat sensitive topic, I wanted to know if I could get a comment from you on negotiations with the Machinists Union of Fort Worth.  I wanted to know if you could talk about the impact of a protected disagreement.  Is this a situation that is serious enough where, for example, you think you have the potential to lay off personnel, and I'm only asking this because the news reports I'm looking at seem to indicate that the Union is make being statements like they are ready for a long strike, that kind of thing. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [5]
+--------------------------------------------------------------------------------
+
+     I appreciate the question, and it is a matter that we're focused on.  I mentioned in discussions with the media earlier today that I was surprised that the IAM went on strike, and the reason was that we have not asked the IAM Union workers in Fort Worth to do anything our other employees have not already done.  For some time, now, we've been converting the Company from a defined benefit pension plan to a defined contribution plan.  This is a practice that is not unique to our Company.  It is not unique in our industry, and it's a practice that's entirely consistent with today's economic realities.  Nothing is being taken away from current Union employees in the offer that we've presented.  I believe it's very competitive in today's economy, reflecting our value of the work that's being done by our union employees.
+ And it's not clear to me how, in this environment, how many new employees we'll be hiring in the future, but any new employees hired in the future will be offered a pension plan, and I personally think it would be an unfortunate outcome to have a strike over the principal issue of defined benefit pension plans for future hires to cause any unnecessary disruption in the F-35 program or any other program that would put the employment of our current workers at risk.  Every action that this Company has taken, for many years now, has been to stabilize our program base, particularly in the face of mounting uncertainty with regard to overall economic resources available.  So I believed this action was certainly unwelcome.  Having said that, we have a contingency plan in place, we're compelled, now, to execute that contingency plan, and we are.  We continue to fly the airplanes, and we continue to build the airplanes.  But I do believe, in every sense, the offer that we put forward to the Union was a fair and reasonable position. 
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Joe Nadol with JP Morgan.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Joe Nadol,  JPMorgan Chase & Co. - Analyst    [7]
+--------------------------------------------------------------------------------
+
+     Thanks.  Good afternoon, and congrats, both to you, Bob, and you, Chris.  My question, Bob, is on the F-35.  We've seen, with the release of the budget the last few months, a lower ramp over the next five years for the US, and there's been a number of countries -- the waffling publicly of some of your customers internationally has continued, and I'm wondering if you could give us an update on your view on where you stand on that, the potential cost spiral, and all of the issues that I know you're very focused on. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [8]
+--------------------------------------------------------------------------------
+
+     Yes, thanks, Joe.  I would tell you, I think the actions that were taken recently, even with the phasing out of additional airplanes, added a little bit to a sense of stability the program.  We might be looking at quantities less than we would have preferred to see, but I think we've stabilized, and I think the performance of the airplane is being quite recognized pretty broadly by customers.  It is not to say we don't have challenges, but we're making progress against a set of challenges.  We have known corrective actions for observations that have been made in the flight test program.  I get reinforcing language from our partners pretty consistently, and we had a favorable decision in Japan.  We're looking at Korea.  We're working effectively with Israel on the international front.
+ I think it's quite understandable to me, Joe, that the leadership in our partner governments are looking at their security challenges and their economic challenges, and they may be talking about phasing an airplane here or there, but it also strikes me as very clear that they are uniformly committed to a fifth generation airplane, because they believe that airplane, over the next 50 years, will provide the maximum amount of security, and the best investment of very scarce security dollars.  So I think we've gotten very strong, reinforcing views of their commitment and interest in the program.  It is our job to go execute that.  And not to conflate issues, Joe, but that's why the strike was a bit of surprise to me, and why we would like to have this matter resolved. 
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Robert Stallard with Royal Bank of Canada. 
+
+--------------------------------------------------------------------------------
+Robert Stallard,  RBC Capital Markets - Analyst    [10]
+--------------------------------------------------------------------------------
+
+     Thanks so much, and good afternoon. 
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corp - VP, IR    [11]
+--------------------------------------------------------------------------------
+
+     Hi, Rob. 
+
+--------------------------------------------------------------------------------
+Robert Stallard,  RBC Capital Markets - Analyst    [12]
+--------------------------------------------------------------------------------
+
+     Bob, I was wondering if you could comment on your cash deployment strategy, and whether you're comfortable with the allocation that you currently have between buy-backs, dividends, and potentially, acquisitions going forward. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [13]
+--------------------------------------------------------------------------------
+
+     I think we're generally pleased with what we have done historically, and where we are today.  Robert, I know you know we look at this on a continuous basis.  We're giving it great attention now.  But I think it has served the Company well, and I think it has served the interests of the investors well. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [14]
+--------------------------------------------------------------------------------
+
+     Rob, I'll jump that from my perspective, as well.  I look at our cash deployment practice, and I think the keyword there has been flexibility, and specifically, flexibility to address sort of four constituents that I always think of, relative to cash deployment.  Obviously, starting with folks like yourself and shareholders, where we consider dividends, stock repurchase.  I also think the ability to have fairly quick action on acquisitions by having some cash in the bank to enable us to do some quick decisions, and not have to wait on financing, for instance, is a help as well.  I look at customers, and there, the ability to make critical investments from both a capital expenditure and IRAD perspective, our Independent Research and Development.
+ I think having some consideration for addressing potential continuing resolution impacts in advance of sequestration impacts, including the effects of small suppliers, and being able to decide what makes sense from a disruption perspective, as far as helping some of those smaller suppliers through these periods of funding uncertainty, I think is also helpful.  I look at employees as another constituent, and that's primarily as it relates to funding the pension plan, which I think we've demonstrated our willingness to do that for quite some time.  And lastly, I look at debt holders, and there, I think maintaining the appropriate ratings levels relative to our desires going forward.  Keeping a balance between the demands of equity holders and debt holders is a critical element there, as well, and I think the question is sort of maintaining that balance, and maintaining that flexibility going forward.  I think Chris has one other add here. 
+
+--------------------------------------------------------------------------------
+Chris Kubasik,  Lockheed Martin Corp - President, COO    [15]
+--------------------------------------------------------------------------------
+
+     Rob, as you would expect, I've obviously been part of the decision and strategy, and perfectly aligned with Bob and Bruce, and I don't anticipate any changes in our cash deployment strategy as I look to the future. 
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Rob Spingarn with Credit Suisse.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Robert Spingarn,  Credit Suisse - Analyst    [17]
+--------------------------------------------------------------------------------
+
+     Good afternoon.  Congrats, Bob and Chris. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [18]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Robert Spingarn,  Credit Suisse - Analyst    [19]
+--------------------------------------------------------------------------------
+
+     Following up on the last question, particularly Bruce, it sounds a little bit like your strategy is evolving as the environment changes.  You talked before about you, obviously, lead with the dividend -- highest yield in the sector.  And you've talked about continuing that momentum, maintaining the strong buy-back, and reminded us in the past that you've got the cash balance to allow for that, but now with the stock where it is, you're guiding to a $1 billion buy-back.  So have we seen the peak in the buy-back at this point, and is there any difference in your M&A strategy?  It seems like you're preserving cash for more options than you did even just a quarter ago. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [20]
+--------------------------------------------------------------------------------
+
+     Rob, I think we still have a long-standing, 50% free cash flow commitment to shareholders.  That's obviously been changing over time, such that now the dividend practically gets us to the 50% of free cash flow.  I want to be able to remain opportunistic as far as share repurchases are concerned, and as you might expect, if we took a look at what we spent in the first quarter this year, we actually spent almost the exact same amount as we spent in the first quarter of last year, so we're tracking very closely to both $0.25 billion dollars that we committed to, as well as tracking to where we were last year.  I think we'll be opportunistic.  Obviously, the stock has run up some on price.
+ I think our commitment relative to the dividends has been very consistent.  We've had nine consecutive years of double digit increases in our dividend policy, and as I always say, I think our past track record is the best indicator of where we're going in the future with regard to that.  I do think on the acquisition side, we are still in that marketplace, as I said, on the first quarter call.  I do like having the flexibility to make quick decisions relative to engaging.  There is more competition, I think, with some of the acquisitions that we're looking at.  So I think there's not a huge change.  You said kind of a change in the style going forward relative to cash deployment.  I wouldn't say it's a huge change, but we are mindful of this is a little different environment than we've been in the past. 
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Cai von Rumohr with Cowen & Company.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen and Company - Analyst    [22]
+--------------------------------------------------------------------------------
+
+     Yes, I believe you had 12 weeks versus 13, and yet your sales were particularly strong.  I know you had the pull-forwards in Aeronautical.  Can you give us just a little more color on why they were quite so strong, ex the aeronautical, which I think you've already explained? 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [23]
+--------------------------------------------------------------------------------
+
+     Yes, Cai, I'll take that one on.  It was 12 weeks, to your point, and I'll maybe anticipate the next question, the fourteenth week happens in the third quarter of this year, so you may see the offset of that in the third quarter coming up.  Most of the sales increase was, frankly, on deliveries, as opposed to cost volume, and particularly true, obviously, in the Aeronautics business, but that was also true, in large part, in Electronic Systems.  I think, as I looked, at least at IS and GS, I was particularly pleased to see where they ended the first quarter, because even though they were down 3%, the fact that it was down 3%, and they've got a fairly large portion of sales that are cost-based POC, percentage of completion-based sales, and were still only down 3%, I think is a real help as far as me feeling good about their performance for the rest of the year.  I mentioned some growth in intelligence that helped offset some of the AMF JTRS reduction.  That obviously would have been greater had we had another week in the quarter, so I think that's benefited us.  Again, I think, as I said with the prepared remarks, I think we were a little bit higher in sales in the first quarter than we had anticipated, especially given the 12 weeks.  I think it's a little too early.  Obviously we held the sales outlook constant for the year.  I think it's a little too early to say there's an increase in the rest of the year out there, so we've kept committed to the $45 billion to $46 billion, and I'll leave it at that. 
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Doug Harned with Sanford Bernstein.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Douglas Harned,  Sanford C. Bernstein & Company, Inc. - Analyst    [25]
+--------------------------------------------------------------------------------
+
+     Yes, good afternoon. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [26]
+--------------------------------------------------------------------------------
+
+     Hi, Doug. 
+
+--------------------------------------------------------------------------------
+Douglas Harned,  Sanford C. Bernstein & Company, Inc. - Analyst    [27]
+--------------------------------------------------------------------------------
+
+     I'm interested IS and GS, and just trying to understand when you look forward, we've seen a little bit of contraction in backlog, and if you're looking forward and you split this into defense, intel, and civil, how are you seeing outlook right now, over the next few years in those different markets, and what are you seeing, also, in terms of the competitive environment?  Are you seeing more competition on individual contracts as they come up? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [28]
+--------------------------------------------------------------------------------
+
+     Doug, I'll try that one, as well.  As we looked at IS and GS, and I'm just kind of looking at some of my notes here, I think the surprise -- it wasn't a surprise, but the biggest driver of the downer in the first quarter, as I said, was in the defense line of business, again, offset in large part by the intelligence side.  Civil stayed flat relative to the prior year's first quarter, and I think, going forward, that's going to be somewhat the story for the rest of this year.  The civil business is going to be flat to slightly lower than it was last year.  Defense is going to be down, primarily because of the MF JTRS.  Intelligence is going to be down to slightly flat, but possibly with some growth, because of what we saw happen in the first quarter.  I'm optimistic, really, in all three lines of our business, relative to the ability to grow some of the cyber activities, cutting across, as I said, all three lines of business.  I think we're finally starting to see -- I know you guys have been tired of us talking about cyber for so long without much results across the industry, but I think we're starting to see some traction there that has been helping us to have some growth there going forward.  There's also opportunities, as you well know, this is the business area where we have most of our adjacent market opportunities, and that includes the energy healthcare, we made the acquisition last year with QTC from a healthcare perspective, and I think that's got some prospects to help maybe mitigate some of the, particularly, lightness in the defense in the near term. 
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Sam Pearlstein with Wells Fargo.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities - Analyst    [30]
+--------------------------------------------------------------------------------
+
+     Good afternoon, and congratulations, Chris, and Bob.  And Bob, I'm glad you let Chris finally out to talk to investors. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [31]
+--------------------------------------------------------------------------------
+
+     You're welcome.  I am too. 
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities - Analyst    [32]
+--------------------------------------------------------------------------------
+
+     Can you just talk, and I guess it's mostly Bruce, but can you talk a little bit about the order environment?  In the past, you talked about the first half would be relatively weak, and I know the Aeronautics shipments were up, but the backlog there did decline $2 billion sequentially.  So can you just talk about how that backlog and the order activity is going to look, as we look through the year? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [33]
+--------------------------------------------------------------------------------
+
+     Yes, sure, Sam.  I'd like to think we've teed it up as we expected it to happen in the first quarter.  I think in the January call, we said we expected it to go down sequentially.  I'll say, as I sit here today, I think second quarter is going to go down from the first quarter, although I'll say a lot of that is dependent upon the ongoing F-35 negotiations.  So depending on when the LRIP 5 negotiation finishes, depending on when we get additional funding Undefinitized Contractual Action, or the UCA, for LRIP-6, and depending on when we get the long lead funding for LRIP-7, that will bounce between second and third quarter, likely.  If those all were to happen in the second quarter, we might actually see some growth.  If not, think I we'll have a big third quarter.  We are also expecting the F-16 Mod program for the Taiwanese government to happen in the third quarter.  And in fourth quarter, we always expect that to be our largest quarter.  Of all four quarters, that's where we get the orders for the fiscal year, the new fiscal year coming up, and think of that as fleet ballistic missile, PAC-3, and in this case, the C-5, FY13 order, which is getting bigger and bigger every year, as those quantities go up.  So I think I keyed up, at the last call that we caught, by the end of this year, we get close to where we were at the end of last year, and I still think that's where we see it as we sit here today. 
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Jason Gursky with Citi.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [35]
+--------------------------------------------------------------------------------
+
+     Good afternoon, and my congratulations, as well, to both of you. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [36]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [37]
+--------------------------------------------------------------------------------
+
+     Bruce, just a quick question on cash.  I want to focus in on the cadence for cash generation for the rest of this year, have you remind us, perhaps, of what your pension contribution plans are for this year, perhaps pension contributions for next year, as well, and then just talk about the impact of FAS-CAS harmonization, and how you are viewing that, at this point, from cash generation, as you move into some of the out years.  But if you could give us a flavor of cadence for the rest of this year, what cash might do next year, particularly as it relates to pension contributions, and then longer term what FAS-CAS is going to do for you. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [38]
+--------------------------------------------------------------------------------
+
+     Jason, let me try to address all those for you.  You talked about the cadence of cash for the year and pension contributions.  I tried to see if, actually, I think on the December call, or the October call -- if not October, then definitely in January, that we're going to have a little different profile in cash in 2012 as maybe compared to prior years, where we are going to have a lower first half of the year in cash, and probably a higher second half of the year than we've experienced in the previous years.  Still think that's going to happen.  First quarter obviously followed suit to that pattern, if you will.  Second quarter, I'm expecting it to look a lot like the first quarter, basically.  We've already made a $600 million contribution to the pension plan.  That satisfies all of the required contributions to the pension plan in 2011.  That's the full $1.1 billion, roughly.  We also had two tax payments, as we normally do in the second quarter, and that's why it's keeping it at about the $0.5 billion level.  We do think the second half of the year will be much higher than the first two quarters, and get to the $3.8 billion.  And again, we told you, or at least I told you in the prepared remarks, that we're increasing, or at least feel more confident in our ability to generate the $3.8 billion, at least that much, with the additional operating profit that we're generating.
+ I'm trying to recall, I think you asked what the contribution for pensions was next year.  It grows fairly considerably.  Think of it as $1.1 billion this year.  It's probably another $1 billion next year, to $2.1 billion, or so.  The CAS contribution grows slightly, maybe $300 million or $400 million, as we sit here today.  I think the real heart of your question, Jason, is so what happens over time with that contribution?  And you should think of us, from sort of a cash harmonization perspective, as having roughly $4 billion of advanced contributions to the ARISA, versus what we recovered from a CAS perspective.  And so what CAS harmonization is doing is spreading that advanced funding, if you will, that $4 billion over the period of the cash harmonization recovery.  So think of that as 2013 through 2017.  So that will be spread not quite peanut butter, but 25% increments each year, 25%, 50%, 75% and 100% over that period of time.  So we expect operating cash will get a pretty significant benefit from the recovery of that previously funded ARISA payments over the next few years. 
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Noah Popanak with Goldman Sachs.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [40]
+--------------------------------------------------------------------------------
+
+     Hi, good afternoon, everybody. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [41]
+--------------------------------------------------------------------------------
+
+     Good afternoon. 
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [42]
+--------------------------------------------------------------------------------
+
+     Congrats to everybody on their respective movements. 
+
+--------------------------------------------------------------------------------
+Chris Kubasik,  Lockheed Martin Corp - President, COO    [43]
+--------------------------------------------------------------------------------
+
+     Thank you. 
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [44]
+--------------------------------------------------------------------------------
+
+     A couple of questions on Aeronautics.  First, can you give us your latest view on what 2012, or just 2011 units by program should look like, and if you can provide any commentary on '13 versus '12 as well, even if just directionally, that would be helpful, and then on Aeronautics margins, they've kind of been reset lower, as you're layering in more lower margin revenue.  The guidance implies a move back towards '11 through the rest of the year.  I'm just wondering if you could provide any comments on your thoughts on the direction of the Aeronautics margin beyond 2012 for the next couple of years.  Thank you. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [45]
+--------------------------------------------------------------------------------
+
+     Hi, Noah.  I'll take that, as well.  So in terms of the deliveries by program, I think was the first part of your question, maybe '12 versus '11.  I think we're up pretty significantly in our F-16 deliveries, especially in the year 2012 versus '11.  We're going to be somewhere around the 40 aircraft in 2012 for F-16s, versus I think we did 22 in 2011.  Quite a few of those get delivered off of the Turkish assembly line.  I think more than half, if I recall, come off the Turkish line.  The rest of those come off the Fort Worth F-16 line.  C-130s are fairly constant to last year.  We'll do -- I think we did 33 last year, we'll do that number, maybe 34 this year.  The other program that's got some quantity increases is the C-5 program.  We delivered two last year.  We'll likely do about six this year.  I think the F-35, it's probably well known, we'll stay fairly flat in that period of time, somewhere in the 30 aircraft mode.  I'll remind you, again, we're still booking those early low rate initial production contracts on a percentage of completion basis, so sales will not tie to the deliveries of those aircraft, if you will.
+ And then I think you talked about the Aeronautics margin this year and going forward.  We have been talking about the Aero margin coming down when the associated volume of the F-35 program starts to pick up, and that program brings with it greater weight at a lower margin.  We still think that's the case.  I think, as I look forward, we're going to come down some from where we are in 2012.  Frankly, we benefited in 2011, and we're still benefiting in 2012 from a number of the cost reduction activities that we've put in place over the past 18 months or so.  Think of those, as Bob talked about, some facility reductions, some headcount reductions.  Some of that benefits the US government.  Some of that benefits the contractor, in this case, us, and we're seeing that materialize in margin improvements, not just in Aeronautics, but especially in Electronic Systems, as well.  That helped 2012 from where I thought we would be a year ago.  I still think we're going to come off that number, the 11% number, going forward because of the F-35 volume.  We'll be somewhere in the 10% to 10.5% range, would be my guess-timate over the next couple of years from a margin perspective for Aero. 
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+     Our next question come from Myles Walton with Deutsche Bank.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [47]
+--------------------------------------------------------------------------------
+
+     Thanks, good afternoon, and welcome back to the call, Chris. 
+
+--------------------------------------------------------------------------------
+Chris Kubasik,  Lockheed Martin Corp - President, COO    [48]
+--------------------------------------------------------------------------------
+
+     Well thank you. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [49]
+--------------------------------------------------------------------------------
+
+     Bob, you talked about the flight test program for the F-35 tracking ahead of schedule.  I'm curious if you can talk about it, not from the hardware side, but the software side, and kind of some of the schedule milestones that you're looking at there, where you are relative to the respective block schedules, and whether you're on par with the plan, or still tracking a few months behind? 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [50]
+--------------------------------------------------------------------------------
+
+     Yes, Miles.  It just so happens that we have our Chief Operating Officer here with us today, and he knows everything there is to know about F-35 software schedules. 
+
+--------------------------------------------------------------------------------
+Chris Kubasik,  Lockheed Martin Corp - President, COO    [51]
+--------------------------------------------------------------------------------
+
+     Miles, let me talk about Block 2-A.  That's the next milestone that we're focused on.  We're a couple months behind schedule.  There's some pressure on that.  The good news is that both ourselves and our customers see this status in the same fashion, and we're working on a recovery plan.  So sometime in the middle of 2012, whether it's July or September, in that time frame, we will be in position to deliver Block 2-A.  And again, the ultimate delivery under the development plan for the remainder of the software is due in the 2016, 2017 time frame.  So we have three years to get to 2-B and the IOC.  So I'm pleased with the progress that we're making.  About 90% of the airborne software code has already been written, and a little more than 85% is in the lab and in flight test.  So we're tracking this on a regular basis, we've made some good progress here, of late, and I'm confident the Team will deliver. 
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+     Our next question comes from George Shapiro of Shapiro Research.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+George Shapiro,  Access 342 - Analyst    [53]
+--------------------------------------------------------------------------------
+
+     Yes, Bruce, I wanted to pursue the F-35 margin.  Based on a lot of the disclosure that you gave in the report, it looks like the F-35 margin on the production went up this year from last year.  If you could just talk a little bit about what caused that, and where we might expect it to go. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [54]
+--------------------------------------------------------------------------------
+
+     Yes, George.  As usual, you're pretty perceptive, and I think you gave us a backhanded compliment on the disclosure, so we appreciate that, as well.  I'll pass that on to the Team.  The F-35 margins, on the production side, on the lower initial production contracts, I think I tried to tee up, in the last couple of calls, that we're nearing completion of the deliveries of each one of the early, early LRIP contracts.  So in the case, I believe it was LRIP 1 and LRIP 2, we're far enough along on deliveries of those two, in particular, that we did have some performance adjustments on the positive side, simply reflecting fact that we've come, in the case of LRIP-1 we've delivered those aircraft, and in the case of LRIP-2 we're making very good progress on the completion of the aircraft out of the factory for that lot, as well, and as you would expect, the risk retirements associated with that progress have enabled us to make an improvement in the performance adjustments that we just talked about.  Going forward, I think there might be some potential for some additional -- on the latter, additional LRIP-2 or LRIP-3, I don't think anything sizeable and I think the overall margins, as far as where we see it, is kind of, think of it between mid and double digit sorts of levels for the year, is where we think the LRIP contracts will come out in total. 
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Michael Lewis of Lazard Capital.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Michael Lewis,  Lazard Capital Markets - Analyst    [56]
+--------------------------------------------------------------------------------
+
+     Yes, and I just wanted to circle back on F-35 for a second, and get your opinion on exactly how you expect the Congress to come back with these markups, and what else you would expect, whether there's additional aircraft that could be brought back into the program in '13 & '14, thank you. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [57]
+--------------------------------------------------------------------------------
+
+     Yes, thanks, Michael.  I believe that the Fiscal '13 bill, which is on the hill now, is being marked.  And let me say, so far, because we're not completely through these discussions, I think the early indication is the House marked it 29 airplanes, the Senate has not yet marked.  Our conclusion after discussions, again, recognizing we are not through with the process is that there's a good level of support for the quantity of the program that's been described in the re-phasing of the production plan.  So I have this sense that there is a view that we've got the program better managed and better focused, and we're earning value in both the flight test program and on the production line, and that we need to stabilize the production build, focus on cost reduction and affordability, and there's a general level of support for the quantities that Bruce and I have referred you to over time.  We see those quantities as being, let me say, within a range of 30 to 32-ish kind of airplanes flat for a couple of years, and that's the US content.  So I think a corollary to your question is, can that be changed?  I don't think it's likely to be changed from the US domestic buy, but we might see an increase in airplanes, probably not in the very near term, but we could see an increase in airplanes during this flattish period, were international customers to come forward and combine their buy with the US buy. 
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+     Our next question comes from Carter Copeland of Barclays. 
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [59]
+--------------------------------------------------------------------------------
+
+     Good afternoon, and I'd like to reiterate the congratulations to Bob on all your success, and Chris, welcome back to the call. 
+
+--------------------------------------------------------------------------------
+Chris Kubasik,  Lockheed Martin Corp - President, COO    [60]
+--------------------------------------------------------------------------------
+
+     Great, thank you, Carter. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [61]
+--------------------------------------------------------------------------------
+
+     Thank you, Carter. 
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [62]
+--------------------------------------------------------------------------------
+
+     I wanted to go back, this is probably for Bruce, and talk about the kind of elephant in the room, and sequestration, and contingency planning, and how you prepare for that kind of looming wall.  And I recall last year, as we led up to the debt ceiling negotiation, and the potential for a government shut-down, you dialed back a bit on the cash deployment in the case that you may needed to self-fund some things, and so I wonder if there are scenarios that you evaluate, as we move closer to the end of the year, and you think about some of the things that may happen in terms of sequestration, and ways you may deal with it, if there's a scenario where we could see that sort of action being taken again. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corp - EVP, CFO    [63]
+--------------------------------------------------------------------------------
+
+     Hi, Carter.  Great question.  And as you would probably expect, we are looking at multiple scenarios.  I'll be honest with you, and say that they are difficult, because they are kind of scenarios of our own making, since we don't have a whole lot of direction that we can rely on as far as what the effects of sequestration will actually have on an individual program basis.  So, as I said, you would expect us to be doing some scenario playing out.  We're doing that right now as we speak.  I think we'll get a little better visibility, possibly, as we head into the summer time frame from our customer in this regard.  At least as I've looked at it, Carter, the thing that I'm watching the closest, and I think may be the most interesting part relative to 2012 going forward is there's a very likely chance that we're going to have a continuing resolution in the first quarter of the next fiscal year, so in the Fourth Quarter of 2012.
+ And I think it's going to be an interesting study to see if our government customers -- by definition, continuing resolution normally says you kind of spend at the same level of the new fiscal year as you did at the prior fiscal year.  It's going to be interesting to see what happens in this continuing resolution, with the prospects of a sequestration three months after the continuing resolution will start, if it starts.  Specifically, whether or not customers feel comfortable or not sort of holding the line at the same level as the prior fiscal year, or whether or not we see a reduction in the continuing resolution in anticipation of sequestration.  So those, obviously, are prospects that we're concerned about.  You read what I was trying to describe relative to cash deployment, right?  We're trying to keep all of our options open, there, and do what makes the most efficient sense for us, to continue performing throughout the rest of this calendar year. 
+
+--------------------------------------------------------------------------------
+Operator    [64]
+--------------------------------------------------------------------------------
+
+     (Operator Instructions)
+ Our next question comes from Peter Arment with Sterne, Agee.  Please go ahead with your question. 
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne, Agee & Leach, Inc. - Analyst    [65]
+--------------------------------------------------------------------------------
+
+     Congratulations, Bob and Chris.  Bob, Bruce is having all the fun here.  Maybe I could just, you could touch base on further portfolio shaping.  This is something I know that you guys evaluate on a constant basis, but what's the latest status, now that we've got this kind of fog bank out there, with sequestration and everything else, and what you're seeing on the budgets.  Thanks. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [66]
+--------------------------------------------------------------------------------
+
+     Thank you for the question.  I think you referred to it as fog bank.  The uncertainty associated with sequestration does add a new dimension to portfolio shaping.  We have been portfolio shaping over time.  We very much like the quality of the portfolio we have now.  We think the portfolio in the core business actually has the potential for future growth with international expansion, and as Bruce mentioned in his remarks earlier, we're looking to add content to the Company through adjacent markets.  We are constantly evaluating this portfolio.  I rather think what you should expect to see from us are cost reductions of the nature we've been describing in facilities consolidations that, unfortunately, are very difficult and painful reductions in force, where the programs relevant to the businesses have been reshaped.  We're focusing maximum attention on efficiency that drives affordability for our customers.
+ I would like to get some more visibility as to the more specific consequences of sequestration, because it's such a significant number, and as Bruce mentioned, it's not very specifically detailed, that we would like to see more about that.  And then we would add that as an overlay to our ongoing evaluation of how our portfolio is performing today, and likely to perform in the future.  We have a sufficient amount of firepower to add to our portfolio.  We have sufficient talent and leadership in the Company to add resources to any segment of that portfolio, to either improve its performance, or to take segments of our portfolio into new markets with new customers to facilitate future growth.  But insofar as sequestration is sitting out there, I think we're going to have to go along a little bit so that we have a broader knowledge base, and we would like to make our decisions with a little higher confidence that we understand the circumstances and the implications of those decisions before we make them.  So with the uncertainty, I think we're going to continue our evaluation here. 
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corp - VP, IR    [67]
+--------------------------------------------------------------------------------
+
+     Shawn, this is Jerry.  I'm afraid we're coming up on the hour, and we do have a hard stop, here, today.  So maybe we'll let Bob make final comments, but we appreciate everybody's questions. 
+
+--------------------------------------------------------------------------------
+Bob Stevens,  Lockheed Martin Corp - Chairman, CEO    [68]
+--------------------------------------------------------------------------------
+
+     Well, certainly, let me thank everybody, again for joining the call today.  We are going to stay focused on being very strong in a tough environment, and on taking all the actions that are necessary to drive future growth in the Company, and we are all looking forward to seeing you in July.  Thanks, Shawn. 
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+     Thank you.  Ladies and gentlemen, thank you for participation in today's conference.  This does conclude the conference.  You may now disconnect.  Good day. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

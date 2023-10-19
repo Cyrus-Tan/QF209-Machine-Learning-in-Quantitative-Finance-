@@ -1,0 +1,713 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2015 Lockheed Martin Corp Earnings Call
+JULY 20, 2015 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marillyn Hewson
+   Lockheed Martin Corporation - Chairman, President and CEO
+ * Bruce Tanner
+   Lockheed Martin Corporation - EVP and CFO
+ * Jerry Kircher
+   Lockheed Martin Corporation - VP of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Hunter Keay
+   Wolfe Research - Analyst
+ * Seth Seifman
+   JPMorgan - Analyst
+ * George Shapiro
+   Shapiro Research - Analyst
+ * Robert Stallard
+   RBC Capital Markets - Analyst
+ * Ron Epstein
+   BofA Merrill Lynch - Analyst
+ * Finbar Sheehy
+   Sanford C. Bernstein & Co. - Analyst
+ * Sam Pearlstein
+   Wells Fargo Securities, LLC - Analyst
+ * Peter Skibitski
+   Drexel Hamilton - Analyst
+ * Peter Arment
+   Sterne Agee CRT - Analyst
+ * Richard Safran
+   Buckingham Research Group - Analyst
+ * Myles Walton
+   Deutsche Bank - Analyst
+ * Howard Rubel
+   Jefferies & Co. - Analyst
+ * Cai von Rumohr
+   Cowen and Company - Analyst
+ * David Strauss
+   UBS - Analyst
+ * Joseph DeNardi
+   Stifel Nicolaus - Analyst
+ * Rob Spingarn
+   Credit Suisse - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good day and welcome, everyone, to the Lockheed Martin portfolio-shaping actions and second-quarter 2015 earnings results conference call. Today's call is being recorded. At this time for opening remarks and introductions I would like to turn the call over to Mr. Jerry Kircher, Vice President of Investor Relations. Please go ahead, sir. 
+
+--------------------------------------------------------------------------------
+Jerry Kircher,  Lockheed Martin Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Abigail. And good morning. I'd like to welcome everyone to our second-quarter 2015 earnings conference call. Joining me today on the call are Marillyn Hewson, our Chairman, President and Chief Executive Officer, and Bruce Tanner, our Executive Vice President and Chief Financial Officer. 
+Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the safe harbor provisions of federal securities law. Actual results made differ. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to vary materially from anticipated results. 
+We have posted charts on our website today that we plan to address during the call to supplement our comments. Please access our website at www.lockheedmartin.com and click on the investor relations link to view and follow the charts. I would also note that we're extending the call duration until 12:30 today to enable adequate time for your questions on our financial results and strategic actions. With that, I'll turn the call over to Marillyn.  
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Jerry. Good morning, everyone, and thank you all for adjusting your calendars and joining us on the call today. It's a day earlier than planned so especially given the short notice we appreciate you joining us. With today's press release outlining two strategic actions we are implementing to strengthen our competitive posture and position the Corporation for profitable long-term growth, we accelerated the call to enable timely discussion of our second-quarter financial results and the portfolio-shaping items. 
+Starting with our financial performance, we had a strong quarter operationally and financially, with all reported results exceeding our expectations. And we are progressing on achievement of full-year financial objectives. These results reflect the execution being achieved across the businesses, as the corporation operated at a very strong level in providing critical solutions to customers while returning value to stockholders. 
+The year-to-date financial performance also enabled us to again increase full-year 2015 guidance for segment and consolidated operating profit and earnings per share. In addition to these increases to guidance we reaffirmed our earlier outlook for full-year orders, sales, and cash form operations. With these strong financial results, we continued to return value to stockholders in the areas of share repurchases and dividend payments through cash deployment initiatives. 
+I would now like to discuss the two strategic actions we announced today and then I will ask Bruce to cover in more detail our second-quarter financial results and increased 2015 guidance. To assist our discussion I would ask you to turn your attention to the charts we provided on our website, starting on chart 4, reshaping our portfolio. The first strategic action we announced is our signing of a definitive agreement to purchase Sikorsky Aircraft. Sikorsky is a natural fit for Lockheed Martin and it complements our broad portfolio of world-class aerospace and defense products and technologies. This action will enable us to extend our core business into the $30 billion annual military and commercial rotary wing segments. 
+The second major action is the commencement of a strategic review of our government IT infrastructure services work at Information Systems & Global Solutions, to our technical services work at Missiles and Fire Controls. The strategic review will address the changing market dynamics affecting these businesses and will help us determine how to best position them for future growth, and is expected to result in a spinoff or sale of the businesses. These actions continue our practice of continuously shaping the portfolio to secure the highest value creation for customers and stockholders. 
+Turning to an overview of Sikorsky on chart 5, Sikorsky is well-known as a world leader in the design, manufacture and support of military and commercial helicopters. Their international presence is wide-ranging, with operations in 20 countries, and their products are used in over 40 countries. Sikorsky's revenue composition is shown on the pie chart, with approximately 75% of their work for military customers and the remaining 25% to commercial users. With approximately 50% of their annual revenue derived from international customers they will aid us in moving forward on our goal to expand international revenues. 
+The acquisition rationale is outlined on chart 6. Some of the important strategic benefits of this acquisition are that Sikorksy has familiar customers. This familiarity will assist the integration process through utilization of similar knowledge and interaction with common customers. They are also extraordinarily well-positioned with an established brand and a robust backlog of future work. They also have a 40-year history as a frequent team mate of our Mission Systems and Training business areas, and today we collaborate on the VH-92 presidential helicopter, combat rescue helicopter and the naval MH-60 Romeo helicopter. Their strong aftermarket business is also expected to provide a long-term source of earnings to the Corporation and another lever of value creation. 
+The opportunity to access capital in today's historically low interest rate environment is another significant contributor to the rationale and value creation of the acquisition. Beyond the strategic benefits I outlined, another key element of the acquisition rationale is a Section 338(h)(10) tax election for the transaction, which is expected to provide approximately $2 billion in net present value for our Corporation and stockholders. 
+Future growth prospects of the acquisition are outlined on chart 7. One of the key elements of our strategic planning is to secure and extend our core defense business, and we feel confident that the addition of Sikorksy will contribute significantly to the growth objectives. As the prime contractor for multiple current development helicopter programs, such as the CH-53K presidential and combat rescue, Sikorksy is well-positioned to grow as these programs transition into production scheduled in 2018. With their extensive presence around the world in over 40 countries, we see further expansion of our international operations as we will benefit from their international footprint and customer relationships. 
+Sikorksy's footprint in the commercial aviation segment is well-established with extensive activity supporting the oil and gas industry. While this segment has been under recent pressure due to low oil prices, it is expected to recover in the future and add value to the corporation. We believe these current pressures enabled us to make this acquisition at a low point in the economic cycle. All of these elements indicate significant opportunities for growth in the future, and value creation potential. 
+I would now like to outline the transaction valuation on chart 8. The agreement announced today outlined the purchase price of $9 billion and will be funded with a combination of new debt, and available cash. It is important to note that our joint election of the 338(h)(10) tax benefit effectively brings the adjusted price of the transaction to slightly over $7 billion, with an adjusted multiple of 10.3 times EBITDA. These metrics demonstrate that we are purchasing an active participant in one of the largest areas of DOD expenditures at an attractive price. I also want to reiterate that this transaction will not change our previously outlined plan to return cash to shareholders through dividends and stock repurchases between 2015 and 2017, and reducing our outstanding share count to below 300 million shares by the end of 2017. 
+An overview of synergies is shown on chart 9. While there are multiple elements of synergy that we have identified from this transaction, the largest contribution will be from the approximately $2 billion that we will recognize through the election of the Section 338(h)(10) tax treatment. In the area of cost synergies, we expect to achieve a steady state level of around $150 million annually after integration actions are completed. In the area of revenue synergy, we see multiple opportunities, by leveraging our relationships with international governments, and our ability to match their security needs with the full spectrum of our security offerings. Sikorksy products and capabilities will add to our existing portfolios and enable us to offer an even broader range of solutions to international customers. 
+Before leaving Sikorksy I also want to offer some additional perspective on our new team members. We have similar cultures. We have a shared passion for innovation, and a commitment to supporting the men and women who defend our freedom. Together, we will offer a stronger portfolio of helicopter and systems engineering solutions to our global customers as we accelerate the pace of new technologies. At the same time, our commitment to bring the best we have to offer to our work with other helicopter manufacturers is absolutely undiminished. I am confident that Sikorksy will be an excellent fit within our Mission Systems and Training business area and a strong contributor to the Corporation as we move forward together. 
+I will now turn to chart 10 and speak to the second portfolio action we outlined today, the strategic review of IT and services work in our IS&GS and MFC business areas. Let me start by saying that we have a proud legacy as a world-leading government IT services and technical services provider. However, market dynamics and trends led us to believe that these businesses may potentially achieve greater growth, which is good for our employees, and create more value for our customers and stockholders, by operating outside of Lockheed Martin. 
+The matrix shown outlines the businesses within IS&GS and MFC that comprise the strategic review, as well as those that will be realigned under other existing business areas. For your reference, the businesses under strategic review are expected to generate approximately $6 billion in annual revenue this year, with mid 7% margin. With a series of recent wins, the businesses under strategic review are well-positioned to generate value under an expected spinoff or sale. 
+As I summarize today's announcements on chart 11, I would like to conclude by reiterating that the two strategic actions we announced today represent powerful portfolio-reshaping activity, and provide strong opportunity for creating long-term value to shareholders. We believe there are opportunities for significant synergies and are confident that the risk of execution is low. Both of today's actions will further position the Corporation for growth and value creation for investors and customers. 
+I will now ask Bruce to go through our second-quarter financial performance and our increased 2015 guidance and then we will open up the line for questions. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Marillyn. Good morning, everyone. I will try to keep my remarks brief this morning so as to allow more time for questions during our session. And my remarks relate to the web charts addressing just the financial results for the quarter. 
+Beginning with chart 14, we have an overview of our second-quarter results. Sales for the quarter were $11.6 billion and were ahead of our expectations. We will provide more color on our sales results on the next chart. Our segment operating margin was also better than expected in the quarter at 12%, and enabled us to achieve earnings per share of $2.94. We generated $1.3 billion in cash from operations. Again, a little bit better than expected. And we'll also discuss this further in a few charts. 
+Our cash deployment actions increased over the first quarter with $1.4 billion of cash returned to shareholders, including nearly five million shares repurchased for more than $900 million. And with our strong operational performance, we are increasing our full-year outlook for both operating profit and earnings per share. So, we feel good about how we ended the first half of the year, and that positions us well for the remainder of the year. 
+On chart 15, we compare our second-quarter sales results for 2015 with our results in 2014. Sales are higher by about 3%, compared with the second quarter of last year. And while most of the higher volume in the quarter was due to earlier than planned deliveries, we'll be watching this closely over the next few months to see if the higher trend continues. 
+Chart 16 compares our segment operating margin this quarter with the second quarter of 2014. Segment operating margin was 40 basis points lower this quarter compared with the same period last year. But as I said earlier, this was higher than we had planned for the quarter, and enabled us to increase our margin outlook for the year. Missions Systems and Training drove the higher-than-expected results, with margin improving 250 basis points over the second quarter of last year. Better performance this year, combined with the absence of performance issues last year, led to this improvement. 
+Turning to chart 17, we will compare our earnings per share results this quarter with our results from a year ago. Our EPS of $2.94 was 7% higher than the results from last year and enabled us to increase our EPS for the year. 
+Chart 18 provides detail into share repurchase activity during the quarter. As we previously mentioned, we had significantly higher share repurchases in the quarter compared with the same period last year, with $937 million spent. More importantly, we're $300 million ahead of the year-to-date amount from a year ago and have reduced shares outstanding by more than 5 million shares. And we are well on our way to achieving or exceeding the $2 billion repurchase target we established at the beginning of the year. 
+On chart 19 we discuss our total cash returned to stockholders for both the quarter and year to date. With the $1.4 billion in cash returned to stockholders in the second quarter, we have returned just over $2.5 billion on a year-to-date basis. And in both the quarter and year to date, we have returned 131% of free cash flow to our stockholders. 
+On chart 20, we provide our updated outlook for the year. We're leaving both orders and sales unchanged at this time. About 65% of our orders are planned for the second half of the year. And while we think there is upside potential in our sales for the second half of the year, we'll have a much better feel for both of these metrics when we get to the third-quarter call. We are increasing our segment operating profit by $75 million due to our strong performance through the first half of the year. And as a result of our increase in profit, we also increasing our earnings-per-share guidance by $0.15 to a new outlook of between $11 and $11.30 per share. 
+Finally, we are keeping our cash from operations guidance unchanged. We mentioned last quarter that our cash would be significantly weighted to the second half of the year. And while that is still the case, our stronger second-quarter results have reduced that difference between the first and second halves of the year. 
+On chart 21, we have our sales outlook by business area. Again, no change in our outlook at this time. 
+Chart 22 shows our outlook for segment operating profit. We have a higher profit outlook in two of our business areas this quarter, increasing Space Systems by $45 million, and Mission Systems and Training by $30 million, resulting in a total outlook of increase of $75 million. 
+Finally, chart 23 provides our summary of the quarter. We had a good quarter, building upon our results from the first quarter, and positioning us well as we look forward to the rest of the year. Our cash deployment actions accelerated in the quarter, and we remain committed to the actions we discussed earlier this year. Our program execution was very good in the quarter and we look forward to adding to our portfolio with some strategic wins in the second half of the year. And last but certainly not least, our decisions to acquire Sikorksy Aircraft and conduct a strategic review of our government IT and technical services business makes this quarter strong from both a tactical and strategic perspective. 
+And with that, we're ready for your questions. Abigail? 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator instructions) 
+David Strauss, UBS. 
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning and congratulations. Bruce, can you potentially give us some more metrics that you are thinking about around Sikorksy, potential leverage that you see, the deleveraging, and then how you are thinking about intangible amortization and accretion from the deal as you look out? Thank you. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [3]
+--------------------------------------------------------------------------------
+
+          Yes, sure, David. As we look to finance this deal, as Marillyn said we expect to use some cash off of the balance sheet, but also do the vast majority of it in the form of debt. Currently, we are thinking that looks somewhere around $1 billion off of the balance sheet in terms of cash used, and $8 billion worth of debt. 
+We think, just to give you a lot of metrics maybe at once here, we think that the debt, the average coupon for the multiple maturity that we would do, including potentially a little bit of commercial paper in the mix, would be a 3.5% coupon. So, you should think of that as somewhere in the order of $280 million-ish a year of interest, and on an after-tax basis something like $180 million a year, rounding. 
+Intangible amortization, I think, was your other question. As we look at this right now, we're probably looking at about $3.5 billion worth of intangible costs. Think of that as trade name, customer relationships as the biggest drivers of that intangible level. And that would equate to about $250 million of expense a year. Again, think of the $180 million after-tax interest intangible amortization, around $215 million a year. 
+And then on the positive side, obviously, the 338(h)(10), as Marillyn said, almost $2 billion worth of present value. You should think of that as being about a $450 million a year tax deduction associated with the step up in assets that equates to about $160 million benefit going forward. And then, as Marillyn said also, we are expecting somewhere in a steady-state run rate of about $150 million a year in additional earnings. 
+So, if you add all those up together, a lot of moving pieces there, I realize that, your final question was accretion, when does that happen. Our intent is to integrate this business as quickly as possible. Marillyn said we expect to close somewhere end of 2015, early 2016. So, we would expect to have the integration costs spent in large part in 2016. We want to get the integration done as quickly as possible in order to generate the synergies that come from that. 
+So, we would be GAAP dilutive, if you will, in 2016. We expect to be marginally GAAP accretive from an earnings perspective starting in 2017 and then to grow from that point forward. Just one maybe last comment on the -- that's okay, nevermind, I will leave it there and see if there's another question on it. 
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Doug Harned, Bernstein. 
+
+--------------------------------------------------------------------------------
+Finbar Sheehy,  Sanford C. Bernstein & Co. - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Good morning. And it's Finbar Sheehy for Doug. Turning to the other side of your strategic announcement this morning on the services and IT businesses, can you talk a little more about the criteria you will use to decide which ones you will keep and which ones you will divest? And, as you talk about that, you mentioned that you have the opportunity to acquire Sikorksy at the bottom of the cycle. And some of these IT and services businesses have been hurt by the Budget Control Act and sequestration. How do you avoid, if you like, divesting these businesses at the bottom of their markets? 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [6]
+--------------------------------------------------------------------------------
+
+          Just to speak to the portfolio, the way that we have gone, we have been looking at our IT infrastructure services and technical services business for some time now and have done quite a bit of analysis, trying inside the Corporation to figure out how we can make it as competitive as we can. There's a lot more competitors that have come into the marketplace. And our customers' priorities are changing and what they are looking at. They are much more price sensitive. 
+So, the elements of our business predominantly will be in the work that we are doing for civil agencies -- IT, infrastructure-type services. If you think about enterprise IT services that are done for various agencies, that is the type of work that would fall into this. And then the technical services work that is in our Missiles and Fire Control business. 
+In terms of, we certainly want to create value through this process. So, what we believe is if we move it out from under the business structure in Lockheed Martin, that that will allow it to thrive and grow. It will allow it to have a business structure that allows it to thrive and grow. And, so, we are willing to separate those businesses to create that value going forward. 
+We think it's a very strong business. We have a strong legacy of being the top IT provider for the US government for the past 21 years. And this is a business that has strong performance and strong programs. And we have had some recent wins this year. And we've had some acquisitions in that business. 
+So, we think what we have is a premier asset. And we think if we can stand it up as a standalone company, or if it's attractive to a buyer and we can get the right price for it, that is the best for that business to go forward. 
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Richard Safran, Buckingham Research. 
+
+--------------------------------------------------------------------------------
+Richard Safran,  Buckingham Research Group - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Hello, good morning. Marillyn, Bruce, I wanted to know if you think you could be a better owner and operator of SIkorsky than United Technologies was. If possible, I would like to know how you might be looking at operating the business differently than UTX did, how you might think that might be a benefit. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [9]
+--------------------------------------------------------------------------------
+
+          I will start out first and then, Bruce, you can add to my comments. I think if you look at what is our core business, our core business is doing business with governments in its platform and systems integration. That is the predominance of our business. And I think in that sense bringing Sikorksy into our business is just a natural fit for us. And it's ability for us to bring our strength in running programs and our government contracting and all of that expertise to the Sikorksy business. 
+We also look forward to the opportunity to create value on the international side of our business from their footprint that they have around the world and the work that they are doing in a number of countries. So, I think if you look at the potential synergies, we do think we are an excellent owner and a better owner for this business because not only do we bring our expertise but bringing in their footprint and their capability around the world is value that we can create, as well. Bruce, do you want to add something? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [10]
+--------------------------------------------------------------------------------
+
+          Just a thought, Rich. In terms of adding value greater than the parent, this is a business that has been successful for however long it's been in business, 90-something-plus years. So, they obviously are a national icon in terms of the capabilities that they bring to the rotary marketplace. They do a lot of things well already. 
+Where I think we can create value, first off, we think this deal has pretty low execution risk from us. I like to think of this as we are buying a portfolio of programs versus a new business model and new marketplaces and new customers that we've never dealt with before. This is all very familiar with us. And I like to think of this as having the power and backing of a $45 billion business focused on government contracting versus one which was less focused, perhaps, in total than just on the piece of the Sikorksy business. 
+I do think there are areas we can improve the business, particularly on the contracting side, and maybe to focus a little bit on the cash flow side. I think, in particular, the international sales market is an interesting one for us, where we, through the combination of our portfolios, coming in and having a discussion about the security needs of our international customers, whether it is F-35 littoral combat ships, now Sikorksy helicopters, is a much more powerful discussion than what I believe the current parent could have in terms of bundling products and services together to go into the international marketplace. 
+I think all of those really add to our ability to help better position this business going forward. And, look, we are happy to have this business. We think it fits well into our portfolio. This is what we do. This is our core knitting. 
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Myles Walton, Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Thanks, good morning. Marillyn, have you had a chance to get initial feedback from the DoD on the proposed acquisition, particularly as it applies to broader consolidation of the industrial base, realizing the Army is not a huge customer proportionally to Lockheed Martin. Maybe that's not as much but at the DoD level there may be some issue. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [13]
+--------------------------------------------------------------------------------
+
+          As we would do on any acquisition, we contacted our customers. So, I've had an opportunity to speak to senior levels in the Department of Defense and have offered to them to provide whatever additional information they need if they assess it. They have been consistent through any acquisition of this type to say that they will assess and ask their questions and give a detailed review. So, we stand ready to support them through that process. 
+I do think if you look at this acquisition, we are not reducing the number of competitors at all in this segment, in the helicopter segment, and there shouldn't be a concern. Our portfolios are very complementary. There's very little overlap between our two portfolios. So, in that sense, I would expect that would not be a concern of theirs going forward. 
+In terms of the services business, there are many competitors out in the IT services arena. So, the fact that we are trying to position this business where it can be more competitive in that arena, I think they would view it positively. So, between those two elements, it is very positive. 
+The other thing that I would argue is there is some concern about consolidation making one entity bigger than another. When you look at these two strategic actions that we are taking, UTC has reported that they see the sales for Sikorksy to be about $6.5 billion this year, in 2015, and the piece of business that we are looking at doing the strategic review to spin or sell is about $6 billion. So, we may find at the end of the day that we are roughly the same size, maybe even a little smaller, maybe a little bit bigger, but basically roughly the same size with both of these strategic actions. So I don't think there is more concentration at Lockheed Martin in that sense. 
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          Rob Spingarn, Credit Suisse. 
+
+--------------------------------------------------------------------------------
+Rob Spingarn,  Credit Suisse - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Good morning. Congratulations. Just to quick clarification questions, one on what Marillyn just spoke of. But with regard to the strategic evaluation at IT, the question there is, you are talking about this as a single $6 billion business, or at least that's my interpretation. But might you consider doing different things with different pieces, selling some and spinning the other? And then for Bruce, is the $150 million in synergies net of things like profit on profit? Thanks. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [16]
+--------------------------------------------------------------------------------
+
+          To your question, first of all, there's a number of possible scenarios. That's why we want to go through this process between now and the end of the year to really give a strategic review on what are the best strategic options for these elements of the business. 
+To your point, it could result in one or more transactions. Our key is how do we deliver more value to our customers, how do we deliver more value to our shareholders through this process. The strategic review is going to determine what the ultimate outcome is. And it could be more than one transaction. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [17]
+--------------------------------------------------------------------------------
+
+          Rob, the second part of your question, the $150 million steady-state going forward, that is considered to be net of fee on fee or profit on profit, if you will. And not to confuse you, perhaps, but just to give you some insight, the level of sales that we see, the overlap that would need to be adjusted out, if you will, once Sikorksy becomes part of the portfolio for our business that's being conducted within Mission Systems & Training, you should think of that as being about $150 million a year. 
+There is obviously priced business right now that carries on for some period of time for things like our work on the combat rescue helicopter or the presidential helicopter. That wouldn't have a negative profit impact in the near term, but we would eliminate the sales of, obviously, of that going forward. So, think of when we get to the steady state, that is net, if you will, of that consideration of fee on fee. 
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski, Drexel Hamilton. 
+
+--------------------------------------------------------------------------------
+Peter Skibitski,  Drexel Hamilton - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Congrats, guys, on some bold moves. How do you think about the strategic fit of Sikorksy's commercial helicopter business? 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [20]
+--------------------------------------------------------------------------------
+
+          I think for us it's a nice fit in the sense that, as I mentioned in my remarks at the outset, it's predominantly in the oil and gas side, which is not an area that we are in. And while we've got some near-term pressure there just because of what has happened with oil prices, we see an opportunity in a few years for that to turn, and so a real opportunity for growth there as we move forward. 
+And then the other side on the commercial side would be on the sustainment. There's commercial aircraft that are already in the base among these 40 countries that I mentioned, have to be maintained and sustained. So, that's a good, strong, healthy business. 
+When you look at it from a Lockheed Martin standpoint, we sell our products and services to heads of countries. They buy both military and commercial platforms and systems and sustainment activities. So, I think that is a nice fit where we bring all of that together in our customer relationships around the world. 
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          George Shapiro, Shapiro Research. 
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Yes, Bruce, I just want a little more clarification. You have commented about Sikorksy. You're saying in terms of the profit on profit that you're going to be getting for the programs that your subcontractor to Sikorksy, that's about $150 million currently? Or that's what it's going to be? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [23]
+--------------------------------------------------------------------------------
+
+          No, George, that was revenue. Profit is a much smaller number. 
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Okay. And that's because a lot of their programs that you're a subcontracted to really haven't started to ramp up yet. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [25]
+--------------------------------------------------------------------------------
+
+          That's correct, George, but I will tell you, the absolute dollars on our side don't deviate a whole lot from that number for the work that we're doing today and for the near future. 
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Okay. And, then, similar subject, Bruce, how much subcontract work do you do for other helicopter manufacturers that might be at risk since they may not want to deal with a competitor? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [27]
+--------------------------------------------------------------------------------
+
+          We do quite a bit of work, George, actually, as we sell direct to the US government. A lot of the work is not directly to the helo manufacturers themselves. So, a lot of our integration activities is actually done direct to the government as opposed to direct to the other helo manufacturers, if you will. 
+We have relationships with everyone domestically and internationally in the helo marketplace. Our intention is to maintain those relationships going forward. That's something that we would obviously have to consider relative to our discussions with the DoD as far as going forward with this incorporation of the business. And that's something that we would intend to do just out of a pure economics perspective, is nothing else. But that's just the right thing for us to do going forward. 
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Howard Rubel, Jefferies. 
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies & Co. - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Hi, thank you. I'm going to turn to the boring things of talking about the business for a moment, Marillyn. You had a couple of nice positive developments in terms of operations. Were there some things that you could address both in space and, frankly, in aircraft that either you brought to bear to change the profit trajectory? 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [30]
+--------------------------------------------------------------------------------
+
+          Just to speak to our major program, the F-35 we have made really good progress over the past quarter on that program. I had the opportunity to attend the CEO conference in Norway for the F-35 program where all the international partners participate. It's chaired by Under Secretary Kendall. We had very strong support for the program itself. And the fact that Secretary Kendall would come out after that to discuss a potential block buy for the program, which would be for at least 450 to maybe 500 aircraft, from FY18 to FY20, I think was a very strong statement about the stability of the program and the outlook for the program going forward. 
+The second thing on that is, if you've been tracking the performance of the program and moving toward the Marine Corps initial operating capability, the Marines have finished their operational readiness. They are now in the midst of their assessment of their operational readiness, and is on track, they appear to be on track, to announce their IOC this month. And we look forward to that. That's a huge milestone in this program. They are the first service to come out to declare that aircraft combat ready. I think sends a strong message to everyone that its program is on track. 
+We have delivered 11 aircraft in the second quarter and we are on track to deliver 45 in 2015. And we've already gotten our long leads for LRIP 10. That's for 94 aircraft. So, the program is ramping up in that sense. I think it's well supported in the budget proposals that are out there. In that sense, production is ramping up, the software completion and all of those things are on track. So, that's what I would say on F-35. 
+You mentioned the space program. We're performing well on our government satellites. MUOS, for example. Just launched the third MUOS satellite. And that program is moving forward. And then on SBIRS, if you've seen the reports out, that we had put forth a more cost-effective approach going forward, and was greatly embraced by the US government on SBIRS. So, we will continue our path along SBIRS. 
+And then in the missile defense arena, I hope you saw that Germany has announced their intent to -- they have selected MEADS for their air defense system. That's truly a strategic win for us. Their legacy systems are aging, they need replacement. They went through a very thorough assessment of what system would best fit their needs and they selected MEADS. And I think it sets the tone for other countries will be looking at this important selection by Germany, and we expect other countries to look at MEADS as their choice for the most modern, the most capable missile defense system for their countries. 
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Joseph DeNardi, Stifel Nicolas. 
+
+--------------------------------------------------------------------------------
+Joseph DeNardi,  Stifel Nicolaus - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Hey, thanks. Good morning. Bruce, I'm wondering if you could talk about -- I guess it may be tough to talk about -- but the proceeds from the spin or the sale at this point? Is that additive to your capital deployment plans or should we think about that as going towards the balance sheet? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [33]
+--------------------------------------------------------------------------------
+
+          You're right, it is hard to predict. Those are obviously two completely different scenarios in terms of the cash that we would receive from that versus a spin versus a sale, spin obviously being a lot less,. We've got a fairly low tax basis in that business, at least as we look at it, not unlike what UTC was probably looking at it with Sikorsky. You've got a low tax basis so your ability to get cash out on a spin basis is limited from a tax-free perspective to what that is in terms of a tax-free dividend. 
+But we get a lot more cash back from a sales perspective. I hate to speculate what that could be. We will get into further detail as we get into the later part of this year and early part of next year as far as when we close on our decision as to which path we go down. 
+I would suspect, in terms of cash deployment, the near-term cash deployment we'd probably be paying off some of that. I mentioned as far as some of the debt that we are doing to do the Sikorksy deal would likely come in the form of commercial paper. We'd probably pay that off pretty quickly and bring that down. And then the rest, Joseph, we'll wait and see what we've got and what needs we have at that time. And, as usual, we'll try to be opportunistic in all our cost deployment actions, as we always are. 
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Peter Arment, Sterne, Agee CRT 
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne Agee CRT - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Yes, thank you. Congratulations, Marillyn and Bruce. I want a clarification. Sikorksy -- will that be an independent segment or are you going to have it on a standalone basis or will it be folded in as part of aeronautics or one of the other segments? And then if you could also give us, Bruce, just regarding the quarter, Marillyn mentioned that you're going to be delivering 45 F-35s this year. Can you give us a run down or just the planning for deliveries for this year and maybe a sneak peak on how that looks for next year? Thanks. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [36]
+--------------------------------------------------------------------------------
+
+          In terms of Sikorksy, our intent is for that business to report directly into Mission Systems and Training. That's our business where Dale Bennett is the Executive Vice President, so it will be a direct report, a line of business in that business. And we intend to maintain its name and its brand. So, we'll preserve that brand identity. We think it is very strong for Sikorksy so we will continue forward with that. So it will be a Sikorksy, a Lockheed Martin company, and it will report in to Mission Systems and Training, is what our plan is to move forward. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [37]
+--------------------------------------------------------------------------------
+
+          Peter, we just talked about deliveries -- as you said, the 45 this year. That is about what we are expecting to have for the year. I think we've delivered 19 on a year-to-date basis. So, obviously that ramp rate picks up in the second half of the year. 
+Just going down the entire portfolio, the C-130 -- again, we've talked in the past about that being a very steady build rate of about 24 aircraft a year. We had 10 deliveries in the first half of the year which would obviously imply 14 in the second half. Right now those are more weighted, just for FYI purposes, towards the fourth quarter than they are for the third quarter. I like to think there is some potential to move some of those aircraft into the third quarter, though. That's actually making our sales, if we just were to profile our sales for the rest of the year, it makes our fourth quarter look a little bigger than I think it actually is going to be as we sit here today. 
+The C-5 deliveries we expect  about 9 for the year. We have had 5 on a year-to-date basis, so 4 for the rest of the year unless we pull in one for next year. These aircraft are getting to be a very good pattern from a performance perspective. We were actually earlier on the deliveries all throughout the first half of this year. So we're going to be watching that. But that's not what is in our current plan, it's not what's in our current guidance. 
+Next year, I don't have the numbers off the top of my head, Peter, but definitely the aircraft deliveries on F 35 are going up. I'm sorry, let me back up for a second. I didn't talk F-16, I apologize. F-16 -- 11, 12 aircraft in the year. We did 6 in the first half of the year, so 5, 6 in the second half. 
+Let me start with the easy ones. C-130J -- 24 next year. F-16 -- similar levels of sales in terms of quantities next year. F-35 -- greater than the 45 now. I don't have that number off the top of my head but it is a pretty good increase, Peter, from what I've got in my memory there. And then C-5 is a very similar number to what we're seeing in 2015 for you. Hopefully that helps with the question there. 
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Ron Epstein, Bank of America Merrill Lynch. 
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, guys. If you could just quickly go through, if possible, in a little more detail where you expect to pick up the $150 [sic -- $150 million] of cost synergies. Are you going to be moving facilities, is it just back office take out? How are you thinking about that, Bruce? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [40]
+--------------------------------------------------------------------------------
+
+          It's a combination of probably all the things that you would think would happen in this sort of transaction. Some of the bigger abilities to, we believe, get some long-term synergies are in the supply chain, particularly with the overlap of the procurement activities, especially within our aeronautics business activities but also within MST, as well, in terms of systems overlap there. 
+You should think of the synergies coming in the form of supply chain synergies, a little bit of facilities, perhaps, rationalization, and some headcount rationalization, as you would expect, as well. Collectively that adds up to more than $150 million. We think the $150 million is what sticks to the bottom line after consideration of price business and disclosing under cost and pricing data in our government business. 
+The thing that interested me, or that caught my attention when we looked at this business is more of it stays with us longer term, I think because this probably has a longer tail of price business than I would have expected before we went into the diligence phase. About $16 billion worth of price business, so obviously you get to keep it on that part of the business. 
+And also the commercial and the sustainment, particularly on the supply chain savings, the headcount savings and the like, obviously those are less cost-based driven in terms of pricing. And more of the synergies you get from a cost side there stay for longer, as well. That's how I think of it, those three buckets -- facilities, supply chain, headcount -- and for the reasons I just said -- they stay with us for longer than you might otherwise think. 
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Hunter Keay, Wolfe Research. 
+
+--------------------------------------------------------------------------------
+Hunter Keay,  Wolfe Research - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Hi, good morning, guys. Thanks for taking my question. As we think about the evolution of Lockheed here over the next 12 months, how should we think about how IRAD will maybe move around a little bit, getting rid of some of the short-cycle stuff, and laying in Sikorksy. Already in a little bit of an upward trajectory year over year. Should we think about maybe R&D trending at or above the 2% of sales level once everything gets done with? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [43]
+--------------------------------------------------------------------------------
+
+          I will take that on, Hunter. It's an interesting swap. Marillyn talked earlier about big picture perspective. We're losing $6 billion worth of business on our IT tech services side, which you should think of being much significantly lower IRAD intensive than the rest of the business. This, I think, just speaks to the need for that business to have as cost-efficient a structure as possible in order to survive in the environment that we are currently operating in there. 
+Sikorksy operates in a much more IRAD intensive environment but not unlike what the rest of the portfolio of Lockheed Martin looks like when you exclude the IS&GS and the tech services piece. I actually tried to do some quick math myself, Hunter, and I think we get close to 2% or so of R&D. When you get to the new sales level of the combined company minus that which is spun or sold, and you add in the IRAD for all the remaining businesses plus Sikorsky it's actually probably a little bit north of 2%. 
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+          Robert Stallard, Royal Bank of Canada. 
+
+--------------------------------------------------------------------------------
+Robert Stallard,  RBC Capital Markets - Analyst    [45]
+--------------------------------------------------------------------------------
+
+          Thanks so much. Good morning. Bruce, you mentioned there was some franchise wins you were looking to achieve in the second half of this year. I was wondering if you could give us an update on those, and which ones you think your chance are best at. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [46]
+--------------------------------------------------------------------------------
+
+          Sure, Rob. When I talk franchise wins in the second half of the year I'm really talking the long-range strike bomber and JLTV. We are watching, as are our partners. I'm quite certain Boeing is watching very closely. The expectation that will probably be decided sometime in the August/September timeframe. 
+We still like our offering there and we feel good about that. We've had lots of discussions. I think we're good partners for each other. We bring very capable, collaborative skill sets to the fray. So, that's the first one that we are looking at, Rob. And, again, I think we like where we sit there. 
+JLTV is the other one. JLTV is, maybe in some people's views, a little bit tougher putt because they do not necessarily associate Lockheed Martin with being in the combat vehicle business. But I think we have a tremendous offering there. And it would put us into a new segment within the DoD that we do not have a lot of business, other than putting some of our weapons system on top of combat vehicles. This would be actually building the combat vehicle itself. It's exciting to be able to have that opportunity. Again, we think we have a great offering. 
+They look different in terms of the orders this year. The bomber would be a bigger order initially. The JLTV would be a much smaller order initially in the current year. But both of them have a very long -- think of it as decades long -- production tracks once you get past the development side. 
+In terms of just sheer dollars that we are looking for, not so much in the franchise wins, but we've got big dollars associated with primarily two aeronautics programs that we are needing to close and definitize those contracts on finally, the C-130J multi-year and LRIP 9 for the F-35 program. Both those are big dollars in the second half of the year in terms of orders. 
+As I still look out for the rest of the year, even though we are light -- there was an earlier question about where we are for orders from a year-to-date basis -- but I still think we are marching towards about the $80 billion that we said at the start of the year, given all the puts and takes we see going forward. 
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Cai von Rumohr, Cowen and Company. 
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen and Company - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Yes thank you, and congratulations on the Sikorksy transaction. A question -- I was surprised that you only have $150 million of inter-Company sales given your participation on CRH, Naval Hawk, presidential and combat and rescue. Could you give us a sense as to where that number goes in the future? And then maybe give us -- two nitty questions -- what the cash flow of Sikorksy looks like given they have a very heavy near-term development mix, and whether you expect to use contract liability amortization for accounting of the Canadian maritime helicopter. Thank you. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [49]
+--------------------------------------------------------------------------------
+
+          What a mouthful, Cai. You threw a lot in there. You got your money's worth, to say the least. Yes, we're talking back to the $150 million of inter-Company -- it's not quite inter-Company yet. I will remind you of that. But that's primarily for the combat rescue helicopter and the presidential helicopter. 
+That stays. You shouldn't think of that as this is starting off low and it's going to grow to some larger number. That's a fairly consistent number. I'm trying to do this from recall, but that's a pretty consistent number going out for every year, not just the near term but the long term, as well. 
+I think maybe where some of the confusion is, is on the MH-60 helo. That's the Romeo work that we do there. And, there, think of us as co-primes on that. We do not subcontract under Sikorksy for that work. That is actually two prime contracts. So that may be where some of the confusion is. Think of this, again, as CRH and the presidential helicopter are VXX related. And those just aren't as large, maybe, as people think they are in terms of our size of the business there. 
+Cash flow for Sikorksy, I think you hit it right. I think, at least for a couple of years, you should think of them as having some inventory buildup. And, by the way, I shouldn't get into disclosing going forward Sikorksy's business but what I'm expecting to see is inventory buildups, some working capital buildups for some of the new programs that I just talked about, both the combat rescue helicopter and the presidential helicopter. 
+I know they've also got a loss contract on the Canadian maritime helicopter contract, which obviously can't be strong for cash flow. So, I wouldn't expect near-term cash to just knock our socks off. This is a long-term business. We're not buying this business for the next three years, we are buying this business for the next three decades, and that's very much the way we look at in terms of a long-term acquisition cycle for us. 
+I think your last question was you asked about the accounting treatment on the Canadian helicopter. We will go with the convention of Lockheed Martin. This will all get settled out in the conforming accounting and the purchase accounting adjustments. Whatever loss we think is there will be reflected at the time of the acquisition, and that will be reflected behind us, if you will, and essentially zero going forward from an accounting perspective. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [50]
+--------------------------------------------------------------------------------
+
+          I would just add, the structure that we have is, as I said, we are going to integrate the Sikorksy business into Mission Systems and Training, but it will be a standalone line of business. We like that model. We like that co-prime model, like we have on the MH-60 Romeo, as a good approach going forward. 
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Sam Pearlstein, Wells Fargo Securities. 
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo Securities, LLC - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Good morning. I'm going to see if I can sneak two in also. The first one is just, Bruce, can you talk about what the cost will be to extract that $150 million in savings, especially in 2016? And then, secondly, on the IT side, I just wanted to understand what's changed. It seems like some of the areas, like commercial cyber, you were still making acquisitions last year. You made healthcare IT Systems Made Simple acquisition late last year. Is it have to do with Sikorksy that you are now looking at other parts of the portfolio, or did something else change about the business that forces it now? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [53]
+--------------------------------------------------------------------------------
+
+          Sam, let me try the first one. And I may take a shot at the second one, and let Marillyn correctly later on. The cost to extract in 2016, if we close the deal at the end of this year, I like to think of the cost here as transaction costs, integration costs, you've got the intangible amortization, you've got interest on net debt. I think I've talked most of those but I haven't necessarily talked the integration costs. 
+If the deal gets closed by the end of this year, obviously, hopefully most of the transaction costs will be behind us in 2015. Whenever it does close, 2015 or 2016, that's when the bulk of the transaction costs will hit. 
+As I said earlier, we intend to rapidly integrate Sikorksy into our business. That would require some acceleration maybe from what you're thinking in terms of the integration costs. I don't know that we've got those totally nailed down at this point in time, Sam, but you should think of those $80 million, $100 million a year levels in 2016 as to just the integration costs there. Again, hopefully that gets that behind us, gets them integrated and enables us to have the synergy impacts happening that much quicker. 
+The second question as far as the IT and what changed, it's funny, I think as you continually go through the process of competing for new business, even after we acquired some of the companies we acquired -- for instance, SMS -- some of the new competitions that SMS were competing for, we saw some different acts on the behalf of some of our customers than we had been expecting. Things like splitting out parts of the contract, things like splitting out procured costs from the contract that, frankly, were another twist to that business going forward that was a culmination over a number of years of how that business and the dynamics of that business has changed. 
+When Sikorksy became available, we looked at that and said that's a business that's probably more down the middle of what the rest of the Corporation is. Frankly, we didn't think -- again, just to reiterate what Marillyn said -- that we could necessarily compete in the environment and with the sorts of expectations that customers had in the IT and government services business successfully and in the interest of creating value for the Corporation and actually giving our employees the greatest chance for growth in the business that they love. That's the reason for the separation. So, I say it's not one or the other, it's probably the combination of the two that led to that. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [54]
+--------------------------------------------------------------------------------
+
+          The other thing that I would add to that, what we're putting under strategic review we've looked at very closely relative to the rest of what's in IS&GS, for example, and recognize that what we're putting under strategic review is work that is just increasingly difficult for us to be competitive in, under our standard business. The work that they are doing is good work for customers, it's important work that they are doing every day, but just our standard business model it's difficult for us to compete. 
+And the commercial cyber would be an example in what area that it operates in. We are not exiting the cyber security business that we do for the US government and for governments around the world. That's an important element of business. It's an element that we bring a value to with our robust multi-layer cyber defense capability. We provide some of the most advanced cyber security solutions. 
+so, in that regard, we are staying in those businesses that we think really fit well with what is our core market, and that we can be competitive in. Much of the business that we are looking at, or all of the business that we are looking at putting up for strategic review has become extremely price-sensitive. And our customers will -- we may be performing at the top of the heap on the work we're doing but if somebody comes in with a lower price in a re-compete, they will move to a new player, a new untested player. And that's just the environment we are operating in. 
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          Seth Seifman, JPMorgan. 
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Thanks very much. Good morning. As you have mentioned, Sikorksy is one in a number of key DoD programs that should support sales growth in the future. But maybe -- and I know this might be a little difficult to do -- but if you could just lay out a back of the envelope trajectory because you do have those new programs but at the same time maybe you have some pressure on legacy programs and a new multi-year contract coming up on Black Hawk. So maybe the trajectory over the next few years from an earnings standpoint, where things bottom out and the drivers come in to push that up as we head into the end of the decade. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [57]
+--------------------------------------------------------------------------------
+
+          Seth, welcome to the call, by the way. Just a couple of thoughts there. And I will probably talk more top line and let you figure out maybe what's happening on the bottom line there. But top line in terms of evaluation, the way we looked at this business, and as has been mentioned before, the commercial helo market associated with the oil and gas industry has really, not just for Sikorksy's business but for the market at large, has really gone down quite a bit. 
+From where the peak in 2014 of sales to where we expect going forward, we think that number is going to drop just on the commercial sales. I don't have these numbers exactly committed to memory but I think they did $1.5 billion or so worth of commercial helo work in 2014 or so. And I don't know what the expectation is in 2015 off the top of my head. But I do know in the evaluation that we put going forward, we think that number comes closer to $0.75 billion worth of business. That's our view. So, you should think of that as creating some top-line pressure, at least in our view, on the current level of revenue from 2016 going forward for couple of years. 
+And the commercial market obviously is the more profitable market, as well, so that puts pressure on the bottom line there. Where we see that starting to turn around is some trickling of the commercial market getting better and the oil and gas market getting better, say, in the late 2018-2019 time frame. And that's also coincidentally when we see the transition from a lot of these developmental programs into production, particularly the 53-K. That's when we would expect to see a rebound on the other side, both from a top line as well as a bottom line. The margins will sort out the way they will, depending on the commercial market, but that's the way we should view that, in our judgment. 
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          (Operator instructions) 
+David Strauss, UBS. 
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my question again. Bruce and Marillyn, you've talked about this Sikorksy deal, seen as relatively low execution risk. But obviously Sikorksy has run into some problems with CMH, with 53-K. Can you just talk about your comfort with the execution risk that you are taking on here? Thanks. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [60]
+--------------------------------------------------------------------------------
+
+          I would say, as Bruce commented earlier, we run government programs, we run platform and systems programs across our entity. I have never seen our Company performing better in terms of the programs that we are operating on today. So in that sense, similarly Sikorksy has a long track record of success. In new development programs, there are times when any company, the complexity of it, we're going to have some challenges on the front end. 
+But I think we bring this strong program management expertise. And coupling that with Sikorksy's performance and their innovative technology, that's where we think this is low risk. It is right in our core market. We know how to build. We both design and build platforms. So, it fits right in our sweet spot. Bruce, do you want to add anything? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [61]
+--------------------------------------------------------------------------------
+
+          The only thing I would add, David, is this is nothing new. What I believe -- and I'm not there on the ground, obviously -- but there is no technical showstoppers that we saw. This is just a hard-core fact of going from development into production. We, of all companies, probably empathize with that more than anyone else on the planet probably. 
+But you look at what we've done in our history, where we are finally at on the F-35 program going from development to production, where we've taken the fad from an infant position of trying to figure out this hit-to-kill air missile defense, at the levels we're talking about, actually work or not, and to where it's now a production-fielded or application. Just taking the PAC-3 missile to its next generation with the MSC, taking satellites, MUOS advanced DHF, SBIRS from development to production, we've got the scars. We know what this is like, so this is not a surprise to us. 
+And, look, we think when we got Sikorksy into the fold, we have people who have been through this a lot of different ways who can help with that process. And we have really good production people. And not to say that Sikorksy does not, because we are very impressed by the production team there, but we think we have some synergies coming out there, as well. 
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Myles Walton, Deutsche Bank. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Thanks. Just a follow-up on the overall long term. You mentioned you're buying over three decades. You're on the joint multi-role helo effort today with Bell, and then Sikorksy is on the team with Boeing. Is there anything, when the companies are combined, that's going to preclude you from being on both teams, or is this effectively improving your odds, obviously? 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [64]
+--------------------------------------------------------------------------------
+
+          Our intention is to continue the relationships that we have today on those programs. We want to bring the best solution to our customer. We have some good partnerships that we're working on and we intend to continue those partnerships going forward. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [65]
+--------------------------------------------------------------------------------
+
+          Myles, the other thing I would add is, that program, especially the future vertical lift, is so far out in the future. You tell me when it's going to happen, the quantities and so forth. There is a lot of chance between now and then for people to change ideas, thoughts requirements, et cetera. So, whether that ends up being the program that we think it is today or not is anyone's guess. It's hard for me to get just too excited about where we sit today with something that's probably not going to come into full-rate production for 15 or 20 years 
+
+--------------------------------------------------------------------------------
+Operator    [66]
+--------------------------------------------------------------------------------
+
+          George Shapiro, Shapiro Research. 
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [67]
+--------------------------------------------------------------------------------
+
+          Bruce, on the F-35, was there a margin pick up there? Because you mentioned that you had $30 million higher profit on about $280 million in sales, which obviously would be a higher margin than what you're currently booking on that program. 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [68]
+--------------------------------------------------------------------------------
+
+          Yes, George, there was. This is the second straight quarter where we brought up the booking rates on some of our LRIP contracts. I think this is just recognizing the progression we're going through. I believe this one -- I'm trying to recall from memory, George -- I believe this was on the LRIP 6 and you should think of that as being associated with the completion of deliveries over this period of time. 
+We're starting to get a cadence there, I like to think. I think 6 is on an uptick, or was on an uptick. I think lot 7 is also on an uptick. We need to see that cadence continue going forward. But I feel really good about where we are on the production. Back to my earlier comment, going from transitioning from development programs to production, we're right there and I think we're doing pretty well on that right now. 
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [69]
+--------------------------------------------------------------------------------
+
+          And on the C-5, Bruce, you've been booking near zero with your comment that deliveries seem to be running a little better than expected. What's the outlook for getting better profitability on that program? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [70]
+--------------------------------------------------------------------------------
+
+          George, we have a planned step up in the second half of the year reflecting the good performance that we've seen today. I hope that's something that we can actually do better in even than what we have planned in the outlook there. And I know you and I have talked specifically, George, about the potentiality of a claim associated with the over and above work we have on the C-5 program. 
+Just to be clear, that's still not considered within anything that I've talked about up to this point in time. And, again, that's something that we feel very strongly about in terms of entitlement, and we'll see how that plays out down the road. But that's not a factor in anything that I just said earlier. 
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+          Ron Epstein, Bank of America Merrill Lynch. 
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Bruce, just a real quick accounting question for you. The $2 billion in tax savings that you guys get, is that just straight line over 15 years? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [73]
+--------------------------------------------------------------------------------
+
+          It is, Ron, and it's a high degree of certainty because the tax benefits can be used for the Combined Company. Those are take them home. Those are benefits that are going to accrue to the Corporation. 
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Okay, great. Thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski, Drexel Hamilton. 
+
+--------------------------------------------------------------------------------
+Peter Skibitski,  Drexel Hamilton - Analyst    [76]
+--------------------------------------------------------------------------------
+
+          I'm going to miss this, guys, but with all the puts and takes on the Sikorksy deal, are you expecting it to be free cash flow accretive in 2016? 
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [77]
+--------------------------------------------------------------------------------
+
+          I think it's going to be a little bit neutral, is probably the way I would describe it, 2016, is our expectation, Pete. And then we probably get plenty of time to start talking about the years that are after. But I think for near-term purposes, obviously some of that depends on whether it happens at the end of this year or early next year or a little bit later, but I think if it were for the whole year we would think of it as being fairly neutral for us next year. 
+
+--------------------------------------------------------------------------------
+Peter Skibitski,  Drexel Hamilton - Analyst    [78]
+--------------------------------------------------------------------------------
+
+          Okay, got it. Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [79]
+--------------------------------------------------------------------------------
+
+          I'm showing no further questions at this time. I'd like to turn the call back to management for further remarks. 
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President and CEO    [80]
+--------------------------------------------------------------------------------
+
+          Thank you. Let me just conclude. I appreciate all of you being on the call today. And I want to just conclude by saying we had a strong quarter of financial results, and these strategic actions that we've announced are expected to position the Corporation to deliver even higher value to our customers and stockholders in the future. 
+So, thanks, again for joining us on the call today. We look forward to speaking with you in October on our next earnings call. Abigail, that concludes our call today. 
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program. You may all disconnect. Everyone have a great day. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

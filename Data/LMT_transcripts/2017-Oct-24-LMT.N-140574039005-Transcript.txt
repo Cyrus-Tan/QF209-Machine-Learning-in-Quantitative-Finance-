@@ -1,0 +1,439 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2017 Lockheed Martin Corp Earnings Call
+OCTOBER 24, 2017 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Bruce L. Tanner
+   Lockheed Martin Corporation - Executive VP & CFO
+ * Greg Gardner
+   Lockheed Martin Corporation - VP of IR
+ * Marillyn A. Hewson
+   Lockheed Martin Corporation - Chairman, President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Hunter Kent Keay
+   Wolfe Research, LLC - MD and Senior Analyst of Airlines, Aerospace & Defense
+ * Jason Michael Gursky
+   Citigroup Inc, Research Division - Director and Senior Analyst
+ * Noah Poponak
+   Goldman Sachs Group Inc., Research Division - Equity Analyst
+ * Richard Tobie Safran
+   The Buckingham Research Group Incorporated - Research Analyst
+ * Douglas Stuart Harned
+   Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst
+ * Robert Michael Spingarn
+   Crédit Suisse AG, Research Division - Aerospace and Defense Analyst
+ * Peter J. Arment
+   Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst
+ * Samuel Joel Pearlstein
+   Wells Fargo Securities, LLC, Research Division - MD, Co-Head of Equity Research & Senior Analyst
+ * Seth Michael Seifman
+   JP Morgan Chase & Co, Research Division - Senior Equity Research Analyst
+ * Rajeev Lalwani
+   Morgan Stanley, Research Division - Executive Director
+ * Robert Alan Stallard
+   Vertical Research Partners, LLC - Partner
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by, and welcome to the Lockheed Martin Third Quarter 2017 Earnings Results Conference Call. (Operator Instructions) As a reminder, today's call is being recorded. I'll turn the conference over to Mr. Greg Gardner, Vice President of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Greg Gardner,  Lockheed Martin Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, John, and good morning. I'd like to welcome everyone to our third quarter 2017 earnings conference call. Joining me today on the call are Marillyn Hewson, our Chairman, President and Chief Executive Officer; and Bruce Tanner, our Executive Vice President and Chief Financial Officer.
+Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the safe harbor provisions of federal securities law. Actual results may differ materially from those projected in the forward-looking statements. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to differ materially from those in the forward-looking statements.
+We have posted charts on our website today that we plan to address during the call to supplement our comments. Please access our website at www.lockheedmartin.com, and click on the Investor Relations link to view and follow the charts.
+With that, I'd like to turn the call over to Marillyn.
+
+--------------------------------------------------------------------------------
+Marillyn A. Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Greg. Good morning, everyone, and thank you for joining us on the call today as we review our third quarter results and key accomplishments. Before I begin, I'd like to take a moment to express my sincere sympathies to those across our nation affected by the recent hurricane and wildfire disasters. The devastation endured by these communities is heartbreaking, and the recovery process is just beginning.
+I'm especially proud of the generosity shown by the men and women of Lockheed Martin in providing donations through our partnership with the American Red Cross in support of the ongoing relief efforts. Additionally, we deployed our new LM-100J commercial freighter to Puerto Rico to deliver over 78,000 pounds of supplies. The rebuilding of these areas will take time, but we would like the citizens affected by these disasters to know that we -- that they are in our thoughts.
+Moving on to our earnings discussion. As today's release outlined, we had solid results this quarter, and I'd like to thank the Lockheed Martin team for their continued dedication and performance. We operate in a dynamic environment, and it is through their efforts that we are able to deliver critical solutions to -- in support of our customers' missions and position our company for long-term growth.
+I'm pleased that our year-to-date financial performance has enabled us to increase our full year 2017 guidance for sales, operating profit, earnings per share and cash from operations. We will discuss cash in greater depth later in the call, but I would like to highlight our recent strong performance in this area as we generated $1.8 billion in cash from operations this quarter and $5 billion year-to-date. This performance in driving cash has allowed us to raise our 2017 outlook for the second time this year and we are now -- we now expect to have cash from operations of greater than or equal to $6.2 billion in 2017.
+In another key financial metric, I'm particularly proud to see that the corporation achieved a record backlog this quarter totaling nearly $104 billion, reflecting the strength of our broad portfolio. This strength in growing backlog and cash generation allowed our Board of Directors to approve 2 important cash deployment actions in September. First, we increased the quarterly dividend 10% to $2 per share or $8 annually. Second, we increased the share repurchase authority by $2 billion, bringing our total to $4 billion. This level provides additional flexibility to make future share repurchases if market conditions and our fiduciary duties permit. Together, these 2 actions demonstrate our continued strategy of balanced cash deployment and long-term commitment to delivering returns for our stockholders.
+Bruce will cover the financial results in detail a little later. I'd like to take a moment to provide a bit more color on some of our new business pursuits and the opportunities they present, including recent Foreign Military Sales or FMS notifications.
+In July, I discussed the F-35 LRIP 11 award we received for U.S. jets just after the close of the second quarter valued at approximately $5.6 billion and the expectation that we would add an additional order to that lot for international aircraft. We did indeed receive an undefinitized contract for nearly $3.7 billion, bringing our total third quarter 17 LRIP 11 orders to over $9 billion with 141 aircraft to be delivered in this batch.
+Keeping with the Aeronautics business area, our team received 2 notifications from the State Department approving the sale of F-16 upgrades and new aircraft to the government of Bahrain. In the first notification, Bahrain's current fleet of 20 F-16s will be upgraded to the new Viper configuration with an estimated value for this engineering work of over $1 billion. In a separate announcement, the State Department also approved the sale of 19 new production F-16 Viper aircraft to Bahrain worth approximately $2.8 billion. Once congressional approval is obtained and the related contracts are executed, we will extend F-16 production beyond the 2021 time frame. These 2 requests are indications of the continued demand for this legendary fighter aircraft, and we are eager to complete the FMS process and deliver these capabilities to this longtime customer.
+Moving to our Missiles and Fire Control business area, since the announcements in May by President Trump and King Salman of the Kingdom of Saudi Arabia and subsequent to the close of our third quarter, the State Department approved the sale of $15 billion worth of FAAD missile [deployment] completion of the same congressional approval process as our F-16 notifications. We believe this is a strong indication of our portfolio's broad demand and long-term growth potential. We look forward to working with our U.S. and Saudi customers to finalize this opportunity and to deliver this important capability to the Kingdom of Saudi Arabia.
+In another new business opportunity in Missiles and Fire Control, we were delighted to be chosen to participate in a Long-Range Standoff or LRSO missile program. LRSO will be the next-generation cruise missile for the air-launched portion of the nuclear triad. This $900 million technical maturity and risk reduction contract will allow us to develop and refine advanced technologies in support of the final engineering, manufacturing and development competition, which will take place in about 3 years. We look forward to performing on this strategic program and to providing this long-range deterrence capability for our nation and allies.
+Lastly, we were pleased to be selected as the prime contractor for the U.S. Special Operations Command's next-generation Global Logistics Support Services sustainment program. After over 7 years of successfully performing for this customer, it was an honor to be selected in this competition to continue to support this critical mission. This 10-year indefinite-delivery/indefinite-quantity, or IDIQ contract, has the potential to grow to $8 billion in orders, which would represent an increase of $3 billion from the ceiling value of our incumbent special operations logistics program.
+Turning briefly to budgets. The federal government is currently operating under a continuing resolution for fiscal year 2018 that limits the Department of Defense expenditures to previous fiscal year levels through December 8. With a large portion of our backlog work already funded from prior fiscal years, we do not expect significant impacts to our 2017 financials for this current short-term CR. Should the continuing resolution and its associated budget constraints be extended beyond December 8, we would anticipate some level of impact against our 2018 orders profile and corresponding backlog level with the potential of other impacts depending on the duration of the CR. We are encouraged though that both the House and Senate have passed their versions of the 2018 National Defense Authorization Act bill each by wide margins and a broad show of support. The House is recommending a base defense budget of approximately $593 billion, with the Senate putting forth a target of about $611 billion, and these 2 positions must now be reconciled in conference. Each of these budget proposals reflect significant increases over both President Trump's $575 billion request and fiscal year 2017 enacted amounts. It remains to be seen which measures will be adopted in the final National Defense Authorization Act and what levels of funding will be provided in the separate appropriations process. However, these amounts exceed the current budget caps, and legislation is still needed to adjust the spending limits imposed by the Budget Control Act. Passage of this legislation will require bipartisan support.
+We continue to urge our lawmakers to work towards an agreement which modifies the budget caps, provides the defense funding required to capitalize our military assets and delivers to our military the resources vital to our nation's security.
+Moving on, I would like to highlight several operational milestones we achieved across the corporation during the third quarter. Beginning with an update on our F-35 program, this quarter, we successfully surpassed the 100,000 flight hour threshold, exhibiting a significant level of maturity for the aircraft and its flight sciences and mission systems capability with 98% of our flight testing completed. We remain on track to complete all of the system development and demonstration flight testing in the next few months. To date, we have delivered over 250 jets since the beginning of the program, and we are thrilled with its performance.
+In addition, recent test achievements have included completion of edge-of-the-envelope maneuvers for the F-35A variant, stressing the limits of the aircraft's structural strength and aerodynamics. Another achievement was the successful completion of offensive counter air and anti-surface warfare test, demonstrating the performance of the F-35 system as well as 42 of planned 43 weapons accuracy tests with the final test planned for the next several months. We believe we are well positioned to complete all remaining development milestones as we progress to complete Block 3F capability.
+In our Rotary and Mission Systems business area, we were awarded our first Low Rate Initial Production, or LRIP contract, for 2 Sikorsky CH-53K King Stallion helicopters following our successful Milestone C decision in April. With this award, we began production of the most powerful helicopter ever builded. We will deliver these LRIP 1 helicopters to our U.S. Marine Corps customer in 2020 in support of the Department of Defense's 200 aircraft plan of record objective. We are excited to be able to bring the incredible capabilities of this remarkable product to our war fighters as well as to humanitarian or disaster relief missions for those in need.
+Another area where we had a significant accomplishment this quarter was on the Orion program. Lockheed Martin and NASA engineers at the Kennedy Space Center powered up the next Orion crew module for the first time, initiating the vehicle management systems and power and data units, the brains and heart of the capsule. This spacecraft will embark upon a flight that will take it over 40,000 miles beyond the Moon, making this exploration mission a crucial milestone for our test campaign. We are honored to be building the Orion deep space exploration vehicle, which will take American astronauts back to the Moon and eventually Mars.
+I'll now turn the call over to Bruce to review our third quarter financial performance in more detail, and then we'll open up the line for your questions.
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Marillyn. Good morning, everyone. I'll be making remarks based on the web charts that we included with our earnings release today. Let's begin with Chart 3 and an overview of our results.
+We're pleased with our performance in the quarter. Sales of $12.2 billion and segment operating profit of $1.2 billion were slightly lower than our expectations, but we expect this timing-related shortfall will be more than made up for during the fourth quarter as we will discuss later. Our earnings per share of $3.24 were in line with our expectations even with the lower sales and profit levels and were aided by the favorable resolution of several contractual matters that improved our unallocated expense amounts.
+Cash from operations was very strong at $1.8 billion for the quarter, and we continued to return a significant amount of that cash to our stockholders with $1 billion returned in the quarter. In addition, and as expected, we had a very strong quarter capturing new business, achieving a record backlog level of $104 billion. We are increasing our outlook for sales, operating profit, earnings per share and cash [from] operations, reflecting our growing confidence as we progress through this year. So I'd characterize the quarter as one with solid performance and improving prospects for the rest of the year and beyond.
+On Chart 4, we compare our sales and segment operating profit in the third quarter of this year with last year's results. Sales grew 5% compared with last year to $12.2 billion, with most of that growth coming in the Aeronautics business area, which grew 14% in the quarter driven by F-35 volume. Segment operating profit was slightly lower this year after adjusting for the large gain we recognized last year when we obtained a controlling interest in the Atomic Weapons Establishment joint venture in the U.K. And as I said on the prior chart, we are increasing our full year outlook for both sales and segment operating profit.
+Turning to Chart 5, we'll discuss our earnings per share in the quarter. EPS from continuing operations of $3.24 was lower than last year's amount. But after adjusting for the AWE gain that we recognized last year, our EPS was relatively flat.
+On Chart 6, we'll compare our cash from operations this quarter versus our results from 2016. We generated nearly $1.8 billion of cash in the quarter, almost 1/3 more than we did in the third quarter of last year. On a year-to-date basis, we have generated almost $5 billion in cash from operations, well on our way to achieving our increased outlook for the year.
+Chart 7 shows the cash returned to stockholders through the third quarter. After deducting year-to-date capital expenditures from cash from operations, our free cash flow is almost $4.3 billion through the first 3 quarters. And we returned about $3.1 billion in cash to stockholders or 72% of free cash flow, fairly evenly divided between dividends and share repurchases.
+Chart 8 shows the increase in backlog this year to a record level of $104 billion. You may recall from last quarter's call that we had -- that we had received both an F-35 LRIP 11 UCA as well as the multi-year 9 buy of BLACK HAWK helicopters shortly after the second quarter ended. I'm very pleased that with these awards as well as others in the quarter, our backlog increased above the $100 billion mark for the first time. And importantly, our $104 billion backlog level includes only a minimal amount of orders for the potential $8 billion SOF GLSS contract we received in the quarter as we will recognize orders under this IDIQ vehicle only when incrementally added to the contract.
+Chart 9 provides our updated outlook for the year. We are increasing our outlook for every metric other than the FAS/CAS adjustment. We are increasing our sales outlook by $200 million and our segment operating profit outlook by $20 million. In our unallocated items, we expect to resolve certain conditions related to a prior year's property sale in the fourth quarter, which will allow us to recognize a previously deferred $200 million gain, and we are recognizing a $20 million improvement in other expenses for the favorable contract resolutions I mentioned earlier. Our operating profit outlook increased by $240 million, reflecting both the increase in segment operating profit and the improvement in unallocated items. With these improvements in our operating profit, we increased our earnings per share outlook by $0.55 to a new outlook of $12.85 to $13.15 per share.
+Lastly, we are increasing our cash from operations outlook by $200 million to be equal to or greater than $6.2 billion.
+Chart 10 shows our revised outlook by business area for sales. We're increasing our sales outlook for Space Systems, RMS and Missiles and Fire Control by a collective $550 million due to higher volume expected in all 3 business areas while we are lowering our outlook for Aeronautics -- for the Aeronautics business area, excuse me, by $350 million based on an updated forecast of subcontractor production costs that will be incurred in 2017. The net result of these changes is the overall increase in sales of $200 million.
+Turning to Chart 11, we show the changes in our segment operating profit outlook for the year. We are increasing our outlook for profit for Aeronautics, Space Systems and Missiles and Fire Control by a collective $35 million, reflecting both improved performance and higher volume. We are lowering our outlook for profit at RMS, primarily to recognize the performance issue we discussed in our earnings release. The net of these changes is an overall increase of $20 million in our segment operating profit outlook.
+Chart 12 provides a view of how the new revenue recognition methodology, ASC 606, is expected to affect our 2017 results when that standard becomes effective next year. We expect 2017 sales under the new methodology will be about 2%, or $1 billion lower than the current methodology, while segment operating profit will be comparable under both the old and new methodologies. As a result, we expect our segment operating margin will increase to around 10.3%. We explained the reasons for the changes we expect for 2017 in the bullets on the chart. Under the current revenue recognition standard, about 70% of our sales are already recorded using the cost-to-cost methodology and will have minimal if any change under the new standard. About 30% of our sales are recorded as deliveries occur and this is where almost all of the impact of the change to the new standard will occur. The main drivers behind the lower sales in 2017 under the new standard are programs where the quantities of deliveries in 2018 will be lower than the quantities of deliveries in 2017, and this occurs primarily with our aircraft programs like the F-16, C-5 and BLACK HAWK programs.
+Profit, on the other hand, is comparable under the 2 standards. We record our profit step-ups based on the same risk retirement events regardless of revenue recognition method, meaning the timing of those step ups does not change between the 2 standards. While the timing of the step-ups does not change, the amount of inception to date cost incurred or cost of goods sold when the step-ups occur does change between those 2 standards. The effect on our delivery-based sales contracts is always to shift sales to the left as we always incur significant cost before we begin to deliver our products. As a result, some step-ups in 2017 will be applied to higher inception-to-date costs, which helps to offset other contracts that had sales and profit shift to prior periods. The combination of all these unique impacts combined to create essentially no change to our profit in 2017 under either methodology. The important takeaway of the chart is that there is no change to the economics of our programs or cash from operations. The only change is to the phasing of sales and earnings recognized under GAAP.
+We provide our preliminary trend information for 2018 under the new revenue recognition methodology on Chart 13. We expect our sales in 2018 will increase about 2% over the restated 2017 level. Segment operating margin is expected to increase to a range of 10.3% to 10.5% next year. Our cash from operations is expected to be equal to or greater than $5 billion after making required pension contributions of $1.6 billion, meaning our cash from operations before making pension contributions is expected to be $400 million higher than it was in 2017. We expect to have share repurchases of equal to or greater than $1 billion, and we expect to retire about $750 million of debt that is maturing next year.
+Our FAS/CAS outlook for the -- for next year is essentially comparable to this year at $860 million, and this outlook is based on interest rates remaining at their current level through year-end, which would be 25 basis points lower than when we began this year. It also assumes a 9% return on our plan assets in 2017 holding to the performance we've experienced through the first 3 quarters, and it maintains our long-term return on assets assumption of a 7.5% return.
+Turning to Chart 14, we provide an update to both the original and new 3-year goals for cash from operations. Our original goal in October of 2014 was to generate $15 billion or more over the years 2015 to 2017 while we experienced what we called a pension funding holiday over those years. I'm pleased that we now expect to generate $16.5 billion over this time period while absorbing $100 million of pension contributions for Sikorsky that were not envisioned when we developed this goal. In October of last year, we said that our new goal was to generate more than $15 billion for the years 2017 to 2019 even though we expect to have significantly higher required pension contributions over this time frame than we had during the pension funding holiday time frame. Based on our expected 2017 cash from operations of $6.2 billion, we now expect to generate more than $16 billion over the 2017 to 2019 time frame while contributing a total of $3.3 billion to our pension trust over 2018 and 2019.
+Finally, we have our summary on Chart 15. We're increasing our full year outlook for all key financial metrics. Our record backlog positions us for sustained long-term growth. We will continue to have robust cash flow even with the higher pension contributions in the future. We'll maintain our balanced approach to cash deployment. And during our earnings call next quarter, we will provide our full year 2018 outlook under the new revenue recognition standard, which is effective for us on January 1.
+With that, we're ready for your questions. John?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) First, we'll go to Rich Safran with Buckingham Research.
+
+--------------------------------------------------------------------------------
+Richard Tobie Safran,  The Buckingham Research Group Incorporated - Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          So I have a bit of a 2-part question about the guide. I'd like to know, if you could, what your long-term cash from operations guide for greater than $16 billion includes. For example, are you anticipating a restart of the F-16 line assuming that Greece and Bahrain actually translate to orders? And are you including, for example, the Saudi FAAD order, which I'm assuming would benefit you in 2019. And the second part is just related to what you've been saying about Aeronautics in your opening remarks. You lowered the sales, and I wanted to know if the issues you spoke about maybe caused you to lower your guide portends anything about 2018 and why you might be guiding to 2% growth rather than higher.
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Rich, let me take a shot at both those, I think. So I think the first part of your 2-parter was -- and good on you to get a two-parter in, by the way. But your first part was cash from operations $16 billion, is that considered a restart of Greece and Bahrain and maybe Saudi FAAD, if I caught the question right. So I think the short answer is that it includes the effect of all those in our cash from operations outlook. And I think maybe the heart of your question is whether or not there could be some upside, for instance, if FAAD were to happen sooner than maybe we have it planned or not, or if Greece and Bahrain might happen sooner. I think the short answer to that is I wouldn't expect to see a lot of upside improvement because none of those are on a DCS, or direct commercial sale, basis, so there's no sort of down payment associated with that at all. Those will be FMS payments. And at least for the start of those contracts, I would expect most, if not all of those, to be under progress payments. So if anything, we probably got a little cash usage in the near term associated with winning those new orders as opposed to cash benefit. You talked about 2019, by that time, Rich, the cash should start to turn around, and we would start to expect to see some positive cash come out of those orders I would expect during that time frame. And next, I think was the question on F-35 sales and lowering the outlook for this year and what does that portend for next year. I'm going to give you probably a longer than maybe even necessary response, Rich, to the question, because I think that's an important question. I'm glad you asked it upfront there. So I think the very short answer is no, I don't think that portends anything for 2018 sales for F-35. I think we're looking at about 16% sales growth in F-35 sales in 2017 over 2016. And as I look forward to 2018, there's still another mid-single digit -- or excuse me, 13% probably to 15% growth range and F-35 sales in 2018, so still very, very significant growth. In fact, if you take a look at the F-35 growth in the quarter, it's up 20% over the third quarter of last year. So that program is growing at pretty good leaps and bounds. And so I think that sort of begs the question of so why the lowering of the outlook for F-35, and it's a little bit of a complicated answer, so let me try to get into that. First off, we're not in a steady state on the F-35 program. As I just said, we are growing at a very, very significant rate. And I'll just tell you, it's a lot easier to forecast steady build programs where you're incurring the same cost year-to-year or the same number of deliveries year-to-year. It's much, much harder to forecast when you're either increasing rate or decreasing rate as we are with the F-35. And at any given calendar year, we probably have at least 3 LRIPs with significant cost incurred in each of those LRIPs all at the same time. And more importantly, our suppliers amount to probably 65% or 70% of the total cost in each LRIP, and you should think of that as hundreds of thousands of suppliers -- hundreds to thousands, excuse me, not hundreds of thousands, for each LRIP. And frankly, we missed the phasing of this supplier cost this year. I think it's important to note this does not impact the production of aircraft. It's just the timing of when we expected suppliers to incur their costs or bill their costs to us. We're actually not missing the phasing on our internal costs. We are just missing the phasing of our supplier costs, and this doesn't change our overall expectations of cost by LRIP or the profitability by LRIP, simply the phasing of cost by year. And in a weird kind of way, we actually know the at completion cost for each LRIP probably better than we know when it's going to be phased by year. So obviously, Rich, we've got to get this dialed in better with our supply chain cost going forward. We think we're going to do that. We think we have the process in place to do that. I will tell you, there is a twist coming up this year and probably next year, or 2018 and probably 2019, though, which is the economic order quantity that we expect to start incurring costs on actually this year in -- and into next year in 2019 and beyond. We're forecasting it's also going to present a bit of a challenge because there, we're actually buying for 3 LRIPs simultaneously versus 3 LRIPs uniquely like our historical data represents. So not trying to overcomplicate things hopefully for you, Rich. But just to give you an appreciation for why we don't think that's a long-term issue with the F-35. It doesn't change the economics of the F-35 program. We simply missed the phasing in 2017 of our supplier cost.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+
+          Our next question is from Rob Stallard with Vertical Research.
+
+--------------------------------------------------------------------------------
+Robert Alan Stallard,  Vertical Research Partners, LLC - Partner    [5]
+--------------------------------------------------------------------------------
+
+          Maybe just to follow-up on Rich's question there, Bruce. When you're talking about cost, this is because these are cost-plus programs, right? And therefore these get passed on with revenues and that's why the revenues in the third quarter weren't as you'd originally guided. Is that correct?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [6]
+--------------------------------------------------------------------------------
+
+          Let me correct you a little bit, Rich (sic) [Rob]. You should think of almost all the F-35 as fixed-price incentive firm contracts, not cost-plus, but they're all recognized under a POC cost to cost, if that might have been your question, method of recognition, sales recognition versus a delivery-based.
+
+--------------------------------------------------------------------------------
+Robert Alan Stallard,  Vertical Research Partners, LLC - Partner    [7]
+--------------------------------------------------------------------------------
+
+          And then how does that flow through to the operating margin? Is this that if revenues flip to the right, you therefore can't book them in the quarter. They will be recognized in the fourth quarter when these costs are incurred. Is that correct?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+
+          That's exactly right, Rob.
+
+--------------------------------------------------------------------------------
+Robert Alan Stallard,  Vertical Research Partners, LLC - Partner    [9]
+--------------------------------------------------------------------------------
+
+          Okay. Glad I got that cleared up. And then just finally on the cash guide you've given for 2017, '18 and '19. How much of that change is coming from the adjustments to '17 versus the out-years in '18 and '19?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [10]
+--------------------------------------------------------------------------------
+
+          So most of it is coming from '17, Rob. I'll say with the improved performance that we've seen this year, I think we're up, what, $500 million or so this year over what we initially guided towards when we came out with that guidance at the beginning of the year. I think there was always some confusion, at least as I met with investors and talked to some of the analysts myself as to was our cash going to sort of fall off the face of the earth when we started making some fairly large pension contributions. And there, I'm pleased to say that even with those, we still think we can stay at the $5 billion-plus level in the years 2018 and '19. So most of the change occurred in the upper first -- 2017 performance, but I did want to give the indication that still strong cash performance, especially if you consider sort of pre-pension cash flow, our numbers are increasing every year, '17, '18, all the way through '19.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Our next question is from Hunter Keay with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Hunter Kent Keay,  Wolfe Research, LLC - MD and Senior Analyst of Airlines, Aerospace & Defense    [12]
+--------------------------------------------------------------------------------
+
+          Marillyn, can you talk about maybe what you think went wrong with the GBSD downselect and maybe what some of the lessons learned that you guys took from that bidding process?
+
+--------------------------------------------------------------------------------
+Marillyn A. Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [13]
+--------------------------------------------------------------------------------
+
+          Well, I would just say that on GBSD, we thought we had a very strong offering and we still believe we had a strong offering. So in terms of any lessons learned from that, we always reflect on why we lost the program, we always go through lessons learned process, but I don't think there's anything specifically that I would pass on to you at this point.
+
+--------------------------------------------------------------------------------
+Hunter Kent Keay,  Wolfe Research, LLC - MD and Senior Analyst of Airlines, Aerospace & Defense    [14]
+--------------------------------------------------------------------------------
+
+          Okay. Nothing specific about that program or any questions you may have about the overall sort of bidding process for Lockheed in general going forward, that was just sort of isolated?
+
+--------------------------------------------------------------------------------
+Marillyn A. Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [15]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, I think we still have a chance to participate in other elements of that program going forward. So we're still hopeful in that regard. We have a lot of capability to bring to our customer.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Next we'll go to Peter Arment with Robert W. Baird.
+
+--------------------------------------------------------------------------------
+Peter J. Arment,  Robert W. Baird & Co. Incorporated, Research Division - Senior Research Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Bruce, maybe just a quick one on kind of you just highlighted the F-35 growth year-over-year. Kind of talking about '18, I think you said 13% to 15%. And I know you kind of highlighted F-16, C-5, BLACK HAWKs will be down. So it kind of implies that there's not a lot of growth from the rest of the portfolio, which seems kind of unrealistic. But maybe you could just highlight what some of the moving parts are around when we're thinking about the top line growth for '18.
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [18]
+--------------------------------------------------------------------------------
+
+          Yes. So it's -- I know it's a lot of moving parts and probably a lot of confusion, Peter, because we're basing our sales growth next year based on restated 2017 numbers where we've not given and you haven't seen that laid out by business area. So it's a little bit of explaining something kind of on faith at this point in time, frankly, because you don't have the data in front of you. We'll obviously provide some restated '17 performance based under the new revenue recognition when we present our data in the January time frame. But given that, what we're looking at is aero's probably going to be up I would think high-single digits sales next year. And obviously, most of that is driven by the F-35 program. That's helping to offset both lower F-35 development costs, although the F-35 development program continues. It's dropping probably $0.25 billion year-over-year, so that's a pretty good headwind for us. And as you said, obviously, we've got the lower C-5. What you didn't mention is we've also got next year, 0 F-16 deliveries. So we just got to start on hopefully the Bahrain aircraft there, but actually lower F-16 volume next year for production aircraft than we have in 2017. Missiles and Fire Control I'll say has slight growth over 2017. Again, these are all relative to the sort of restated '17 numbers under the new revenue recognition, but you should think of that as sort of low single-digit growth. And I think where that may be a little surprising is given all the discussion we've had about the potential FAAD awards, especially with the Kingdom of Saudi Arabia and others, really that work is not planned in our outlook to start until the middle of next year, and that's a pretty slow buildup of cost relative to our supply chain on the FAAD programs. So even though the numbers are very, very large, they really don't amount to just a huge amount of sales growth in 2018 versus 2017. RMS next year is about comparable probably as our current outlook for 2017 where we have LCS volume, including by the way, the LCS ships for the Kingdom of Saudi Arabia, which is the only program of the ones that were announced where we've actually received some funding and we're starting to do some design work and so forth on the LCS variance for use in that ship by the KSA, and that's helping to offset really lower BLACK HAWK aircraft deliveries in volume therefore for next year as we talked about in our prepared remarks. And lastly, Space Systems is probably down mid-single digits. You should think of that as sort of the continuing trend of lower government satellite volume, both for [servers] and advanced EHF. And again, this is sort of the good news, bad news story where we have the same quantity of satellites that we're producing, but because we're now in the fifth and sixth variance or fifth and sixth number of servers and advanced EHF, we're making each one of them for less than the previous satellites. So while the quantities stay the same, the pricing is coming down. And that's a good thing for us, by the way. And then that that's -- so that's a big piece of it. The other piece of it is, literally, there's very, very little commercial satellite volume or much, much lower commercial satellite volume in 2018 compared to 2017 as we wrap up 2 satellites that we'll deliver out in the early stages of 2018. So that's kind of the 'round the horn pieces, Peter, of what's driving the sales volume that I talked about in total at the corporation level.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Our next question is from Noah Poponak with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs Group Inc., Research Division - Equity Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Bruce, so if I take the 2% organic revenue growth 2018, I take the little bit of segment margin expansion, it kind of gets in the zone of a couple of hundred million bucks of segment EBIT growth, '18 versus '17. It looks like that will basically be offset by the other line where you've got some favorable items this year that don't recur. So it sort of looks like total EBIT gets in the zone of flat. And then if I assume the tax rate is probably a little higher because you had a few favorable tax rate quarters. Share count's maybe 3 million or 4 million shares lower based on the buyback guidance you gave today. Those kind of roughly offset. It sort of has me -- it sort of has the model just showing 2018 earnings kind of close to flat versus the updated '17 guidance, maybe a little bit of growth. And I guess the reason I'm going through that and asking that is I'm staring at the consensus number that's over $14. Obviously, you always have some contingency in your margin guidance. You might buy back more stock, but I'm just wondering if I'm missing anything in at least where you're going to start the '18 outlook looking relatively close to flat on an earnings basis.
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [21]
+--------------------------------------------------------------------------------
+
+          Noah, look, I think your math is actually pretty close to what I'm looking at. I think the one piece you didn't mention in all that, and I don't know what you have in your model and I don't know what the other folks have in their models, but I'd be surprised if you have a FAS/CAS outlook of $860 million for next year. That's actually a little bit lower than this year. We incorporated the 25 basis point reduction that we saw through the end of the first 3 quarters in the numbers. I'm personally hopeful that we have an uptick in interest rates between now and the end of the year, and maybe that goes away. But as we sit here right now, that's down considerably from at least what we were expecting the FAS/CAS to look like in 2018 compared to the $860 million. So that's a pretty good chunk I think of the difference from sort of the EPS numbers you were mentioning there. I think the absolute segment profit, the operating profit numbers you were talking about, are probably close to what we're expecting to see.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Next we'll go to Rob Spingarn with Crédit Suisse.
+
+--------------------------------------------------------------------------------
+Robert Michael Spingarn,  Crédit Suisse AG, Research Division - Aerospace and Defense Analyst    [23]
+--------------------------------------------------------------------------------
+
+          So Bruce, for you, going back to the 2%, and I suppose this addresses some of what's already been discussed, but you've got this book-to-bill of [1.2]. At some point, there's a nice sales inflection up. So I'd like to talk about when that's coming, what your time frame is for that. And then in the backlog, is there -- is that $104 billion a gross number or net number? Is there any debt backlog in there that is pressuring sales that needs to come out?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [24]
+--------------------------------------------------------------------------------
+
+          If I understand the last part of your question, then the answer is no. And the $104 billion is a backlog just like any other backlog number we would have presented to you at any point in time, Rob. So no to that question. Your book-to-bill question, the 1.2 and $104 billion, the record number we had in the third quarter, and I think your question in a nutshell is so why doesn't that translate into higher growth in 2018 than just the 2% we're talking about?
+
+--------------------------------------------------------------------------------
+Robert Michael Spingarn,  Crédit Suisse AG, Research Division - Aerospace and Defense Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Yes, or when does it?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [26]
+--------------------------------------------------------------------------------
+
+          Yes. I think, Rob, is we do typically sort of 3-ish year plans. And if you take a look here, which you can't, but if you look beyond 2018 into 2019 and 2020, we're probably in the 4.5%, 5% CAGR level for each of those 2 years over the 2018 numbers. So I think that's where some of that, at least, growth occurs. But some of the opportunities within the $104 billion and some of the opportunities that aren't in the $104 billion, such as the $15 billion of KSA -- I'm sorry, Kingdom of Saudi Arabia order for the FAAD program for instance that Marillyn referenced in her remarks, even when that gets in backlog, that's a long-cycle program, so it'll take a while. Even though we're recording that on a cost-to-cost basis, it's still a long duration, long-cycle program. So that was the point we were trying to make the comments about. This does really, really well position us for future growth for a long, sustained period of time. It just doesn't happen overnight. And especially, if you will allow me to call 2018 overnight. I mean, the other prospect that we've got long-term sustained growth for is the 53K, and it's got one of the slowest starts on a program that large that I've ever seen. I mean, we're literally talking 2 aircraft in the LRIP 1 contract. I think it grows to 4 in the next one. I mean, it's a very, very, very slow growth rate, so that's one we'd love to get some higher growth coming out of there. But that's the reason why, I think, Rob, it looks a little light maybe compared to what you were expecting in 2018. I think it starts to pick up probably to where your expectations are much more in 2019 and 2020.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+          Our next question is from Jason Gursky with Citi.
+
+--------------------------------------------------------------------------------
+Jason Michael Gursky,  Citigroup Inc, Research Division - Director and Senior Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Bruce, I was wondering if you could do the same thing that you did on revenues by segment and talk about the operating profit outlook as we move out into 2018 and discuss kind of the puts and takes by segment.
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [29]
+--------------------------------------------------------------------------------
+
+          Yes. I can give a shot at that, Jason. Again, this is all a little bit maybe taken on faith since this is new revenue recognition when your [heads] and all of their modeling is based on the old revenue recognitions. But this will be how we come out with numbers in January of next year. So maybe just starting with the same order as I did I think earlier going around the horn. I think for Aeronautics, you should expect our [ROCE] probably in the upper 10% range, probably pretty comparable to this year. I'm very happy to say that the F-35 program we're expecting to be greater than 10% overall program margin in 2018, and that's helping to offset -- really lower C-5 and primarily F-16 earnings, which led to margin growth due to higher risk retirements in 2017. But upper tens is probably a good spot, frankly, for Aeronautics. And about what we've been saying for a number of years is that when we saw the F-35 program start to get to double digit, we'd start to see Aeronautics get back to closer to where it was margin-wise a few years ago. So we're [going] sort of right at that cusp here. For Missiles and Fire Control, probably about -- you should think of it about a mid-teens sort of ROCE , maybe slightly below the 2017 level. And I think that's an interesting one because I don't think -- I don't think it's easily understood just how many new wins we have. In fact, one out of our Missile and Fire Control business. I mean, if I just go around the horn, Marillyn mentioned the Long-Range Standoff, sort of the next generation nuclear cruise missile. We also won the F-15 IRST. We won a large classified contract. We won the SOF GLSS we talked about. We won the [arts], I believe it's [arts 2d], which is sort of a threat radar or threat emitter contract -- I mean, these are all substantive starts, new starts for us -- I mean, just to give you some idea there, we're in the process of hiring 1,000 engineers for these new programs that we won in 2017 -- so that's great from a long-term prospect for us, but it sort of hurts the margin in the near term and that's what keeps it sort of at the level that I just talked about -- RMS, if you look at the EBIT or the ROCE for next year, probably slightly higher than 2017 -- I'd say maybe in the mid-7%, maybe a little higher than that range in 2018. And then for Space Systems, I think it's slightly higher than 2017, and that's primarily because we have less commercial satellite volume in 2018 than we did in 2017, and that's essentially at a 0 margin business. So as I said earlier, we have 2 satellites that should deliver in the early to mid part of 2018 so there's just simply less cost volume at that lower margin rate in '18 and '17 which helps the '18 margin. And importantly, I think just to mention, ULA, the equity earnings are pretty comparable between 2017 and 2018. I know I just gave you a lot, Jason. Hopefully, that answers your question and makes sense to you.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Next we'll go to Doug Harned with Bernstein.
+
+--------------------------------------------------------------------------------
+Douglas Stuart Harned,  Sanford C. Bernstein & Co., LLC., Research Division - SVP and Senior Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Marillyn, you talked earlier about the challenges in the budget process right now. And if you look at the House with -- House appropriations has come up with and you look where Senate in house authorization bills have gone, you're looking at high double-digit growth in the investment account. And if you contrast that with a CR at present, with the BCA cap say, you're looking at scenarios for '18 that are very far apart. And what I'm interested in is, when you plan going forward and you think about what your revenue growth will be and also what your investments are, how do you manage this uncertainty? In other words, what's the range of outcomes here and when would we expect to see an impact one way or another on your revenues and earnings?
+
+--------------------------------------------------------------------------------
+Marillyn A. Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [32]
+--------------------------------------------------------------------------------
+
+          Thanks for the question, Doug. I guess the first thing I would say is that we have a number of programs that are -- programs of record that are well supported in both the House and the Senate bills. So if you look at that and you look at where we are, our programs today, as Bruce was talking about, are long-cycle programs that are already under contract that we're working through. So even with the CR, we're not going to see any immediate impact. What it affects is if it extends into next year, and I'm actually feeling pretty optimistic that it's not going to do that. I think when I look at where the bipartisan support for defense and the move to try to get through this budget so they can move on to tax reform and other things, I feel pretty good about that. In terms of -- you look at our portfolio, I mean, when we are last year, about 27% of our portfolio was international, we're growing to over 30%. That's also another element that you have to take into account. We are not totally reliant on the U.S. government budget for our growth going forward. And then as I just think about where the -- if you look at the programs that are supported in the current budget bills from both the House and the Senate, we are really well supported on -- virtually across our portfolio. So I'm very happy with our portfolio. We're continuing to win business. You heard Bruce and I talk about several things that we've just won in the past quarter. And of course, the F-35 continues to grow and be well supported. So I'm pretty -- I feel pretty bullish about our portfolio and where we're going. Even if we were to face additional budget caps, we know for the long term that's something that we've been a strong voice on the Hill about, of trying to get our lawmakers to address the budget caps. And they are all -- everyone I speak to understands that and they're focused on it. I they think we're going to have a chance to do that. The time is now. So hopefully, that answers your question, Doug.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          Our next question is from Seth Seifman with JPMorgan.
+
+--------------------------------------------------------------------------------
+Seth Michael Seifman,  JP Morgan Chase & Co, Research Division - Senior Equity Research Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Bruce, I guess maybe to keep you on your toes a little bit, in terms of the cash guide for this year, at $6.2 billion, I'm thinking about the pension headwind. But if the pension contribution is offset a little bit by higher CAS, and then you think about it after tax, it seems like maybe it should be about $1 billion headwind all in. And then maybe there's still a few hundred million of Sikorsky working capital release. Can you highlight maybe any other moving pieces to think about as we move from cash flow in '17 to '18?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [35]
+--------------------------------------------------------------------------------
+
+          Actually, Seth, I think you pretty much nailed it. I think you've got the right numbers in your head, and that's sort of the way I think about it as well. I don't think I've got a whole lot to add other than what you said.
+
+--------------------------------------------------------------------------------
+Seth Michael Seifman,  JP Morgan Chase & Co, Research Division - Senior Equity Research Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Okay. And then anything -- you could meet your guidance for '17 and '18 and then the implied cash for '19 is below $5 billion. With growth accelerating, there's no reason to expect cash to decline in '19, right?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [37]
+--------------------------------------------------------------------------------
+
+          Yes. And honestly, we weren't trying to indicate that. I think if you look at the chart, in the web charts that we provided, it's at greater than $16.2 billion, and we tried to indicate that included $6.2 billion in 2017 and at least $5 billion each in '18 and '19, so we weren't trying to guide to a lower than $5 billion number in '19.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Our next question is from Rajeev Lalwani with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Rajeev Lalwani,  Morgan Stanley, Research Division - Executive Director    [39]
+--------------------------------------------------------------------------------
+
+          Bruce, a question for you. Obviously, you came out with your trending data for '18 that's a bit light versus expectations. Why not use pension pre-funding as an opportunity to maybe offset some of those headwinds and maybe improve the outlook as far as earnings into our cash flow?
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [40]
+--------------------------------------------------------------------------------
+
+          Look, we've looked at pension a lot of ways. I mean, we're already funded in advance of what the requirements of our pension plan to the tune of about $7 billion, almost $8 billion or so. We are well ahead of the game in terms of pension funding. I mean, we look at that constantly. And I'll tell you, and I know I've said this when I talked to investors in various conferences and so forth. If in fact tax reform is initiated, we will clearly look at potentially accelerating our pension contributions even if it requires taking out some debt to do so simply because if the numbers we're talking about, let's just for argument's sake, say it is actually a 20% statutory corporate tax rate versus 35%, that equates to real money when you get the benefit of the 35% deduction on your pension contributions versus the 20%, so we would clearly want to accelerate some in that regard if in fact tax reform happens. Short of that, I mean, unless there's maybe some -- if we have a couple of fairly significant collections associated with some international contracts right on the cusp of this year, 2017 that could slip into '18, depending on the timing of when those things happen, whether it's late December or flips into next year, if all of them happen and we get hit on the head with horseshoes in 2017, we might actually make -- try to get a dent in our pension contributions this year, which of course would lower our pension contributions next year sort of dollar for dollar. But that's sort of the only thing we're thinking about as we sit here today. But in any event, still, I would expect to achieve the $6.2 billion of cash from operations this year. It's anything on top of that, we might actually look at that as an opportunity to bring down or draw down the pension contribution, that $1.6 billion in 2018.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          That will come from Sam Pearlstein with Wells Fargo Securities.
+
+--------------------------------------------------------------------------------
+Samuel Joel Pearlstein,  Wells Fargo Securities, LLC, Research Division - MD, Co-Head of Equity Research & Senior Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Can I just follow-up on some of the last couple of questions with regards to pension. And I know you're not guiding '18, let alone '19. But that '18, '19, $10 billion cash from operations, there are a lot of reasons why next year is relatively below your 3% to 5% long-term growth. But shouldn't that recover in terms of revenues in 2019? It would just seem like there isn't a lot that would be a headwind. If anything, you should do better in '19 than '18 from a cash perspective in terms of -- if you can somehow talk about either the pension contributions from '18 to '19 and think about it and the CapEx trends just so that we can think about that in terms of free cash flow.
+
+--------------------------------------------------------------------------------
+Bruce L. Tanner,  Lockheed Martin Corporation - Executive VP & CFO    [43]
+--------------------------------------------------------------------------------
+
+          Yes. So we've talked about, Sam, the pension contributions. We've teed up $1.6 billion this year. We've said it's $3.3 billion over 2018 -- excuse -- yes, 2018 and '19, which would imply a $1.7 billion required contribution in 2019. So that is increasing a little bit there. I'll tell you, I don't like as a daily course to provide 3-year guidance on much of anything. So we want to make sure when we talk those numbers, those are something that we can actually achieve. So I hope there is opportunity to do better than that. If you looked at the last 3-year goal, we did better than what we came out with in the early, was it 2014 time frame? We just have to make that happen. And we'll see if what's going on in that regard for the next couple of years. We do have a little bit of higher capital expenditures over the next couple of years, which I don't know if that's something you'd be considering. But probably $150 million, maybe $200 million at its peak higher than this year. And you should think of a lot of that as some of the new business wins we've just had at Missiles and Fire Control that I talked about require some capital improvements and some additional facilities and equipment there. And you may have seen that we're also building a fairly large facility out of our Space Systems company in Denver to accommodate greater capacity and greater-sized satellites going forward because we think that's where the market's headed. So sort of those higher pension a little bit, more than in '18 and maybe a little bit of CapEx is some of the headwind that we're seeing. But other than that, I don't -- I think it should sort of follow suit as you said.
+
+--------------------------------------------------------------------------------
+Greg Gardner,  Lockheed Martin Corporation - VP of IR    [44]
+--------------------------------------------------------------------------------
+
+          I think we've come up on the top of the hour here, so I will turn it back over to Marillyn for final thoughts.
+
+--------------------------------------------------------------------------------
+Marillyn A. Hewson,  Lockheed Martin Corporation - Chairman, President & CEO    [45]
+--------------------------------------------------------------------------------
+
+          Thank you again for joining us on the call today. I want to end by reiterating that the corporation had another solid quarter. And with our strong portfolio and robust backlog, we continue to be well positioned to deliver substantial value to our customers and to our stockholders. John, that concludes our call today. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          You're welcome. And ladies and gentlemen, that does conclude your conference. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

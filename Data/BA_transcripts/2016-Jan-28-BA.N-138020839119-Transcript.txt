@@ -1,0 +1,902 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2015 Boeing Co Earnings Call
+JANUARY 27, 2016 / 6:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Troy Lahr
+   Boeing Co - VP of IR
+ * Dennis Muilenburg
+   The Boeing Company - Vice Chairman, President & COO
+ * Greg Smith
+   The Boeing Company - EVP & CFO
+ * Tom Downey
+   The Boeing Company - SVP of Corporate Communications
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Dominic Gates
+   The Seattle Times - Media
+ * Seth Seifman
+   JPMorgan - Analyst
+ * Pete Skibitski
+   Drexel Hamilton - Analyst
+ * Alwyn Scott
+   Reuters - Media
+ * Julie Johnson
+   Bloomberg - Media
+ * Stephen Trimble
+   Flightglobal - Media
+ * Carter Copeland
+   Barclays Capital - Analyst
+ * Jon Ostrower
+   Wall Street Journal - Media
+ * Ken Herbert
+   Canaccord Genuity - Analyst
+ * Glenn Farley
+   KING-TV - Media
+ * Doug Harned
+   Sanford C. Bernstein & Co. - Analyst
+ * Peter Arment
+   Sterne, Agee & Leach, Inc. - Analyst
+ * Jason Gursky
+   Citigroup - Analyst
+ * Myles Walton
+   Deutsche Bank - Analyst
+ * Howard Rubel
+   Jefferies LLC - Analyst
+ * Cai von Rumohr
+   Cowen and Company - Analyst
+ * David Strauss
+   UBS - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Please stand by for realtime transcripts. 
+
+--------------------------------------------------------------------------------
+Troy Lahr,  Boeing Co - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          In order to ensure that everyone has the opportunity to hear the prepared remarks, Dennis and Greg will be repeating those remarks in their entirety on this call. After which we will take your questions.  
+(Operator instructions) 
+As always, we have provided detailed financial information in our press release issued earlier today and as a reminder, you can follow today's slide presentation through our website at Boeing.com, and we will provide a copy of the earlier remarks. 
+Before we begin I need to remind you that any projections and goals we will include in our discussion this morning are likely to involve risk, which is detailed  in our news release, in our various SEC filings, and in the  forward-looking statements disclaimer at the end of this web presentation. Please refer to our earnings release and presentation for disclosures and reconciliation of non-GAAP measures that we use when discussing our results and outlook.  
+Now I will  turn the call over to Dennis Muilenburg. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Troy and good afternoon. I'm going to begin by discussing our solid 2015 operating performance, then provide an update on the business environment and our expectations going forward. After that, Greg will walk you through our financial results and outlook in greater detail. 
+As most of you know, 2016 is a milestone year for Boeing, marking our 100th year in business. Over the past century, successive generations of exceptionally talented and dedicated Boeing employees have passed the torch of ingenuity and innovation to help build the world's largest aerospace company and shape the course of human history along the way. It is our privilege and responsibility in the years ahead to preserve and extend this incredible legacy and we intend, as we did in 2015, to take Boeing to even greater heights in the second century of aerospace leadership. 
+In 2015 we continued to deliver on our strategies to convert our backlog into profitable growth, and to drive productivity and affordability throughout the Company. We reported record revenue, solid core earnings per share, and strong cash flow. We continue to make strategic investments in our people, products, and services, to strengthen and grow our commercial airplanes in Defense, Space, and Security businesses.  And throughout the year, we  demonstrated our commitment to providing increasing returns and significant cash to our shareholders. 
+For the full-year, we  repurchased 47 million shares, for $6.75 billion and paid $2.5 billion in dividends. In December, our Board of Directors approved a new $14 billion share repurchase authorization and a 20% increase in our quarterly dividend. This disciplined and balanced cash deployment strategy reflects continued confidence in our large and diverse backlog, our strong product portfolio, and an overall healthy outlook in the global aerospace and defense industry. 
+Now, turning to our core operating performance for the year.  Boeing commercial airplanes reported record revenue of $66 billion, thanks in large part to an industry record 762 deliveries last year, which extended our market share leadership in airplane deliveries to a fourth consecutive year. Airplane order activity was healthy, as we captured 768 net orders. This further supported our robust backlog of nearly 5,800 airplanes, or about seven years of production, at current rates. 
+Other key milestones included the rollout of the first 737 MAX, achieving 90% engineering design release on the 787-10, and firm configuration of the 777X. We also began initial introduction of new automation technology on the 777 production line. This technology will be matured on the current line before being transitioned over to the 777X. 
+A noteworthy milestone for industry and others, and for large and small US exporters alike, was the five-year extension of the US export/import bank. This reauthorization of the bank restores competitive balance in international trade and enables American exporters to compete on a level playing field in tough global markets. These developments in some help to further de-risk our business going forward. 
+We expect a tentative labor agreement reached earlier this month between Boeing and our Puget Sound-based engineering union will have the same affect. With the slate of market-leading development programs underway for our customers, this agreement will provide six years of labor stability, while recognizing and rewarding our engineering and technical workforce for their important contributions to our ongoing success. 
+Following, Defense, Space, and Security had a very strong year, with solid revenue, healthy margins, and progress in critical program milestones. 2015 milestones include the first flight of the KC-46A tanker and its first international sale to Japan, the first EA-18G delivery to the Australian Air Force,  the fourth and final AEW&C delivery to Turkey, the selection of the 747-8 to replace the current US Presidential aircraft, and we completed flight software demonstration on the Commercial Crew program. 
+2016 is off to a strong start as well, with the KC-46 tanker successfully transferring fuel in flight to an F-16 in just the past few days, a very important accomplishment that is an essential step forward and begins our Milestone C testing, that will lead to a low rate, initial production decision this spring. 
+Despite the challenging defense environment of the last several years, our team continues to adapt to the shifting dynamics while maintaining a strong performance and investing to be ready for an eventual upturn in the market. In summary, our Boeing team produced another strong year of operating performance and cash generation and we made further strides in de-risking our business, all of which positions us well and increases our momentum for 2016 and beyond. 
+With that, let's turn to the business environment on slide 3. We continue to see a generally healthy commercial airplane marketplace, driven by improving airline profitability, solid passenger traffic growth, and meaningful replacement. Traffic data for 2015 illustrates the strength of the passenger market, with global passenger traffic increasing 7% for the year, which was above the ten-year average. 
+In contrast, as we highlighted in our rate reduction announcement last week on the 747-8, the global cargo market recovery stalled during 2015, with the air freight traffic growing a modest 2% during the year. We remain confident in the long-term recovery in the cargo market and the upcoming replacement cycle, where we see approximately 240 large freighters that will be over 20 years old by 2019. 
+While overall airplane demand remains healthy, as always, we will continue to keep a watchful eye on evolving market conditions to ensure that supply and demand are balanced. According to IATA, the airline industry is expected to have another record year in 2016, as earnings are projected to rise 10% to $36 billion, fueled by lower oil prices, strong passenger demand, and airline efficiencies. 
+Additionally, passenger traffic in 2016 is forecasted to grow 7%, and cargoes forecasted to increase 3%. In addition, global GDP is forecasted to increase 2.7% in 2016, a healthy level for our industry. 
+We also continued to see strong growth in Chinese airline traffic. In 2015, passenger traffic in China increased 15%, compared to GDP growth of 7%, a steady trend we have seen for the past five years. Based on today's Chinese passenger travel, we see the market is currently underserved by approximately 1000 aircraft. 
+With a middle-class population forecasted to grow 10% annually through 2025, the market opportunity is significant. Over the next 20 years, we see the Chinese market needing over 6300 new aircraft. 
+Specifically related to oil, notwithstanding a fuel price environment today that as well below the 15-year average, the value proposition for  our airplanes remains a compelling one. And we have seen airlines in the past efficiently adjust to similar market conditions. In a period such as today with higher passenger demand and lower oil prices, airlines deploy new aircraft more for growth rather than replace older assets. 
+Furthermore, based on discussions with our customers, lower oil prices have not substantially changed their views on future pre-planning or their commitment for existing delivery schedules. This ongoing demand, coupled with our sizable backlog of nearly 5800 aircraft, which is balanced geographically and across customer operating models, reinforces our plan production rate increases and we believe, positions us for significant revenue, earnings, and cash growth in the years ahead. 
+The rapid return on investment for new, more efficient airplanes remains a compelling factor in purchase decisions in a fuel environment that is well below the 15-year average, as evidenced by the purchase decisions announced just last week by Southwest and United Airlines. As a reminder, in addition to far better fuel efficiency and lower maintenance costs, our new technologically-advanced aircraft also often deliver higher passenger and cargo revenue, increased residual values, a better overall passenger experience, and greater range that grows  market opportunities by allowing for new city pairs and more optimal routes. All of these elements provide significant value to our customers over the life of the aircraft. 
+We are also seeing further strength in the aircraft financing market, as financiers continue to see commercial aircraft as a good investment. As I alluded to earlier, airplane and order activity and customer discussions are continuing at a moderated, but healthy pace. 
+For 2016, we anticipate a year of healthy order activity and are targeting our book-to-bill of approximately one. Supporting our view is the fact that deferral requests and cancellations also remain well below the historical average. Overall, our commercial airplane outlook remains positive, as we expect a combination of growth and replacement to drive the need for 38,000 aircraft over the next 20 years. 
+Turning to individual BCA programs, given the 737s robust backlog of nearly 4400 firm orders and continued healthy global demand, we have decided to move ahead with an additional production rate increase in 2019 to 57 aircraft per month. As we announced previously, we plant to raise production from 42 a month now to 47 in 2017, followed by 52 a month in 2018. We have long maintained a disciplined and conservative approach in assessing future production rate increases and our confidence in the ongoing market demand for the fuel and operating efficiency advantages of the 737 is very high. 
+Demand also remains strong for the 777X, with a backlog of 306 aircraft from six customers. On the 777, we captured 101 orders over the last two years and earlier this month, we booked orders for another six from Air China, putting us off to a good start in 2016. Our 777 backlog stands at 224 aircraft. 
+Regarding the transition to the 777X, we indicated last year that we did not anticipate the production rate on the program going below seven per month. In solidifying our production plan over the past few months, we can confirm that view with a timeline for shifting to a 777 production rate of seven per month starting in 2017 to ensure a smooth transition to the 777x. 
+In terms of production slots, we are sold out on the 777 in 2016. At the seven per month rate in 2017 we are approximately 80% sold out and feel good about customer demand for the remaining slots, given the airplanes unique and recognized value proposition. Furthermore, for 2018, we currently are in a healthy position in the balance of firm and sold slots. 
+On the 787 program, we captured 71 net orders for the year, which further shows the healthy market demand for this compelling wide-body airplane. The 787's backlog of nearly 800 orders fully supports our planned production rate increases to 12 per month in 2016 and 14 per month later this decade. We have now delivered 366 787s to date, including more than 70 -9s. 
+The top and bottom line outlook for our commercial airplane business remains strong as we continue to execute on our robust backlog, with planned rate increases on the 737, 787, and 767, smoothly transitioning 737 production to the max, and deliver on our development program, such as the 777X and the 787-10. 
+Now turning to Defense, Space, and Security, we continued to see solid support for major programs. The inactive FY16 budget contains increases over 2015 for many of our core programs, including the P8 Poseidon, the KC-46A tanker, Apache and Chinook helicopters, GMD missile, Defense, Commercial Crew, and space launch system. The budget also added 12 F-18  Boeing aircraft. The bipartisan budget agreement provided the framework for these results and will also bring greater stability to the FY17 congressional budget process. 
+International demand for our offerings remains healthy, in particular related to Rotorcraft, commercial derivatives, fighters, satellites, and services. During the fourth quarter, international customers for Defense, Space, and Security represented 33% of our revenue and 40% of our current backlog. 
+The strength of our Defense and the Space business stems from our solid portfolio of products and services, our investments and innovation, along with our continued focus on affordability and productivity to our ongoing market-based affordability and partnering for success efforts. We continue to invest in organic growth areas that are priorities for  our customers, such as commercial derivatives, space, unmanned systems, intelligence, surveillance, and reconnaissance. 
+Furthermore, we remain focused on investing in BDS future franchise programs, which represent critical capabilities for our customers and substantial business opportunities. As we await the outcome of the long-range strike evaluation, we continue to leverage capabilities and technologies across the enterprise for the TX Trainer, JStars recapitalization, UCLASS, and other important opportunities where we're driving new levels of capability and affordability for our customers. 
+In summary, our strategies are aligned to the realities and the opportunities of our markets and our teams are focused on delivering solid operating performance. Now, over to Greg for our financial results and our 2016 guidance. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks Dennis and good afternoon everyone. Let's turn to slide 4 and we will discuss our full-year results. Revenue for the year was a record $96 billion, reflecting a 6% increase from last year, driven by higher deliveries in our commercial airplane business. 
+Core earnings per share totaled $7.72 for the full-year, reflecting the strong operating performance across the Company. It was offset by the $1.61 for the second-quarter KC-46A tanker charge and the fourth-quarter 747 program charge. Operating cash flow for the year was also strong at $9.4 billion. The robust cash generation was driven by higher deliveries and solid core operating performance. 
+Moving now to our quarterly results in slide 5. Fourth-quarter revenue was $23.6 billion, driven largely by solid commercial deliveries and healthy Defense revenues. Core operating margins were 5.3%, reflecting solid productivity gains in both businesses, which were offset by the previously announced $885 million pretax charge on the 747 program. 
+The charge reflects the slow recovery in the cargo market that required us to account for the market impact and lower production rates going forward. Fourth-quarter core earnings per share was $1.60 on solid core operating performance, but again offset by the 747 charge. 
+Let's now discuss commercial airplanes on slide 6. For the fourth quarter, our commercial airplane revenue decreased slightly to $16.1 billion, due to the timing of airplane deliveries. Commercial airplane operating margins were largely impacted by the 747 charge, higher planned research and development spending, and the timing of airplane deliveries, all of which was partially offset by continued solid core operating performance and timing of period costs in the quarter. 
+For the full-year, commercial airplanes revenue was a record $66 billion, an increase of 10%, as we successfully executed on our backlog. Commercial airplanes captured $21 billion of net orders during the quarter to a backlog now that stands at $432 billion and nearly 5800 aircraft. For the full-year we captured $57 billion on 768 net orders. 
+Specifically on 787, the team delivered a record 135 787s and ramped up production on the 787-9. We have now delivered 74 787-9 aircraft, and as planned, 787-9 deliveries will notably exceed 787-8 deliveries in 2016. 
+We also continued to see progress in key operational performance indicators as we implement additional production efficiencies. On the 787-8 we've seen a decline in unit costs of approximately 40% over the last 240 deliveries and furthermore, 787-9 unit costs declined approximately 30% since the first delivery. 
+Consistent with our expectations, the 787 program also became cash positive in the fourth quarter. 787 deferred production increased $201 million to $28.5 billion in the fourth quarter, reflecting ongoing unit cost reductions. We expect about the same level of deferred growth in the first quarter.  For the full-year the deferred production balance is forecasted to be flat year-over-year. 
+Based on this progress, our production schedule, and planned productivity investments, we continue to anticipate deferred productions decline shortly after we achieve the 12 per month production rate in 2016. No change to this fundamental milestone. 
+We remain on track to achieve the 12 per month 787 delivery rate in mid-2016, with suppliers already operating at that production level. We still have work ahead of us on the 787 as we remain focused on solid day-to-day execution and risk reduction, while improving long productivity and cash flow going forward and the team remains focused on these priorities. 
+Turning now to Defense, Space, and Security results on slide 7. Fourth-quarter revenue on our Defense business increased 3% to $7.8 billion and operating margins increased to a record 12.4% due to strong performance across the portfolio. 
+Revenue at Boeing Military Aircraft increased 7% to $3.2 billion in the fourth quarter, resulting from higher volume and delivery mix. BMA operating margins were 13.7% in the quarter driven by solid operating performance and the benefit of higher volumes and mix. 
+Network and Space Systems revenues declined to $2 billion in the fourth quarter on lower satellite volume and NS&S generated operating margins of 8.3%. Global Services and Support reported a 9% increase in the fourth quarter revenue to $2.6 billion on an AEW&C delivery and higher aircraft modernization and sustainment volume. GS&S generated strong operating margin of 13.8%, driven by favorable contract mix and performance. Defense, Space, and Security reported $7 billion of new business in the quarter and the backlog stands at $58 billion, of which 40% represents customers from outside the United States. 
+Turning now to slide 8. Operating cash flow for the fourth quarter was $3.1 billion and the strength of our cash flow was driven by solid operating performance across both businesses. Again, operating cash flow for the year was also very strong at $9.4 billion. The robust cash generation was driven by higher deliveries, solid core operating performance, and our continued efforts to drive disciplined cash management. 
+With regard to capital deployment, we paid $608 million in dividends to shareholders and repurchased 5 million shares for $750 million in the fourth quarter, bringing our 2015 repurchase activity to 47 million shares for $6.75 billion. As Dennis mentioned earlier, we announced in December that our Board of Directors increased our share repurchase authorization to $14 billion and an increase to our dividend of another 20%. That is up 125% in three years and over the same period, we have lowered our share count by approximately 10% through the repurchase of nearly 120 million shares. 
+We expect to complete the $14 billion repurchase authorization over approximately the next two to three years. Our capital deployment strategy demonstrates the strength of our backlog and the confidence in our business going forward, returning cash to shareholders along with continued investments to support future growth remains top priority for us. 
+Moving now to cash and debt balances on slide 9. We ended the quarter with $12.1 billion of cash and marketable securities. Our cash position continues to provide strong liquidity and positions us well going forward. This financial strength allows us to continue to invest in key areas of our business, return cash to shareholders, and again execute on our cash deployment strategies going forward. 
+Turning now to slide 10 and we will discuss our outlook for 2016. Our outlook for 2016 reflects solid core operating performance while reflecting the near-term investments needed to support our efforts to drive long-term growth and productivity. Revenue for 2016 is forecasted to be between $93 billion and $95 billion, reflecting the planned transition to the 737 MAX, lower FA-18 and C-17 volume, and reduced 747 production, and timing of deliveries. We continue to see revenue growth over the remainder of the decade with seven more commercial production rate increases planned, as we deliver on our robust backlog. 
+Core earnings per share guidance for 2016 is set to be between $8.15 and $8.35 per share. Our 2016 commercial airplane revenue guidance is set to be between $64 billion and $65 billion. 
+The 2016 commercial delivery guidance is between 740 and 745 airplanes.  This reflects the decrease in 747 deliveries driven by the market and resulting production rate decision we talked about earlier. It also reflects the 737 transition to the MAX as we continue to build test airplanes and produce units for 2017 delivery upon certification, and we also see lower  767 deliveries as we ramp up on the tanker program again in preparation for 2017 certification and delivery. We expect commercial airplane deliveries to increase in 2017 as we deliver on our planned production rate increases. 
+Specifically related to 787 deliveries as I mentioned earlier, we're currently on plan to increase the production rate to 12 per month by mid 2016. However, 787 deliveries for 2016 will be in line with 2015 levels due to  the timing of customer deliveries. 
+Commercial airplane operating margin guidance is approximately 9% on improved operating performance, offset by the diluted impact of higher planned research and development spending, lower volume on 737 MAX transition, and higher 787 revenue combined with further investment that support future business growth. 
+Defense, Space, and Security revenue guidance for 2016 is between $28.5 billion and $29.5 billion, reflecting the continued challenging defense DOD environment, and going forward we expect tanker revenue to increase as we enter into full rate production. We also see long-term growth driven by P8, services, international Rotorcraft, and space, along with potential future franchise programs that Dennis mentioned earlier. 
+Operating margin guidance for our Defense business is set to be greater than 10%, reflecting continued productivity efforts offset by the impact of lower volume and delivery mix. Supporting our Strategic portfolio announcements, we expect research and development spending for 2016 to be approximately $3.6 billion with about 75% related to BCA, primarily driven by the planned increases in 777X development, while BDS will continue to invest in key strategic opportunities. 
+We expect operating cash flow for 2016 to be approximately $10 billion, reflecting healthy deliveries, strong operating performance, and continued 787 productivity. This is somewhat offset by higher cash tax payments and timing of international C-17 receipts that affected 2015 cash flow. 
+Capital spending guidance for 2016 is said to be approximately $2.8 billion, driven by the new 777X facilities and equipment, expansion of our Boeing South Carolina to support 787 rate increases, and continued investments to support future growth and productivity. 
+Consistent with our prior years and given the seasonality of our business as we look into the next quarter, we expect first-quarter revenue to be the lowest of the year. Core EPS is estimated to be approximately 20% of our full-year earnings and Q1 cash flow is forecasted to be at near breakeven, again driven by timing of receipts and expenditures. 
+The drivers behind our long-term year-over-year cash flow story are unchanged. We continue to expect strong core operating performance, improved 787 productivity, working capital  efficiencies, and increasing production over the remainder of the decade. 
+While remaining watchful of the current market conditions, healthy passenger traffic, continued aircraft replacement demand, and the compelling value proposition of our aircraft provide confidence in our backlog. This is combined with the continued progress in de-risking our business and accelerating productivity efforts. We will continue the long-term cash flow growth and increase value to all of our stakeholders. 
+Now I will turn it back over to Dennis for some final thoughts. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Greg. Let me close by saying I remain humbled and privileged to be leading this team and Company as we celebrate our centennial year and begin our second century. Thanks to the tremendous efforts of our team, 2015 was another year of solid core operating performance where we delivered on our critical strategic initiatives and further de-risked our business. We also continued to convert our robust backlog into cash and we met our promises by returning more than $9 billion  to our shareholders through buybacks and dividends. 
+Furthermore, we invested in our people and innovation to maintain and grow our competitive advantage, while also continuing to build out capacity to support future production rate increases. Collectively, our actions strengthened our position as the world's leading aerospace company and provided tremendous momentum for 2016 and beyond. 
+Our priorities going forward can be framed by two overarching objectives. First, to continue building strength on strength, to deliver on our existing plans and commitments and improve them where needed.  And second, to stretch ourselves beyond those plans and accelerate our pace of progress on key enterprise growth and productivity efforts to achieve our full potential. 
+Achieving both objectives will require a clear and consistent focus on the profitable ramp-up and commercial airplane production, delivering on our development programs, continuing to strengthen our Defense and Space business, driving to world-class levels of productivity, and performance through the enterprise to fund our investments in innovation and growth, and to maintain the best team and talent in the industry, all of which is aimed to position Boeing for continued market leadership, sustained top and bottom line growth, and to create ever-increasing value for our customers, shareholders, employees, and other stakeholders. 
+Now we would be happy to take your questions. 
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator instructions) 
+Howard Rubel with Jefferies. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies LLC - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thank you very much. I don't know whether we should talk a little bit about Gallus humor for a moment, but I won't go there, gentlemen. But I was hoping maybe we would get a different outcome on the second time we heard the call. Maybe we could talk about cash flow and I want to put it in context for half a second. 
+You've stuck to the plan on deferred on the 78, and that should be a fairly impressive improvement year over year, call it $2 billion in rough numbers. And then you also raised the dividend fairly significantly in the fourth quarter, and you have a plan, typically, I think it is to buy back about or distribute to shareholders about 80% of your cash flow. So there seems to be a little bit of a disconnect there. And I hate to ask you to be a little bit granular on this, Greg, but could you walk through some of the moving pieces, please? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          On operating cash, Howard? 
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies LLC - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Yes, please. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [5]
+--------------------------------------------------------------------------------
+
+          As you look at walking from 2015 to 2016, obviously improved performance, as you indicated, improved performance specifically on 787 cash. Some of the things I will say kind of are headwinds going into 2016, offsetting some of that, is certainly higher cash tax payments as we improve our unit cost and performance on the 787. So we will have some of that headwind in this year. 
+And remember, last year, we had a lot of C-17 receipts as we sold the bulk of the final aircraft, and obviously we've got one left that we won't get those receipts this year. And then just continuing to build inventory obviously on the tanker as we get ready to deliver that in 2017. As Dennis indicated we have had a very successful milestone there recently, so that's going well. 
+Then, of course, you've got the MAX transition going on. So those are some of the big moving pieces, and at the same time, the long-term view on cash flow remains unchanged, Howard. We expect that to continue to grow. 
+That's driven by, again, the improved productivity, but also the production rates that we have committed to, as Dennis indicated, we're going up on 37 beyond what we described earlier up to 57 a month in 2019. But we also have a number of other rate increases in there on the 37 building to that, as well as 787, as I said, tracking well to 12 a month, with a plan to go to 14. 
+So as we look at it over the long term, we don't see a different view. As far as committing to return cash to shareholders, as you indicated, we have $14 billion of authorization, and we plan to use it, as we have the prior authorization. And we are committed to returning cash to shareholders in the fashion that you have seen over the last couple of years, going forward. 
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies LLC - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Okay, thank you. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [7]
+--------------------------------------------------------------------------------
+
+          You're welcome. 
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Myles Walton with Deutsche Bank. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thanks, good afternoon. I was hoping you could talk a little bit about the production rate moves you've done, and in particular, the effects that they've had or will have on the booking rates in terms of margins. With particular on the 777, given your current program effectively extends only for the current generation. So if you could walk through, again, the 47 cut, the 777 cut, what it means to the margins, and then maybe the 37, and wrap it all into if there were any moves on the 87? Thanks. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [10]
+--------------------------------------------------------------------------------
+
+          Yes, I mean the production rates that we talked about, the 47 coming down and the 777 going to seven a month in 2017, that is all in this quarter's booking rate. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Okay. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [12]
+--------------------------------------------------------------------------------
+
+          So that's all been accounted for in there, combined with the investment for the 37, some of that to go up to 57 out in the 2019 time frame. So that's all been taken into account in this quarter's booking rates. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          And the only clarification on that seven a month on the 777, that's going to be equal to deliveries, that production is equal to deliveries? There's no kind of  777Xs  or anything like that? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [14]
+--------------------------------------------------------------------------------
+
+          Yes, in 2017, it is seven a month. As you get into 2018, obviously, we'll start to build some test aircraft and get ready for the flight test program. And then, very similar to what  you've seen on the 787-8,  transitioning to the -9, we will see some longer flow times in learning associated with those early units, and those will obviously have some impact in the 2018 time frame. But again, taking all of that into consideration, as you look at the top line and then look at the cash flow going forward, we expect to continue to grow -- and that's what's assumed. 
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Thanks, again. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [16]
+--------------------------------------------------------------------------------
+
+          Okay. 
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Cai von Rumohr with Cowen and Company. 
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen and Company - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Yes, thank you so much. So you've said the 787 deferred would be about 200 in the first quarter and then down as you go through the year, and yet it looks like the last two quarters were a little bit better than expected. What are the chances that it could be better than that, and what sort of a profile of decline should we look for as we look ahead? 
+And similarly on R&D, it, on the other hand, looks a little higher than maybe some of us thought this year. What sort of profile should we look for R&D as we think out to 2017 and 2018? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [19]
+--------------------------------------------------------------------------------
+
+          Yes, Cai, on R&D, as you saw, we came in a little light on 2015 to what we had guided. Some of that was just timing, moving into 2016. The bulk of that is 777X, which is actually performing very well to schedule and to cost as we get ready for that entry into service further out in 2020 time frame. So that spending is going to start to ramp up here. 
+But I think for the next couple of years, Cai, you're going to see flattish R&D, and  again that is just some movement between 777X and then 10X winding down, so that's as we see it going forward. On deferred, you are right, we have had some good performance there in the last couple of quarters, and we've assumed some of that going into the balance of this year. 
+So we see similar growth, as I indicated, in the first quarter, and then that will start to moderate. And again, we see that declining shortly after we hit that 12 a month further out into this year. So it continues to be a big focus area, but the team's done a very good job, and we're assuming additional productivity again through the balance from 2015 into the balance of 2016. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [20]
+--------------------------------------------------------------------------------
+
+          Cai, I think it's worth reiterating the fact that, that profile that Greg just described is completely consistent with what we've shared with you previously, and part of our theme here is meeting the commitments and promises that we talked about. So 787 getting to be 4Q cash positive, outperforming on deferred production inventory, meeting the profile that we talked about, delivering $9.4 billion of cash in the year. As you see our guide to $10 billion of cash in this year conveys to you our strong cash growth story, and we remain confident in that. 
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen and Company - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Ken Herbert with Canaccord. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Ken Herbert,  Canaccord Genuity - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Good afternoon. I just wanted to dig  a little deeper into the 737 and the rate increase announcement up to 57. Can you provide some more color on the assumptions under that in terms of retirements or any change in your expectations for mix replacement versus capacity underneath the assumptions in the rate increase? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [24]
+--------------------------------------------------------------------------------
+
+          We continue to see fundamental strength in the marketplace. As you just pointed out, stepping up to 57 a month in 2019 just continues a trend of confidence that we see in the narrow-body marketplace. In particular, we continue to see strong long-term passenger growth at 6% to 7% a year. That is global in nature. We are seeing that in all of our different market sectors and across all of our different 737 model lines. All of that is telling us that continuing to ramp up production to keep supply and demand in balance is the right thing to do. 
+As you know, we're very diligent about these rate ramp-ups. We make these decisions with a long-term perspective, and this conveys our confidence in the long-term market and what we're seeing in narrow-body growth. So our plans right now as we transition to the MAX during this coming year, we step up to our 47 a month as planned 2017, 52 a month in 2018, and now stepping to 57 a month in 2019. All of that being buttressed with our long-term view of passenger growth. 
+
+--------------------------------------------------------------------------------
+Ken Herbert,  Canaccord Genuity - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Do you assume, Dennis, the retirements maybe pick up again after being down so much here in 2015 and 2014, relative to what we saw in 2010, 2011, 2012, and 2013? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [26]
+--------------------------------------------------------------------------------
+
+          We continue to see about 40% of overall aircraft are in replacement category, so it's a combination of growth and replacement. That's  60% growth, about 40% replacement, on balance. It varies a bit year to year, region by region, but that gives you a sense for it. 
+And the value proposition of airplanes is compelling, whether you're looking at replacement of old assets or the need to satisfy passenger growth. You see that reflected in some of the just very recent customer decisions. The Southwest Airlines announcement that was made just a week ago refers to both passenger growth, as well as the compelling value proposition of fleet modernization. But both of those continue to play over the long run. 
+
+--------------------------------------------------------------------------------
+Ken Herbert,  Canaccord Genuity - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Thank you very much. 
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Jason Gursky with Citi. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Good afternoon, everyone. Greg or Dennis, I was hoping you could walk us through the disconnect this year between your announced build rate and the delivery schedule or the delivery guidance that you have offered up to us. I know we've got some inventory that's getting built on the 67, looks like a little bit for the 37 MAX. Just wondering if that disconnect reverses next year and we actually see deliveries outstrip the announced build rates in 2017 because you're undershooting it this year? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [30]
+--------------------------------------------------------------------------------
+
+          Let me add just a little color to that, Jason, and then I will ask Greg to add on as well. If you take a look at this year, again compared to 2015, as you well noted, our delivery guidance is down about 20 aircraft. The majority of that is in the 737, principally because of the MAX transition, as we've always planned. 
+So we will be building another two test aircraft this year, and then we're  also building ahead on MAXs that will be ultimately delivered in 2017, but there's about a dozen aircraft in there that are 737 and related to the MAX transition as planned. That's why you see deliveries down a bit this year. There's also a bit of a pullback because of our announced reduction in 747 rate. 
+So those are the principal drivers in terms of numbers of aircraft. Now to your point, it is really important that we look at this from a long-term view. So while we will go through a transition in 2016, if you look at the seven rate ramp ups ahead of us and look out over the next several years, you will see that revenue will grow, you will see that deliveries will grow as we execute on the backlog. 
+And so just stepping back from a year of transition and looking out to 2017, 2018, you'll see revenue growth, you'll see earnings growth, you'll see cash growth. We remain very confident in that story, and that's backed up by the committed rate ramp ups that we have in the plan and we are continuing to consistently execute. 
+So it's very important to note that, this year, you'll see a bit of a transition because of the MAX, a temporary reduction in revenue top line, if you will, as a result, but we can tell you very clearly that our long-term view here is increasing top- and bottom-line performance and cash growth year over year. Greg, anything you want to add to that? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [31]
+--------------------------------------------------------------------------------
+
+          The only thing I would like to add, Jason, is that when you're looking at next year, deliveries will outpace just slightly production rates because of everything Dennis just articulated. So this really is a point of transition, particularly on the 37, and we talked about the 747 market.  
+But I think when you're thinking about the MAX coming into production system, if you think about how smoothly the -9 has come into the 787-8 line, that methodology and the processes that were applied there are the exact same ones being applied here to ensure  that we have smooth transition and we meet those rate increases and the commitments we made to our customers. 
+So near-term transition, but absolutely the right thing to do for the long term, and as Dennis indicated, 57 a month is a very healthy for us as we look at that order book and percentage sold out, so we feel very comfortable about going up in the rate over the long term. But we want to do it as we have, very smoothly and very productively through each one of those increases. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [32]
+--------------------------------------------------------------------------------
+
+          And further to Greg's point, that approach we've used on the -8 to -9 transition on the 87, using that same approach now in the MAX, we will apply that same approach as we get to the 777 and 777X transition. And the comments I made just a few minutes ago on our growth prospects and expectations going forward include that 777 transition and the seven per month rate during that transition that I referenced earlier. So we take a composite view of all of the lines transitioning in the new models and the strength of the rate ups that are in the plan, the composite of all of that leads us to top- and bottom-line growth and growing cash. 
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          The 67 line, will it see fewer deliveries this year than the build rate and then more next year? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [34]
+--------------------------------------------------------------------------------
+
+          Yes, it will. I think we had about 16 last year and we will probably have about 10 this year. There's a couple of commercial just timing on a couple deliveries, and then we have tankers that  we're ramping up here and we will complete them and they will deliver in 2017. So we've got that transition going on from 2015. 
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Okay, great. Thank you, guys. 
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Seth Seifman with JPMorgan. 
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Thanks very much, and good afternoon. I wonder if we could talk a little bit more about the margins at BCA, and you guys have talked longer term about it at an aspirational level of those being much higher than the 10% we were wanting. But this year, the guidance is to go down to 9%, so as we think about the moving pieces here, going forward, how do margins expand off this 9% level at BCA? And I know you mentioned that the 777 cut was incorporated into the program margin this quarter, but do you anticipate any pressure on overall BCA profitability as that rate cut takes effect and we move into 2017? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [38]
+--------------------------------------------------------------------------------
+
+          To the first part of your question, our goal and aspiration for where we're headed on margins has not changed. As we've mentioned before, we are driving fundamental productivity with a target of increasing our operating margins to get into that mid-teen range. And that remains our aspirational target. 
+I think it's a challenging but reasonable expectation, and we have a number of affordability and productivity initiatives underway to achieve that. Those are market-based and include our partnering for success effort with our supply chain, as well as our lean and capturing the value of quality efforts within our factory spaces and our office spaces. So that long-term target remains consistent, and we will continue to drive in that direction. 
+There are a few puts and takes for this year, and as you noted, as Greg mentioned earlier, we do have slightly higher R&D this year, driven primarily by 777X. We do have lower volume on the 37 line because of the MAX transition, as we mentioned earlier. And there is some dilution of margins due to higher 87 revenue. So all of those are factored into the guidance that we have given you for the current year. 
+But again our longer-term expectation is to drive productivity and head towards that mid-teen range in terms of margins. Greg, anything you want to add on that? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [39]
+--------------------------------------------------------------------------------
+
+          I think you covered it, unless you have anything else on it, Seth? 
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          And so you would say when the 737 begins delivering in line with  the production rate in 2017, a 777 rate of seven a month is consistent with the double-digit margin at BCA? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [41]
+--------------------------------------------------------------------------------
+
+          That's what we're focused on, Seth. 
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [43]
+--------------------------------------------------------------------------------
+
+          And a big factor as well is as we continue to ramp up 787 and drive productivity in 787, increasing margins on that program represents a significant opportunity for us. 
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Okay, thank you very much. 
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          David Strauss with UBS. Please go ahead. 
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Thanks. Just following up, so you've talked about an  inventory build on the 37 and the 67 in 2016. Greg, can you maybe quantify what's baked into your free cash flow forecast? So if we look at BCA inventory, less 787, what you're assuming in terms of an inventory build? And then won't 737 MAX inventory also build in 2017 as you start to deliver the airplanes? I know you're going to be going up in rate behind that. Thanks. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [47]
+--------------------------------------------------------------------------------
+
+          Yes, certainly on these aircraft that we're building this year and won't deliver until next, that is going to go into inventory, but that's taking into account with the approximate $10 billion of cash flow in 2015, so we've taken that into account. As we look forward, in the year-over-year growth in cash flow, all of those kind of moving pieces on these rate transitions have also been taken into account. 
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+
+          Doug Harned with Bernstein. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford C. Bernstein & Co. - Analyst    [49]
+--------------------------------------------------------------------------------
+
+          Thank you. When I look at commercial aircraft deliveries in 2016 guidance versus 2015 and you look at revenues, they're both coming in at about 2% or so. So I wanted to understand if you were to think about the fact that you're going to actually have more attractive variance from a pricing standpoint with 787-9, some larger 737 variance. And then you think if you've got a little bit from escalation that you might actually see revenue do a little better than that. When you think about it and you look at escalation, pricing, mix, how do you see each of those moving into 2016 and perhaps into 2017? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [50]
+--------------------------------------------------------------------------------
+
+          Certainly 87 with the more favorable mix on the -9s, you're right, we're going to have more revenue on a per-unit basis there. But at the same time, as we said, you've got the 37 transition, the 67, and then on 47, we are projecting to have lower deliveries in there, a, the production rate, but we've also got some customer requests to move some of those airplanes, so that we're taking that into account as well, Doug. 
+So there's a lot of moving pieces in there, obviously. As far as escalation goes, certainly that's a watch item for us as we see low oil prices and how that will affect the booking rates going forward. Obviously we've trued everything up for Q4 results, but it is something we're watching. There is that escalation that is already assumed in the pricing, has been taken into account in our guidance. So again, a number of moving pieces in there, but it's really a lot of those transitional points on some of those programs that's offsetting some of the additional 787 revenue expected. 
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford C. Bernstein & Co. - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Given that you're also -- your pricing is pretty much set for most everything in 2016 and 2017, and if you put escalation aside for a moment, are you looking at any pressure on pricing in those next two years? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [52]
+--------------------------------------------------------------------------------
+
+          No, nothing material. 
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford C. Bernstein & Co. - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Okay. Okay, great. Thank you. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [54]
+--------------------------------------------------------------------------------
+
+          You're welcome. 
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski with Drexel Hamilton. 
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Drexel Hamilton - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Just looking ahead to 2017, can we assume that 737 deliveries are up only modestly, given you will have even more MAXs in the production system, or I'm just looking maybe for some comfort that this transition in 2017 and 2018 is going to be smoother and less of a headwind than it looks like it will be in 2016? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [57]
+--------------------------------------------------------------------------------
+
+          Yes, I think that's right. Listen, there's nothing more to read into this other than smooth transition into the MAX at the 42 a month rate and building those test aircraft. So that introduction, as we go into this year, and then as we go further, as we increase rate and bring in more MAX airplanes, again, I do not see that as a significant issue at this point. 
+I think the plans are very solid, but it is some near-term transition that we will work our way through. But again, as Dennis indicated, it's the same approach that we took on the 787 and the same approach we will take on the 777 to the 777X. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [58]
+--------------------------------------------------------------------------------
+
+          And on the 37 run, you will see us getting to the backside of the MAX transition as we get into 2017. And you will see us ramping up to the 47 a month planned production rate increase, so both of those factors will play in an advantageous way to 37 deliveries in 2017. 
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Drexel Hamilton - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Okay. It's hard to understand the comparison with the 787, given you've doubled deliveries there over a couple of years as a new model came in, and now you're talking about 737 being down in 2016. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [60]
+--------------------------------------------------------------------------------
+
+          Again, you've got a couple of test aircraft for the flight test program that you're not going to deliver this year. So you're going to produce them and you're not going to deliver them. And then, we have additional MAX airplanes that we're actually building this year that will be delivered next year. So that's the difference. 
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Drexel Hamilton - Analyst    [61]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, guys. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [62]
+--------------------------------------------------------------------------------
+
+          And the key here is, again, we're doing the right thing  to make sure this is a profitable, smooth transition. We remain very confident in that, and as I think hopefully you saw in the news recently, we are on track to fly the MAX very soon, so that development has gone well. The airplane is looking solid, and as soon as the weather is right, we will fly the airplane. So we're very confident in the MAX and our planned ramp up. 
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+          Carter Copeland with Barclays. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Hey, good afternoon, gentlemen. Just a clarification and then a question if I can. On the question relating to the program margin changes, and you said they are already incorporated in your guidance for BCA, presumably the 777 cut had a negative program margin move associated with it and the 737 rate increase had the opposite. Obviously, we had a negative impact with the forward loss on the 47, but are those correct? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [65]
+--------------------------------------------------------------------------------
+
+          They're actually in the Q4 booking rate as well. 
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Of course. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [67]
+--------------------------------------------------------------------------------
+
+          And then into 2016. Yes, there was a modest impact on the 777 with the rate cut, and 37 was, at least from a quarter-to-quarter perspective, was about flat. There wasn't a significant change there. And again, that did incorporate some investment to go up to 57. 
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Okay. And just to clarify here, the parallel or the comparison to the 787 that you're talking about on the MAX, does that refer to building the 787-9 on the surge line along side the 787-8 and you're going to build the MAX in a third line at Renton alongside the MG? Is that what you mean by the same plan, the same model? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [69]
+--------------------------------------------------------------------------------
+
+          Yes. I mean that is the same. And at the same time, and as you know, when you get further back in the supply chain is where you see the longer flow and learning because sometimes we're utilizing the same tooling and  same fixtures. 
+But that methodology about ensuring we have enough flow time for the derivative aircraft implementation and taking into account the learning associated with that, that's all taken into account. Now the uniqueness to this is that we will be building these airplanes this year and delivering them next year. But again, that is all taken into consideration as a smooth introduction into the production system. 
+
+--------------------------------------------------------------------------------
+Carter Copeland,  Barclays Capital - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Okay, thanks, Greg. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [71]
+--------------------------------------------------------------------------------
+
+          Operator, we have time for one more analyst question. 
+
+--------------------------------------------------------------------------------
+Operator    [72]
+--------------------------------------------------------------------------------
+
+          Peter Arment with Sterne, Agee. 
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne, Agee & Leach, Inc. - Analyst    [73]
+--------------------------------------------------------------------------------
+
+          Good afternoon, Dennis, Greg. Greg or Dennis, on the CapEx investments, whether we're talking all the automation stuff that you're doing on the wing build or the fuselage on the 777, how does that profile look over, I assume it's, again, relatively stable this year, but when do we start to see all of this investment trend down. Obviously, now you're talking about a higher rate on the 737 and does that require an additional step up? Just a question on the CapEx profile. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [74]
+--------------------------------------------------------------------------------
+
+          This year is our peak year, Peter. So it will start to taper off going forward. And again, as you described it, some of that is on the productivity initiatives and then on the rate increases. So this will be our year, which obviously, as we've said, is really tied to the growth and the production rate. So we will start to taper off going into 2017 and beyond. 
+
+--------------------------------------------------------------------------------
+Peter Arment,  Sterne, Agee & Leach, Inc. - Analyst    [75]
+--------------------------------------------------------------------------------
+
+          Okay, that's helpful. Thanks, guys. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [76]
+--------------------------------------------------------------------------------
+
+          Good. Thanks. 
+
+--------------------------------------------------------------------------------
+Operator    [77]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, that completes the analyst question-and-answer session. 
+(Operator instructions) 
+I will now return you to the The Boeing Company for introductory remarks by Mr. Tom Downey, SVP of Corporate Communications. Mr. Downey, please go ahead. 
+
+--------------------------------------------------------------------------------
+Tom Downey,  The Boeing Company - SVP of Corporate Communications    [78]
+--------------------------------------------------------------------------------
+
+          Thank you. We will continue with the questions for Dennis and Greg at this time. If you have any questions following this part of the session, please contact our media relations team at 312-544-2002. 
+Operator, we are ready for the first question, and in the interest of time this afternoon, we ask that you limit everyone to one question only, please. 
+
+--------------------------------------------------------------------------------
+Operator    [79]
+--------------------------------------------------------------------------------
+
+          Jon Ostrower with Wall Street Journal. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Jon Ostrower,  Wall Street Journal - Media    [80]
+--------------------------------------------------------------------------------
+
+          Good afternoon, guys. I'm glad we could do this a second time. A pair of questions, actually. One, first, for Greg. 
+Greg, I'm curious, in terms of  the turning cash positive on 77 overall, I'm curious of your level of confidence in avoiding a forward loss on the 787 program as a whole? And whether or not you see the ramping up ahead as a critical event on getting out of the woods as you are able to really measure your level of productivity improvement? 
+And for Dennis, more of a strategic question. Coming out of 2015, you ended the market share balance with Airbus on single-aisle aircraft for MAX versus neo 4,400 to 3,100 roughly. These numbers means you guys need to beat Airbus by 100 or more orders annually for the next decade and a half roughly to get back to 50%. I'm just curious, what steps here you're thinking about right now are necessary to redeem the market share parity and what are you thinking about  from a strategic perspective that's going to be necessary to do that? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [81]
+--------------------------------------------------------------------------------
+
+          Greg, you want to take the first one there? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [82]
+--------------------------------------------------------------------------------
+
+          Jon, as I indicated earlier, 787 unit performance  is improving, and obviously we expect that to improve as we come down learning curves, as we have on other programs historically. At the same time, implement productivity initiatives, whether it's in our supply chain or in our own factories, and  we have plans in place to continue to implement those going forward. 
+And then, obviously, we have favorable mix as we look forward as well, where we will have more -9s and -10s in the mix as we look to the years to come versus the past, so no question. We've got work to do here, as we have, but I think we've got good plans in place, and again, solid projects that we've got to go implement and get them matured and get them into the factory. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [83]
+--------------------------------------------------------------------------------
+
+          And Jon,  to your second question regarding market share and our perspectives on narrow-body, we remain very confident in the investments  we've made in the MAX and its performance in the marketplace. I recognize the numbers you pointed out there, but I think it is important to note that since we launched the MAX, it has actually been about 50/50 in terms of orders. 
+We also like to make sure we're looking at deliveries of airplanes, and as noted, again, we were the market leader in total deliveries again this year. So when we think about market share, it is important to think about both deliveries and future orders. And as we've had the MAX in the marketplace and competing, based on feedback from our customers, we see that the MAX is providing value proposition beyond our competitor's aircraft. 
+So we feel confident about the MAX and its future prospects, you see that reflected in our rate ramp-up expectations going from the current 42 to 47, 52, and as we've announced today, going to 57 a month. We are also mindful that we're going to run a disciplined, profitable business, and so as we think about rate ramp ups, we don't simply make decisions based on market share desires. 
+We make decisions for the long-term perspective, what is going to be valuable to our shareholders. We're going to provide profitable ramp up and continue to deliver value for our customers. So I think the performance in the marketplace is speaking for itself, and we remain confident in our strategy. 
+
+--------------------------------------------------------------------------------
+Operator    [84]
+--------------------------------------------------------------------------------
+
+          Alwyn Scott with Reuters. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Alwyn Scott,  Reuters - Media    [85]
+--------------------------------------------------------------------------------
+
+          Thanks for taking my call. Switching gears just a little bit here, the agreement with the engineers was quite a contrast with the machinists and the prior engineers' contract. The union said they saw a really different approach across the table, and Dennis, I wanted to ask you, do you have a different outlook on this? Is this a conscious decision, and if so, what's your strategy there? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [86]
+--------------------------------------------------------------------------------
+
+          Thank you for the question. I think it's important again to go back to some comments I made on our last call, and that is, for the long term, we place a very high value on our employees and their talent. We think it's important to have a mutually respectful relationship and one that recognizes the value that our team brings to the table every day, arguably, from my view point, the best team in the world. 
+At the same time, we all know the competitive realities that we face. So we have continued to set a tone and a conversation with our workforce that as a company, as a team, we need to recognize the market realities, we need to be competitive, and at the same time, we want to recognize this great team and treat them with the respect they deserve. 
+So that's been the tone of our discussions. That has been reinforced by Ray and his team in Puget Sound. And together, I think we have engaged in what has been a very productive conversation. We are very supportive of the tentative agreement that is on the table, and we are hopeful that, that will be ratified by the membership over the next few weeks. And if so, it will provide labor stability and competitiveness for the Company for the long term, which will allow us to continue to invest in the future, and it will recognize the contribution and talent of our employees. 
+And so we do think it's a good balanced solution. So we're hopeful that it will be ratified, and we want to continue to set that tone of mutual respect and the tone of competitiveness and being the market leader for the long run. And that's part of the commitment that I've made from my end as well. 
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+          Dominic Gates with The Seattle Times. 
+
+--------------------------------------------------------------------------------
+Dominic Gates,  The Seattle Times - Media    [88]
+--------------------------------------------------------------------------------
+
+          Hi, good afternoon. Actually let me ask first for a clarification because I may have misheard something. In talking about deliveries in 2016, did you say the 787 would be flat in deliveries compared to last year despite the rate increase that you plan for mid-year? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [89]
+--------------------------------------------------------------------------------
+
+          Yes. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [90]
+--------------------------------------------------------------------------------
+
+          Yes. Just a timing with regards to some of the customer deliveries. But we expect to be about flat, Dominic. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [91]
+--------------------------------------------------------------------------------
+
+          We had a bit of advantageous timing to 2015. In 2016, that's offset by the ramp up to the 12 a month as planned, and so those two factors together make it roughly level year to year. 
+
+--------------------------------------------------------------------------------
+Dominic Gates,  The Seattle Times - Media    [92]
+--------------------------------------------------------------------------------
+
+          Okay, and to my question, first of all my apologies for getting a detail wrong  in my story last night in making the false  assumption that you would have a charge related to this 777 rate decrease. Can you help me explain why does a 747 rate decrease of 6 planes a year result in an $800 million charge and a 777 decrease of 16 planes a year no charge? Can you help me explain that? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [93]
+--------------------------------------------------------------------------------
+
+          Yes, Dominic the 747 just is not as profitable. It's  that simple, where the 777 is a pretty significant contributor to us and operates at a higher margin. It is not at risk to be in a reach forward, where the 747 was not. And so that's really the difference between the two programs. 
+
+--------------------------------------------------------------------------------
+Dominic Gates,  The Seattle Times - Media    [94]
+--------------------------------------------------------------------------------
+
+          Did you change the accounting block on the 47? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [95]
+--------------------------------------------------------------------------------
+
+          No. 
+
+--------------------------------------------------------------------------------
+Dominic Gates,  The Seattle Times - Media    [96]
+--------------------------------------------------------------------------------
+
+          Okay, thank you. 
+
+--------------------------------------------------------------------------------
+Operator    [97]
+--------------------------------------------------------------------------------
+
+          Julie Johnson with Bloomberg. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Julie Johnson,  Bloomberg - Media    [98]
+--------------------------------------------------------------------------------
+
+          Hi, Greg, just a quick question. I wanted to circle back on Q1 free cash flow guidance. Can you just walk us through what is weighing on cash flow in the first period? Obviously you see it improving as the year goes on, and I'm just wondering if it might have been affected by cash advances sliding into Q4 2015? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [99]
+--------------------------------------------------------------------------------
+
+          Yes, no, it was not. If you go back over time, you will see, just because of the seasonality of the business, whether it's on the commercial side or Defense, the timing of receipts and expenditures tends to be heavily weighted into the first quarter. So again, if you look back over time, you will see that is either a cash usage in the first quarter or breakeven or maybe slightly positive. 
+So the trend we see into 2016 is no different than that, and advances are not really a material driver in that whatsoever. It's just purely, again, seasonality and timing around each one of those receipts, and then, frankly, just payments we have to our suppliers. 
+
+--------------------------------------------------------------------------------
+Operator    [100]
+--------------------------------------------------------------------------------
+
+          Glenn Farley with KING-TV. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Glenn Farley,  KING-TV - Media    [101]
+--------------------------------------------------------------------------------
+
+          How are you guys doing this morning? I am trying to get a better sense for how -- you're looking at a fairly bullish time going ahead, even though we're probably dropping back to a book-to-bill ratio of 1 to 1. But it's fairly optimistic regarding the rest of the global economy, considering that the Fed just minutes ago said they were going to keep interest rates unchanged and we're going to watch it. So can you give me a better sense of your confidence level despite the global economic issues that seem to be building? 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [102]
+--------------------------------------------------------------------------------
+
+          Yes, we will.  I think your read is correct in that we are bullish about our prospects, but we're also paying attention to what's happening in the macro environment around us. If you take a look at GDP projections of about  2.7% growth over the near term  and mid term, again that's a balanced view. That's different in different parts of the world, as you will know, but on balance, that's a respectable level for our industry. 
+The key differentiator is we continue to see passenger growth globally  increasing at about 6% to 7% a year. It is outpacing GDP, and even in places like China, where obviously it's been getting a lot of attention on the economic growth prospects, even during the fourth quarter of 2015, just as a reference point, as GDP in China fell back to a little under 7%, airplane and passenger traffic growth increased at 15%. So passenger growth continues to outpace GDP. 
+That is a strong trend, it's a long-term trend, and that's part of what paints a bit more of a bullish view in terms of our growth prospects. You see that reflected in our planned production rate increases. And again, we try to be very disciplined about that, we take a long-term view on these rate increase decisions, and those are not made lightly. We take that balanced view, and the fact that we are ramping up should convey our general confidence in the marketplace, and we will continue to keep a watchful eye on the macroeconomics. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [103]
+--------------------------------------------------------------------------------
+
+          Operator, we have time for one last question from the media this morning. 
+
+--------------------------------------------------------------------------------
+Operator    [104]
+--------------------------------------------------------------------------------
+
+          Stephen Trimble with Flightglobal. Please go ahead. 
+
+--------------------------------------------------------------------------------
+Stephen Trimble,  Flightglobal - Media    [105]
+--------------------------------------------------------------------------------
+
+          I have a question about the 747 rate cut last week and the move to six per year and how long that is sustainable before you have to review that, depending on how many orders come in, especially given this aspiration you've talked about of mid-teens margins? I think you talked about how in 2019 you see the 20-year replacement cycle coming into effect. So how long is this six per year sustainable? 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [106]
+--------------------------------------------------------------------------------
+
+          Steve, that's a decision that we made, that is a sustainable rate position for that line to bridge us to the 2019 replacement cycle. You're right, when you take a long-term view at the market, although cargo has been flattish during this past year at about 2% growth, and if we look at near-term projections of about 2% to 3% growth, we think that is modest and reasonable. The production rate announcement we've made factors that in. 
+As we get to the 2019 time frame, we take a look at the pure replacement market that's out there, about 45% of the current fleet will need to be replaced. We said earlier, we're at 240 large freighters that will be over 20 years old at that point, so the replacement need is real. And while the 747 is a niche market, it is an important niche market and one that we think is sustainable. So all of the decisions we've made factor in both the near-term economics as well as this longer-term replacement cycle. 
+
+--------------------------------------------------------------------------------
+Greg Smith,  The Boeing Company - EVP & CFO    [107]
+--------------------------------------------------------------------------------
+
+          And I think as you said, Steve, obviously we're watching it closely, and between this time frame and the 2019 that Dennis articulated, obviously we've got to continue to get orders through that period. And we have a robust pipeline that the team is working on, but it is something that we're staying very close to. It's a great airplane in a tough cargo market, and we're expecting that to recover and we've got the perfect asset to align to that recovery. 
+
+--------------------------------------------------------------------------------
+Dennis Muilenburg,  The Boeing Company - Vice Chairman, President & COO    [108]
+--------------------------------------------------------------------------------
+
+          That concludes our earnings call. Again, for members of the media, if you have further questions, please call our media relations team at 312-544-2002. Thank you. 
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

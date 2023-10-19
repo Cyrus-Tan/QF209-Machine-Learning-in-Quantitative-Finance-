@@ -1,0 +1,881 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2010 The Boeing Company Earnings Conference Call
+JULY 28, 2010 / 2:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Scott Fitterer
+   The Boeing Company - VP, IR
+ * Jim McNerney
+   The Boeing Company - Chairman, President, CEO
+ * James Bell
+   The Boeing Company - EVP, Corporate President, CFO
+ * Tom Downey
+   The Boeing Company - SVP, Corp. Comm.
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Cai von Rumohr
+   Cowen & Co. - Analyst
+ * Susanna Ray
+   Bloomberg - Media
+ * Jason Gursky
+   Citigroup - Analyst
+ * Harry Nourse
+   HSBC - Analyst
+ * Heidi Wood
+   Morgan Stanley - Analyst
+ * Howard Rubel
+   Jefferies & Co. - Analyst
+ * Joe Nadol
+   JPMorgan - Analyst
+ * Myles Walton
+   Deutsche Bank - Analyst
+ * Hale Wiseman
+   Financial Times - Media
+ * Ron Epstein
+   BAS-ML - Analyst
+ * Ken Herbert
+   Wedbush Morgan - Analyst
+ * Aubrey Cohen
+   Seattle PI - Media
+ * David Strauss
+   UBS - Analyst
+ * Doug Cameron
+   Dow Jones - Media
+ * Rob Spingarn
+   Credit Suisse - Analyst
+ * Troy Lahr
+   Stifel Nicolaus - Analyst
+ * Paul Marion
+   Crain's Chicago Business - Media
+ * Noah Poponak
+   Goldman Sachs - Analyst
+ * Joe Campbell
+   Barclays Capital - Analyst
+ * Sam Pearlstein
+   Wells Fargo - Analyst
+ * Doug Harned
+   Sanford Bernstein - Analyst
+ * Peter Arment
+   Gleacher and Company - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Thank you for standing by. Good day, everyone, and welcome to the Boeing Company's second quarter 2010 earnings conference call. Today's call is being recorded. The management discussion and slide presentation plus the analyst's and media question and answer sessions are being broadcast live over the Internet.
+At this time for opening remarks and introductions, I'm turning the call over to Mr. Scott Fitterer, Vice President of Investor Relations for the Boeing Company. Mr. Fitterer, please go ahead.
+
+--------------------------------------------------------------------------------
+Scott Fitterer,  The Boeing Company - VP, IR    [2]
+--------------------------------------------------------------------------------
+Thank you and good morning. Welcome to Boeing's second quarter earnings call. I'm Scott Fitterer and with me today are Jim McNerney, Boeing's Chairman, President and Chief Executive Officer and James Bell, Boeing's Corporate President and Chief Financial Officer. After comments by Jim and James, we'll take your questions. In fairness to others on the call, we ask that you please limit yourself to one question.
+As always we have provided detailed financial information in our press release issued earlier today and as a reminder, you can follow today's broadcast and slide presentation through our website at Boeing.com. Before we do begin, I need to remind you that any projections and goals we may include in our discussions this morning are likely to involve risks which are detailed in our news release, in our various SEC filings, and in the forward-looking disclosures at the end of this web presentation. Now, I'll turn the call over to Jim McNerney.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [3]
+--------------------------------------------------------------------------------
+Thanks, Scott, and good morning everyone. Let me start by addressing the current business environment followed by some comments on the second quarter. James will walk you through our results and then we'll take your questions.
+Starting with the business environment on slide two. As the global economy continues to recover, albeit at a moderating pace airline traffic indices are showing some strong signs of recovery. Passenger and freight traffic have rebounded sharply with capacity levels still constrained. Both of these market segments are now forecasted to return to their peak 2007 and 2008 levels earlier than originally anticipated. And we are seeing improving fundamentals for the airlines. As we have experienced in past cycles, the single aisle market is leading the passenger recovery. This segment is showing the strongest growth led by emerging markets and low cost carriers. This growth, combined with our disciplined production and sales strategies, prompted our recently announced 737 production rate increase to 35 airplanes per month, beginning in early 2012. As the airline industry recovery advances, we will continue to assess the demand requirements in this growing market segment, along with, importantly, the ability of our supply chain to move to higher rates if warranted.
+The air cargo market is also staging a strong turn around, supporting demand for new and more efficient freighter capacity. With the 747-8 coming online, and the new 777 freighter unlocking additional opportunities, we see our market leading position in this segment growing even stronger in the months and years to come. We are also seeing continued improvement within aircraft financing markets. The level of uncertainty has moderated, and new financing sources are positioning for the improving commercial airplane market.
+On the defense side, while we are seeing some additional clarity around national security priorities, both inside and outside the United States, several of our government customers are facing continued budget pressures, as they try to meet increasing requirements. Our focus in defense basis security is four fold. First, extend our existing programs by bringing capability, and very importantly affordability to our customers. Second, capture a growing share of international and services opportunities. Third, accelerate our repositioning with investments in adjacent markets, such as cyber security, intelligence, surveillance, and unmanned systems. And fourth, size our overhead and indirect costs vary conservatively in the face of our US customers, contracting and cost pressures. We had successes in many of these areas during the quarter.
+In May the US Department of Defense notified congress that it is taking initial steps to pursue a new FA-18 and E/A-18G multi-year contract spanning fiscal years 2010-2013. That would include 124 Super Hornets and Growlers. In June we were awarded a research and development support contract from the US Federal Aviation Administration for the Next-Gen Air Transportation System. We also won an award from the US Air Force to upgrade the service's 59-jet KC-10 tanker fleet with a new communication, navigation, surveillance and air traffic management system.
+On the international front we continue to pursue significant opportunities for our rotorcraft, tactical and derivative aircraft and C-17 products. We have a broad and deep pipeline internationally, particularly in Middle East and Asia. And to accelerate our repositioning in adjacent markets, we announced two acquisitions, Argon ST, and Narus that increase our strength in growing domestic and international cyber security and intelligence surveillance and reconnaissance markets. With Argon ST, we have significant potential to enhance our Military platforms business by leveraging Argon's extensive experience in sensors, sensor integration, communication technologies and information management. For example, we see synergy opportunities with our unmanned vehicles family, our commercial Military derivatives, like the P-8A and AEW&C and more. Argon's vertical content and key customer relationships also enable opportunities for developing new business in the C4ISR area. Recognizing that there are, still, some pockets of economic uncertainty within the global recovery, we remain solidly positioned with a healthy balance sheet and an expanding portfolio of market leading products and services to meet evolving customer needs.
+Now, let me turn to address second quarter highlights on slide three. Core performance was strong during the quarter. And we achieved some key milestones across both our businesses. In commercial airplanes, our production programs and services business continued to make productivity gains and generate strong operating results. On the development side, we continue to make progress on the 787 flight test program, and we are very pleased with the performance of the airplane in test. The fifth airplane, which is the first of two powered with GE engines, joined the test fleet in mid-June. Airplane six is expected to be in the air within the next several weeks. We have flown more than 400 flights, and 1300 hours. Extreme weather, icing and crews performance testing have all been completed.
+The flight and ground test results today have retired a majority of the technical risk and validated the breakthrough innovations behind the game changing efficiency and economics of the 787 that they will bring to our customers. We have found nothing in the flight test program to diminish our confidence in the ability of the 787 to meet the mission needs of our customers. While testing efficiency in flight remains high, the cumulative impact of a number of relatively minor recent issues has reduced our schedule contingency. Our plan remains to deliver the first airplane by the end of the year. Although it could move a few weeks into next year, depending on when we wrap-up our remaining flight test and certification activities. Progress on the 787 production ramp up also continues. We are seeing welcome improvements in overall quality and productivity and reduced traveled work as we work closely with our partners to balance the production flow throughout the supply chain. As we move through a series of upcoming rate increases, we will make adjustments, to the production flow as needed, to ensure the health of the production system.
+We also continue to make solid progress on the 787-9. In early July, the team completed firm configuration on this airplane, which defines its overall structure, propulsion and systems capability and allows us, together with our suppliers, to begin detailed design of the airplane. We expect first delivery of the dash 9 to occur in late 2013.
+On the 747-8 freighter, we now have four flight test airplanes in our test fleet that have accumulated over 200 flights and 600 hours. The plane earned its expanded Type Inspection Authorization during the quarter, and is making progress on its certification requirements. We continue to work toward delivering the first 747-8 freighter later this year, although as we work through discoveries in the flight test process we could see first deliveries move into early 2011. Our focus on both the 747 and the 787 is to improve flight test efficiency, build schedule contingency and retire any remaining technical risk.
+Shifting to defense, space and security, the second quarter included several key achievements. Our Ground-based Midcourse Defense program completed a successful flight test of the two stage ground based interceptor. The US Air Force authorized the C-130 of Avionics Modernization Program approval to begin low rate initial production. And the Global Positioning System IIF-1 satellite was launched and is undergoing on orbit tests. The inaugural spacecraft is the first in a 12 satellite constellation that the Company is building for the US Air Force. We also made initial deliveries of the Wedgetail 737 AEW&C to the commonwealth of the Australia.
+During the quarter we also put the finishing touches on our proposal for the US Air Force's KC-X tanker program, which we submitted on schedule earlier this month. We submitted an aggressive but responsible bid for a modern 767-based tanker that we believe will bring more advantages for the warfighter at substantial life cycle savings for the customer and US taxpayers. We anticipate source selection in November. Although Defense, Space and Security generated solid performance for the quarter, we are slightly underrunning our targeted 10% margin for this business. Due to modern -- due to modest charges and the current US government contracting environment which is putting greater pressure on program pricing. As we move forward, we must continue to work aggressively to optimize our cost structure and reposition this business to meet our customer's needs affordably, while at the same time achieving our expected returns. Dennis and his teams are focused intensely on doing just that.
+At quarter end, our total Company backlog remains strong at about $312 billion, close to 5 times our current annual revenue, and the foundation for significant growth potential. Our commercial orders forecast continues to improve, supported by the announcements we saw last week in Farnborough. While we still expect the book to bill ratio to be below 1 this year, we do anticipate substantially higher orders than last year across both of our businesses.
+One final note before I turn it over to James. As I believe most of you know, on June 30, the World Trade Organization issued its final ruling in the trade case against subsidies to Airbus, finding every instance of launch aid challenged by the US to be illegal and harmful to US interests. This decision, by the world's ruling body on trade matters, is important, for both Airbus and Boeing, because it sets the precedent for emerging competitors in Canada, Brazil, China, Russia and others who want to enter the market. While the EU has exercised its right to appeal the ruling, we are as confident in the case today as we were when it was first filed. And we look forward to a future where all competitors in the market for commercial airplanes and their Military derivatives compete on a level playing field.
+Now over to James, who will discuss the second quarter results and our outlook. James?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [4]
+--------------------------------------------------------------------------------
+Thank you, Jim. And good morning, I'll begin with our second quarter results on slide four. Revenue for the quarter was $15.6 billion down 9% from last year, driven by anticipated lower commercial airplane delivery, seat supplier challenges and reduced combat systems and missile defense volumes. Net earnings were $1.06 per share reflecting the anticipated lower revenue. Operating margins were 8.4% slightly lower than last year as strong commercial operating performance was offset by lower margins in our defense business.
+Now let me discuss our commercial airplane business on slide five. Boeing Commercial Airplane's second quarter revenue was $7.4 billion, down from last year due to fewer deliveries. Somewhat offset by higher service revenue driven by focused investments in Aviall's part distribution business. Anticipated lower wide body deliveries and seat supplier challenges are reflected in the quarterly results. We expect to recover from the seat delays over the second half of the year. Commercial operating margins were strong at 9.2% down slightly from last year on the lower deliveries. Strong airplane performance, operating performance and higher commercial aviation service earnings were slightly offset by increased research and development costs.
+During the quarter we extended the accounting quantities on all our production programs. The 737 was increased by 400 units. The 747 by 25 units, the 767 by 13 units and the 777 by 50 units. The financial impact of these extensions in the quarter was not significant. There was also no material financial impact this quarter with our decision to raise 737 production rates in 2012. As the volume benefits were somewhat offset by costs to implement. Gross inventories for the Company now includes $9.7 billion related to the 787 work in process, supplier advances, tooling and other nonrecurring costs. An increase of $1.3 billion during the quarter. We expect this expenditure rate to continue during the remainder of the year as we ramp up production. We continue to work closely with our 787 suppliers to reach fair and equitable solutions on their assertions. We still anticipate having the majority of these assertions negotiated by year end. Customer discussions are also ongoing and both are tracking to expectations.
+We continue to monitor the market schedule, cost and production ramp up assumptions on the 787 program and we'll provide more insights later this year on the accounting quantity and profitability. Boeing Commercial Airplane won 88 gross orders during the quarter, including 44 737s and 38 777s while 20 orders were cancelled. The commercial backlog remains strong with over 3300 airplanes valid at $252 billion, that is more than seven times BCA's projected 2010 revenue.
+Now moving to slide six in our Defense, Space and Security business. Boeing Defense, Space and Security reported revenues of $8 billion with operating margins of 8.9%. Boeing Military Aircraft revenues rose 4% to $3.6 billion on higher volume. Operating margins of 9.9% reflect the impact of labor disruptions and an AEW&C charge of $46 million primarily driven by schedule delays in our Peace Eagle program. Network and Space Systems recorded revenues of $2.4 billion down from last year, primarily due to expected lower volume on the Brigade Combat Team Modernization and the Ground-based Midcourse Defense programs. Operating margins of 7.1% reflect solid performance across its array of programs. Global Services and Support revenue were down slightly to $2 billion with margins of 9.2% impacted by performance on certain integrated logistics, maintenance, modifications and upgrade programs. During the quarter, key program wins discussed earlier by Jim, enabled Defense, Space and Security to maintain a solid backlog of $61 billion, even as run-off of multi-year contracts exceeded additions.
+Now let's turn to slide seven and our other businesses. Boeing Capital delivered another solid quarter with pre-tax earnings of $55 million on revenues of $162 million. Its portfolio balance declined to $5.3 billion, down from $5.7 billion at the end of 2009. Other segment expenses were $72 million, while unallocated expenses were $70 million, down from last year, driven by lower deferred compensation expense. We expect other segment expense for 2010 to be approximately $200 million, with total unallocated expense at about $800 million, which still includes some provision for risks. Income tax expense in the first half does not include the R&D tax credit, although we expect that that credit will be signed into law by year end. Our estimated tax rate for the year is approximately 36%, including the first quarter tax charge, due to healthcare legislation. Excluding this charge, we expect our 2010 tax rate to be approximately 32.5%. If the R&D credit is not signed into law, our tax rate would increase by approximately 3%.
+Now let's turn to slide eight and discuss cash flow. During the quarter, we generated $266 million of operating cash flow, reflecting continued investment in our development programs. Gross inventories on the 787 and the 747-8 programs will continue to increase, as we prepare for first deliveries. Capital expenditures will continue to ramp up as construction on the final assembly building in Charleston remains on track. We expect the majority of that investment to be incurred later this year and early next year.
+Let's turn to slide nine. We ended the quarter with $10 billion of cash and marketable securities, down $400 million from the previous quarter. Our debt levels remained unchanged. Our current cash levels provide us with strong liquidity as our development efforts evolve into production programs. We continue to execute our balanced cash deployment strategy, which includes targeted M&A activities such as the recently announced Argon ST and Narus transactions. Both of these acquisitions are expected to close in the third quarter with cash outlays made at that time.
+Turning to slide 10 and our outlook. Our earnings per share guidance remains unchanged at between $3.50 and $3.80. And continues to consider risks around development programs and the business environment. 2010 revenue guidance remains unchanged at between $64 billion and $66 billion, while operating cash flow is expected to be approximately zero. The R&D expense forecast is unchanged at $3.9 billion to $4.1 billion. Capital expenditures are now expected to be $1.7 billion during 2010, down from our previous estimate of $1.9 billion. This is a result of our progress being made on the construction of our second assembly line in Charleston, and expectation that some of those expenditures will shift into 2011.
+Pension funding is expected to be less than $100 million this year, while total Company non-cash pension expense is expected to be about $1.2 billion. We are monitoring potential impacts to our 2011 pension expense based on current interest rates and market conditions. To date, returns on our pension assets are tracking in line with our assumed 8% return for the year, although discount rates have declined below our expectations. We will provide you more information after year end when our plans assumptions are finalized.
+We continue to expect commercial airplanes to deliver between 460 and 465 airplanes generating revenue between $31 billion and $32 billion. Operating margin guidance is increased to between 7.5% and 8.5%, reflecting strong performance on production programs and in the service businesses. Defense, Space and Security revenue is reaffirmed at between $32 billion and $33 billion, with margins reduced to approximately 9.5% reflecting performance on development programs as they near completion and the current US government contracting environment. For 2011, we continue to expect revenues to be higher than 2010, primarily driven by projected 787 and 747-8 deliveries. R&D expenditures are expected to decrease by an amount greater than $500 million. With the higher deliveries and our current spending plans for R&D investment we continue to forecast 2011 operating cash flow at greater than $5 billion. We plan to provide detailed 2011 financial guidance with our fourth quarter results.
+Now I'll turn it back over to Jim, who will give you some final thoughts. Jim?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [5]
+--------------------------------------------------------------------------------
+Thank you, James. We had another solid quarter of results from our businesses. We continue to make progress on our key commercial and military development programs. With rebounding commercial air traffic growth, some further clarity on government customer priorities, and a continued focus on productivity improvements, we believe we are well positioned for growth in 2011 and beyond. With that said, we'd be now happy to take your questions.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator instructions) Our first question is from the line of Joe Campbell with Barclays Capital. Please go ahead.
+
+--------------------------------------------------------------------------------
+Joe Campbell,  Barclays Capital - Analyst    [2]
+--------------------------------------------------------------------------------
+Good morning, all. This is Joe from New York and Carter from London.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [3]
+--------------------------------------------------------------------------------
+Good morning.
+
+--------------------------------------------------------------------------------
+Joe Campbell,  Barclays Capital - Analyst    [4]
+--------------------------------------------------------------------------------
+Jim, you mentioned that the order rates were up in both your businesses. And I think the commercial orders that something like 317 through last week were more than we saw all of last year. And the net orders, I think, are actually running twice what they ran last year for the full year. Given that you have been saying that you are fairly tight and well sold out into the future, how do you see the second half shaping up? Are we going to continue on at some pace like this? And is this selling aircraft out into the distant future? Or is this indicative of upward pressure on rates?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [5]
+--------------------------------------------------------------------------------
+Well, I think, Joe, it's -- we were mildly surprised at the strength of the orders we've seen over the last quarter, not totally but mildly surprised. It did support our thinking to take up production rates and supports our ongoing analysis to think through whether there's more opportunity beyond what we've announced. At 35 for the 37 and the previously announced increases on the 777 and the 47, are supported by what we are seeing now. Hard to predict what we will see in the second half. The pipeline is good. There are many discussions going on. Even discussions on, on Skyline that's pretty far out there. But we'll just have to see. We still see a book to bill of less than 1. But we'll monitor the situation as we go forward.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+The next question from the line of Howard Rubel with Jefferies.
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies & Co. - Analyst    [7]
+--------------------------------------------------------------------------------
+Thank you very much. Jim, I want to focus on operations for a second. If we look at pre R&D margins they rose year on year to 18.5% from 17.5%. Yet this came on lower volumes and some slips in deliveries and then also I'd say some disruptions in the flight schedule on the 78 and 74. Could you address how you have in one case a bunch of challenges? And yet the bottom line result for commercial was probably better than what you thought? And could you be specific with some examples?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [8]
+--------------------------------------------------------------------------------
+Well, Howard, it is primarily our performance on our period expenses and our drive to really manage the costs associated with running our operation. And particularly those costs that don't go into the end product. So that's what you are seeing. It really is those types of costs that are incurred, basically, on the, our core product line, the production lines, particularly on 737 and 777. Those are holding pretty strong as we continually -- to operate more efficiently, particularly on those things that would drive period expenses.
+
+--------------------------------------------------------------------------------
+Howard Rubel,  Jefferies & Co. - Analyst    [9]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+Next to Heidi Wood with Morgan Stanley. Please go ahead.
+
+--------------------------------------------------------------------------------
+Heidi Wood,  Morgan Stanley - Analyst    [11]
+--------------------------------------------------------------------------------
+Yes, how apropos for you guys, Jim and James to have reported 787 in net income this quarter. I think the program is clearly on the mind of the whole enterprise. A question on the margins as well, that was very good. But as we look at the shipments in 2010 and 2011, you are shipping the planes that were booked -- that were ordered in '05 and '06 when planes had probably had fairly handsome pricing, you also have are good performance and maybe some escalation. James, can you breakdown, for us, as we look at these results, how much of it was pricing, how much of it was performance and whether escalation played in a part? And the second part of the question is the mature planes in 2011, were the pricing on those planes meaningfully better than the 2010 plans?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [12]
+--------------------------------------------------------------------------------
+Let me try to take it in pieces. I think the pricing is a small bit. It is good. The escalation, we had some clawback of that in past periods. We had a pretty significant hit to our margins relative to escalation. Some of that -- a small bit of that's come back. That has helped. Pricing, though, I think has been pretty stable in terms of the airplanes -- on the airplanes we delivered this year and will deliver in '11, Heidi. So I think what you are really seeing is good performance on productivity and our acceleration of our efforts in those areas. And so, I'm optimistic as we go forward that we'll continue going with that, particularly with the new order traffic we are starting to see. We are going to be pricing those reasonably, and trying to keep them stable. But obviously we have some room, so that we can really be competitive, as necessary.
+
+--------------------------------------------------------------------------------
+Heidi Wood,  Morgan Stanley - Analyst    [13]
+--------------------------------------------------------------------------------
+All right great. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+Next go to the line of Ron Epstein with Bank of America-Merrill Lynch. Please go ahead.
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BAS-ML - Analyst    [15]
+--------------------------------------------------------------------------------
+Good morning, guys.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [16]
+--------------------------------------------------------------------------------
+Good morning.
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BAS-ML - Analyst    [17]
+--------------------------------------------------------------------------------
+So, it is my understanding that you still have a challenge at Alenia with 787. Do you mind to just to talk about how you are managing that?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [18]
+--------------------------------------------------------------------------------
+Well, there have been a couple of what I would characterize as workmanship issues there that we just worked through. I mean, no design issues, no configuration issues, a couple of instances where the workmanship was not what we wanted it to be. And we do what we always do, which is to work with our suppliers to resolve them. And that's been the case with Alenia.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+Next question from Noah Poponak with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [20]
+--------------------------------------------------------------------------------
+Can you give us a little bit more specifics on what you're sort of learning and seeing as you perform this study on rates, particularly on 737? I guess to Joe's question you were talking about higher rates, and at the same time, saying you didn't expect new order activity. Now you are getting that. So, what's the upside risk beyond 35? And what are you seeing in the supply chain's ability to go higher?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [21]
+--------------------------------------------------------------------------------
+Yes, I think, if I had to answer the question today, I'd see -- I would say that there is some upside just based on a market view. And the supply chain is the key question. I think moving from where we've been, low 30s to something north of 35 puts, while your competitor is also looking at moves and while other airplanes are also moving up in rate, can put pressure on suppliers. And so, the key question is making sure we are right there, that we have properly facilitized suppliers with the right manning and capability and material commitments to get there. So we are just working very methodically through different scenarios. And if the market is there and the supply chain is committed and capable, you will see further movement.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [22]
+--------------------------------------------------------------------------------
+Can you just maybe give us a little color on what you are learning in the supply chain? Where you see bottlenecks? Where you see challenges?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [23]
+--------------------------------------------------------------------------------
+Well, I would characterize it as the normal number of bottlenecks and challenges. There are some suppliers that would have to make investments in plant and equipment to meet significantly higher rates. There are others who would need some additional training. There are others with whom we'd have to come up with a new business deal. I would sort of characterize it as business as usual, quite honestly. I wouldn't say it's anything abnormal.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [24]
+--------------------------------------------------------------------------------
+Okay. Is it still a late summer, early fall kind of time frame that we'll hear a little bit more official results from this study from you guys?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [25]
+--------------------------------------------------------------------------------
+I would characterize it as early fall is when we are targeting.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [26]
+--------------------------------------------------------------------------------
+Thanks a lot.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+Next question is from Joe Nadol with JPMorgan.
+
+--------------------------------------------------------------------------------
+Joe Nadol,  JPMorgan - Analyst    [28]
+--------------------------------------------------------------------------------
+Thanks. Good morning, everyone. James or Jim, I was wondering if you could provide some more context around the 47-8 and the 87 forward loss analyses that you conduct every quarter? You have a lot of contingency in your overall EPS guidance and I'm sure that's a big part of it. Maybe just in the following context, on the 47-8 you extended the block. If you hadn't extended the block by 25 units would there have been a charge? Then the 87, you said last fall, James, that you wouldn't have had a forward loss even if you hadn't taken the R&D charge would that still have been the case had you eroded that margin? Thanks.
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [29]
+--------------------------------------------------------------------------------
+Let me start with your first question. No, we would not have had a forward loss had we not extended the accounting quantity on 747. There are a lot of moving pieces. We are finding as we continue to look at our profitability initiatives on both of those programs, we are finding things we can do better. At the same token as we continue to muscle our way through the flight certification testing we find issues we have to account for. But on balance, we are in pretty good shape on 747-8. And we would not have been into a reach, even had we not extended the accounting quantity. 787, very similar. We are looking at all the assumptions around that program. The profitability on that program has not eroded since the first quarter. So we are still looking at things that have been better. The composition of how we get there changes because of the fact that obviously we are still working up -- working through the ramp up issues. We are still working through the issues coming out of the development program. But we are reasonably comfortable with where we are on this program. We do expect this program to start out with margins that are low and they will build over time as we get more experience on both our productivity efforts and also our supply chain gets more comfortable with what they are able to do with learning curves. So I think we are in pretty good shape Joe, with -- from where we stand today.
+
+--------------------------------------------------------------------------------
+Joe Nadol,  JPMorgan - Analyst    [30]
+--------------------------------------------------------------------------------
+You must have a pretty good buffer now on 47. Why is there so much contingency in the EPS guidance?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [31]
+--------------------------------------------------------------------------------
+I would call it being prudent. The fact of the matter is that we still have two major programs that are in flight test that we need to get certified. We do have a lot of units that are in production. Should something come out of that certification process that would have -- that require us to have to modify them. I just want to be sure we have adequate resources to deal with that. Don't anticipate it happening, but it is a development program and there are two of them.
+
+--------------------------------------------------------------------------------
+Joe Nadol,  JPMorgan - Analyst    [32]
+--------------------------------------------------------------------------------
+Thanks, guys.
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [33]
+--------------------------------------------------------------------------------
+You are welcome.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+Next we go to Cai von Rumohr with Cowen & Co. Please go ahead.
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen & Co. - Analyst    [35]
+--------------------------------------------------------------------------------
+Yes. Thank you, James. You mentioned that period expenses expenses at BCAG were under good control. Could you tell us where were those expenses versus the prior quarter and where were they year to year and where should we expect them? How should we expect them to ramp over the balance of the year and next year as you start deliveries of the 87 and the 47-8?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [36]
+--------------------------------------------------------------------------------
+I think the -- quarter over quarter we have had about the same performance in terms of those period expenses and there are some challenges in the period expense category in the second half of the year, so we may see them pick up a little bit as we start dealing with the fleet support costs associated with the introduction of the 87 into service. And some of the other areas that are dealt with, like investments in some of the twos and productivity. But I think that, we are going to continue to work that area hard. The second half of the year, Cai, and then also as we head into '11. But clearly, there will be some expenses associated -- that are period related that are associated with the production as it ramps up. But we'll continue to work to control them as we have over this past first half of the year and quite frankly, as we started doing in '09.
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen & Co. - Analyst    [37]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [38]
+--------------------------------------------------------------------------------
+You are welcome.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+Next we go to Doug Harned of Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford Bernstein - Analyst    [40]
+--------------------------------------------------------------------------------
+Good morning. I would like to continue on the margin topic. But as part of that, I want to understand when you are looking at the 460 to 465 deliveries for this year, how many of those are still scheduled to be 787s and 747-8s? And given the lower margin that is implied in your guidance now for the rest of the year, can you talk about what's driving that lower margin? You did a walk through back after Q4, with a number of topics, and I would just like to understand where you stand now on those? And with the mix of airplanes.
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [41]
+--------------------------------------------------------------------------------
+There are very few deliveries of the 787 and the 747-8 assumed in the 460 to 465 deliveries. So if all of them do get delivered, that will have some impact on the overarching margins but it is a very small number. And that is already baked into the things we have talked about. Now, some of the other things that we talked about is pressure. We do have some investment in some of our productivity tools, the investment in the fleet support costs associated with entry into service on the 87 and those are things in the second half of the year that we are looking at, that is going to impact margin. There is also a little of things for the suppliers, as we move, as we have talked to you about, as we look at development on the dash 9, we are taking some of those costs now, are going to be period expense and they are going to affect second half margin and we are still in the process of implementing that change. You see very little of that in the second half of the year and then some of that will be offset about -- with what we look at volume, going forward. And then clearly the last piece is the prudent provision for anything wrong coming out of the two flight programs.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford Bernstein - Analyst    [42]
+--------------------------------------------------------------------------------
+Has that mix of things or magnitude of things, has that changed at all since you reported last quarter?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [43]
+--------------------------------------------------------------------------------
+No, it's about still in the same proportions.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Sanford Bernstein - Analyst    [44]
+--------------------------------------------------------------------------------
+Great. Thank you.
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [45]
+--------------------------------------------------------------------------------
+You are welcome.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+Next got to Rob Spingarn with Credit Suisse.
+
+--------------------------------------------------------------------------------
+Rob Spingarn,  Credit Suisse - Analyst    [47]
+--------------------------------------------------------------------------------
+James, I'd like to continue in the same direction if I can. When I think about your margins and the implied margin for the second half of the year, there does seem to be cushion both at BCA and BMA, and then the opposite in the network business. The network and space business. So the costs that you just mentioned, are those in R&D? Because it would seem in your guidance range of 7.5% to 8.5% for BCA you could actually have, maybe, by our math, $200 million to $600 million or $700 million cushion in R&D.
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [48]
+--------------------------------------------------------------------------------
+I would call it prudent. I wouldn't just call it cushion. But I think that the, I go back to what I've just said. We still have these two programs, we still have a lot ahead of us and clearly, we want to be conservative in our full year guidance. Because although both of these test programs have gone reasonably well, again we are going to be building up a lot of inventory on both of those programs, 15 airplanes on the 47 side and 30 on the 87, that we would have to have the kind of resources available should we have something that becomes a problem and that would cause a retrofit.
+But clearly, it is what I just said. We do have other investments that aren't in the first half of the year we are going to affect in the second half of the year, and clearly there is still, even though we have lowered the guidance relative to BDS margin down to approximately 9.5% there is still that pressure when we continue to look at the contracting environment we are dealing with on the government side of the house. So, we are trying to have a prudent protection against all those things that we see that could happen in the second half of the year.
+
+--------------------------------------------------------------------------------
+Rob Spingarn,  Credit Suisse - Analyst    [49]
+--------------------------------------------------------------------------------
+Do you think you are being a little aggressive, perhaps on the network side? Where you have been in the low 7s? And I think the guidance implies high 8s?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [50]
+--------------------------------------------------------------------------------
+No, I think that we think that in the second half of the year it is reasonably balanced. We think that we have a good chance of hitting those numbers in the second half.
+
+--------------------------------------------------------------------------------
+Rob Spingarn,  Credit Suisse - Analyst    [51]
+--------------------------------------------------------------------------------
+Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+We'll go to Troy Lahr with Stifel Nicolaus. Please go ahead.
+
+--------------------------------------------------------------------------------
+Troy Lahr,  Stifel Nicolaus - Analyst    [53]
+--------------------------------------------------------------------------------
+Wonder if you could just talk about ongoing customer discussions with the 737 re-engine? I don't know if there is any update out of Farnborough based on customer discussions? What the customers are saying and maybe what you are thinking now, on that program?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [54]
+--------------------------------------------------------------------------------
+Well, Troy, the decision framework for us is, and we'll work through it over the next, for the balance of the year. Is when does a new airplane come together in terms of the technology readiness and customer willingness to pay for one? We think that's the first question that has to be answered. If that, if that is some time this decade, then the case for re-engining weakens dramatically. That would, if you did re-engine, you would be doing two major developments in the course of four or five years, which makes no sense. If, on the other hand, the new plane comes together much, much later, let's say deep into the next decade, then the case for re-engining strengthens, because there is some efficiency that can be derived from a new engine. We are trying to balance all those things, I think on balance the customer feedback, which was your specific question, is sort of pushing us toward a newer airplane, on balance. But there are those that also make the case for reengining. But we've got to sort out what is technically feasible. And the kind of benefit this new configuration could provide our customers. That is the first order of business.
+
+--------------------------------------------------------------------------------
+Troy Lahr,  Stifel Nicolaus - Analyst    [55]
+--------------------------------------------------------------------------------
+Great. Thanks.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [56]
+--------------------------------------------------------------------------------
+You are welcome.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+Our next question from Sam Pearlstein with Wells Fargo.
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo - Analyst    [58]
+--------------------------------------------------------------------------------
+Good morning, had a question -- or I guess it's all in and around on the defense side. I guess if I look at the early -- airborne early warning, or the Wedgetail charge in the quarter, is that really what the difference is, in terms of the BMA margins as we look through the end of the year? Because you took 50 basis points really out of each of the three segments and you alluded to pricing pressures from customers. I'm just wondering if you can talk a little bit about what you are seeing in the market that causes you to be more conservative on margins?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [59]
+--------------------------------------------------------------------------------
+Yes, it was, the charge was not on Wedgetail, it was on Peace Eagle, which is the Turkey product offering, but yes, that was part of it. And then the environment, in general, is, we are finding to be more challenging in terms of negotiating larger profit opportunities, and also, as to how we negotiate. And how contract is put on -- how work is put on contract. Where in some cases we are getting undefinitized contract orders and then we're negotiating those later after a lot of the costs are in and the end result of that is a lower profit opportunity. So those are the kinds of things we are trying to deal with and address in our going forward guidance.
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo - Analyst    [60]
+--------------------------------------------------------------------------------
+But are they specific programs that you are referring to?
+
+--------------------------------------------------------------------------------
+James Bell,  The Boeing Company - EVP, Corporate President, CFO    [61]
+--------------------------------------------------------------------------------
+The specific program on the charge, obviously it was the AEW&C, offering associated with the Peace Eagle program. But in terms of the environment, it's more general and its impact is more generally felt across all segments in BDS.
+
+--------------------------------------------------------------------------------
+Sam Pearlstein,  Wells Fargo - Analyst    [62]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+Next go to David Strauss with UBS. Please go ahead.
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [64]
+--------------------------------------------------------------------------------
+Good morning.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [65]
+--------------------------------------------------------------------------------
+Good morning, David.
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [66]
+--------------------------------------------------------------------------------
+On 787, it appears you have stopped the line once. Apparently you are going to stop the line again later this year. Can you talk about what's going on here? And if you are running into issues at these low rates even after a two year delay, what is to think you won't run into issues as you ramp higher into next year?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [67]
+--------------------------------------------------------------------------------
+I think the first -- the 24 day pause was associated with allowing our suppliers to sort of heal up their configurations in some cases some new engineering as well as their supply chain. So that was more about supplier condition of assembly, making sure we got what we needed when we need it.
+The so-called firing of three blanks, the second is really more about shuffling the production against customer requirements as we get closer to delivery, things move around a little bit. And we just want to make sure we are lined up. Because some configurations in timing changes. And that will be ongoing for the next 25 years so this is the first of these. And I would anticipate more of that. As we get into next year. Neither of these things, and I would characterize them as sort of normal adjustments, really have impacted our view of what we will deliver next year. It didn't really change our view of that.
+
+--------------------------------------------------------------------------------
+David Strauss,  UBS - Analyst    [68]
+--------------------------------------------------------------------------------
+Okay. Thanks.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [69]
+--------------------------------------------------------------------------------
+You are welcome.
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+Next go to Myles Walton with Deutsche Bank. Please go ahead.
+
+--------------------------------------------------------------------------------
+Myles Walton,  Deutsche Bank - Analyst    [71]
+--------------------------------------------------------------------------------
+Good morning guys. Jim, you obviously face schedule risks on both the new development of the 787 and 747. Can you weigh for us, on balance, which do you think has more rework risk? Trying to weigh the potential significance of the workmanship issues that are leading to other supply chain issues versus some of the couple of technical issues that are still playing out on the 47. Just can you give those in balance in terms of a rework perspective, giving you a lot of 15--?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [72]
+--------------------------------------------------------------------------------
+Yes. I mean, it's -- I would both characterize them as normal flight test programs in the sense that there is no major reconfiguration that's been driven by any discoveries as we have gone through that. With that said, I think the extent to which there is some risk to the schedule on the 87, I would characterize that as more getting through lower risk kind of certification turn times on telemetry, certification documentation. So I would characterize that I don't want to call it administrative, because it is not administrative. You could find some things even in the lower risk back end of a flight test program. But I would characterize it like that. I think on the 47-8, there is that and there are a couple of workmanship issues and a design issue or two that we are wrestling through. So maybe if you force me to compare it, I would say maybe a little more risk on the 47-8.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+Next question is from Jason Gursky with Citigroup.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [74]
+--------------------------------------------------------------------------------
+Good morning, Jim, I was wondering if you could walk us around the globe and talk a little bit about the international opportunities that you have on the defense side and perhaps offer an update as to where you are in a lot of the processes and the--.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [75]
+--------------------------------------------------------------------------------
+On the defense side? Was that the--?
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [76]
+--------------------------------------------------------------------------------
+Yes, exactly.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [77]
+--------------------------------------------------------------------------------
+Yes, I think we have characterized the pipeline the last couple of times we talked to all of you as broad and deep. I would still characterize it that way, and I would say that what six months ago we saw as possibilities, qualified opportunities, I would say a number of those have hardened up, into contract discussions, negotiations, the final ends of competitions. So I, my view remains that particularly in the Middle East, and in Asia and selective other places in Rotorcraft, fighters, C-17, commercial derivatives in particular, I think there is as strong a pipeline as I've seen internationally in the defense business in a long, long time. And so how much of that will actually convert, you know we've discussed that as being the fastest growth part of our defense business as we project it going forward. There is I think things I have seen over last quarter would only make my feelings somewhat stronger, rather than weaker. That aggressive view.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [78]
+--------------------------------------------------------------------------------
+And the pricing environment there?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [79]
+--------------------------------------------------------------------------------
+Pricing environment? Good. I mean, I think the, I would say on average, the margins would be, would mix up somewhat from our average.
+
+--------------------------------------------------------------------------------
+Jason Gursky,  Citigroup - Analyst    [80]
+--------------------------------------------------------------------------------
+Okay, perfect. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+Next question from Ken Herbert with Wedbush.
+
+--------------------------------------------------------------------------------
+Ken Herbert,  Wedbush Morgan - Analyst    [82]
+--------------------------------------------------------------------------------
+Good morning. I just wanted to follow-up on your comment on the defense side specifically. I know you are doing a lot with the margins, specifically from potentially overhead and indirect costs. Is there anything you can specifically say that you are looking at here that might have an impact this year and certainly into 2011 on the defense side of the business?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [83]
+--------------------------------------------------------------------------------
+Yes. As I mentioned in my introductory remarks, there is no question that the overall cost structure of the business has to come down. I think the uncertainty and pressures in the US contracting environment as the defense department sorts through, responding to overall US government priorities and pressures, I think is going to focus us very intently on both affordability, and in some cases reduce volumes on existing programs. Now, what we are working through is how much of that will be offset by some of the new areas we've gotten into, the acquisitions we've made, and how that all sorts out. But will be part of our guidance next year, when we start talking about it. But there is no question the overall cost structure will be down. We have plans to do that, and we are working through the details of it right now.
+
+--------------------------------------------------------------------------------
+Ken Herbert,  Wedbush Morgan - Analyst    [84]
+--------------------------------------------------------------------------------
+Very good. Thank you very much.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [85]
+--------------------------------------------------------------------------------
+You are welcome.
+
+--------------------------------------------------------------------------------
+Operator    [86]
+--------------------------------------------------------------------------------
+And next we go to Peter Arment with Gleacher and Company.
+
+--------------------------------------------------------------------------------
+Peter Arment,  Gleacher and Company - Analyst    [87]
+--------------------------------------------------------------------------------
+Question I guess on 787, your flight test is about 40% complete based on the hours flown and you indicate you will get another aircraft in the air in the next several weeks. Jim, how do you characterize given your words, I guess, lower tech hurdles that you have run into the opportunity I guess to get some margin back in the schedule? How can you handicap that for us?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [88]
+--------------------------------------------------------------------------------
+Well, I think as we have characterized it, most of the margin has gone from the schedule. You heard me characterize it a couple of questions ago about the nature of where we are. I think we are a little more than halfway through the flight test program now. I'm trying to remember exactly where we are. But the, so it's more than 40%. But we do -- next several weeks, we'll have our, the sixth airplane out flying. That is on the schedule. That sixth airplane is not on the critical path. I mean, it is mostly eking the data out of the planes that are flying in addition to the sixth airplane. But most of the margin is gone. We don't see any big, technical risk. In fact, we see most of the tough stuff having been dealt with. The static tests and a lot of the systems and stress testing of the airplane and we have found no issues. And as I said before, it is not that there is no more risk, but there is proportionately less risk in the second half of the program than there was in the first I would say, personally.
+
+--------------------------------------------------------------------------------
+Scott Fitterer,  The Boeing Company - VP, IR    [89]
+--------------------------------------------------------------------------------
+Operator, we have time for one more analyst question.
+
+--------------------------------------------------------------------------------
+Operator    [90]
+--------------------------------------------------------------------------------
+That will be from the line of Harry Nourse with HSBC. Please go ahead.
+
+--------------------------------------------------------------------------------
+Harry Nourse,  HSBC - Analyst    [91]
+--------------------------------------------------------------------------------
+Good morning. Airbus is now saying they expect some export credit agencies to support 45% of 2010 deliveries, which is up quite a bit from last year's 35%. And some Chinese carriers apparently now looking for assistance with that. Are you seeing a similar trend with Ex-Im, and how should we reconcile higher levels of government support with the higher production rates? Especially in light of the continuing weakness in the secondary market?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [92]
+--------------------------------------------------------------------------------
+Well, I would say that the overall financing market is, remains stronger than we anticipated it would be, so most sources of financing are more online for, I would say both us and Airbus than we had anticipated. That includes the banking system and capital markets, and ECAs as you are talking about. And I think both the European ECAs and as well as Ex-Im, here in the United States, have increased the amount of commitments they've made. Sort of in line with the improved market conditions and deliveries we are seeing. And it's impossible for me to predict how much more that either side would give, because it is somewhat related to politics. But it's -- our current skyline is in very good shape in terms of its financability, and Ex-Im has increased its commitments, somewhat, over the last couple of years. And I think it's my understanding, based on your questions and some other things that, Airbus's sort of increased level of commitments from its ECA is roughly in line with that.
+
+--------------------------------------------------------------------------------
+Harry Nourse,  HSBC - Analyst    [93]
+--------------------------------------------------------------------------------
+Do you expect the level of support to increase or decrease next year?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [94]
+--------------------------------------------------------------------------------
+It's really hard to predict. I think it increases, just based on the commitments that are out there, okay? It increases against the skyline. But again, since it is in part, decided by people that don't work for me--.
+
+--------------------------------------------------------------------------------
+Harry Nourse,  HSBC - Analyst    [95]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [96]
+--------------------------------------------------------------------------------
+-- it is really hard for me to predict. I'm hoping there is continuing sentiment to support these high-tech exports.
+
+--------------------------------------------------------------------------------
+Harry Nourse,  HSBC - Analyst    [97]
+--------------------------------------------------------------------------------
+Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [98]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, that completes the analyst question and answer session. (Operator Instructions) I'll now return you to the Boeing Company for introductory remarks by Mr. Tom Downey, Senior Vice President of Corporate Communications. Mr. Downey, please go ahead.
+
+--------------------------------------------------------------------------------
+Tom Downey,  The Boeing Company - SVP, Corp. Comm.    [99]
+--------------------------------------------------------------------------------
+Thank you, we have a few minutes remaining for questions from the media for Jim and James. If you have any questions after the session ends, please call our media relations team at 312-544-2002. Operator, we are ready for the first question and in the interest of time, we ask that you limit everyone to just one question please.
+
+--------------------------------------------------------------------------------
+Operator    [100]
+--------------------------------------------------------------------------------
+We'll go to the line of Hale Wiseman with Financial Times. Please go ahead.
+
+--------------------------------------------------------------------------------
+Hale Wiseman,  Financial Times - Media    [101]
+--------------------------------------------------------------------------------
+Good morning. First just a clarification. You talked about the workmanship issues at Alenia. Just to be clear, are those completely resolved? Or are they ongoing?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [102]
+--------------------------------------------------------------------------------
+I don't know what's happening this minute, okay? But the couple that I've heard about, and there are other, I mean, I don't mean to single out Alenia, that was just the basis of someone's question. I think we are always working through workmanship issues. As far as I know, we have largely worked through what is going on with Alenia. But it is impossible for me to know what is happening this minute.
+
+--------------------------------------------------------------------------------
+Hale Wiseman,  Financial Times - Media    [103]
+--------------------------------------------------------------------------------
+Okay. My question is, I mean, you suggest that the supply chain could constrain your ability to ramp up production in the future. So I wonder, are you looking for alternative suppliers, new suppliers that might help you overcome those problems?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [104]
+--------------------------------------------------------------------------------
+I think the, when we are talking about existing airplanes, by and large, we'll be working with our current supply base. As you know, we have invested in additional capacity of our own, in Charleston and some other places. So we do have some options to do some work ourselves, if we can't reach the proper accommodation in some cases. But in most cases, it's working with the current group that's been on these programs for a long time.
+
+--------------------------------------------------------------------------------
+Hale Wiseman,  Financial Times - Media    [105]
+--------------------------------------------------------------------------------
+Am I right in thinking that you suggested that supply chain could constrain your ability to increase production in the future?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [106]
+--------------------------------------------------------------------------------
+Well, the way I would characterize it is that we have to have clarity on their capability and intent. And that's our ongoing process all the time. And I think the answer to the question that I was asked earlier was, we have probably better clarity on the market right now than we do on the supply chain's capability to go higher than they've already committed, which is higher than before. So we are working with them.
+
+--------------------------------------------------------------------------------
+Hale Wiseman,  Financial Times - Media    [107]
+--------------------------------------------------------------------------------
+Just to be clear that, wouldn't affect the increases that you have already announced by 2012?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [108]
+--------------------------------------------------------------------------------
+No, we are talking about even going higher beyond that.
+
+--------------------------------------------------------------------------------
+Hale Wiseman,  Financial Times - Media    [109]
+--------------------------------------------------------------------------------
+Great. Okay thank you.
+
+--------------------------------------------------------------------------------
+Operator    [110]
+--------------------------------------------------------------------------------
+Next go to Susanna Ray with Bloomberg.
+
+--------------------------------------------------------------------------------
+Susanna Ray,  Bloomberg - Media    [111]
+--------------------------------------------------------------------------------
+Hi Jim and James. I've also got a question about the supply chain. How much overlap is there among, I guess, what you would consider the weaker or the strained suppliers between the 737 and the 87? In other words, would taking the 737 up even further put the 787 ramp at risk? Is that something you are considering?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [112]
+--------------------------------------------------------------------------------
+I tend to think they are independent issues. Our supply -- our supplier partners tend to have separate facilities for -- in many cases for the 87, and its independent development. There could be an instance of trade-off capacity. But by and large, they tend to be separate issues.
+
+--------------------------------------------------------------------------------
+Operator    [113]
+--------------------------------------------------------------------------------
+Next we'll move to the line of Aubrey Cohen with Seattle PI.
+
+--------------------------------------------------------------------------------
+Aubrey Cohen,  Seattle PI - Media    [114]
+--------------------------------------------------------------------------------
+You have been able to provide some details on the -- what is driving your decision on the 737 replacement or reengineering. I was wondering if you could give similar clarity on the 777, and to the extent that that depends on what you find out about the A350-1,000. What is it about it that you are looking for?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [115]
+--------------------------------------------------------------------------------
+Yes, I mean, I think you have in part, answered your question in the sense that, understanding with clarity what the capabilities of the A350-1,000 is or isn't is an important input to the 777 decision. I think that is going to take some time. I mean, I wouldn't totally characterize it as a paper airplane at this stage, but it is pretty close to that. As they get closer to a firm configuration, we'll have some more, and I think that will take another year or so.
+
+--------------------------------------------------------------------------------
+Aubrey Cohen,  Seattle PI - Media    [116]
+--------------------------------------------------------------------------------
+And just to follow-up on that second part, what is it about -- what kinds of details are you looking for about that?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [117]
+--------------------------------------------------------------------------------
+Can it, Airbus has characterized its capabilities very aggressively. And I think it, in terms of range and payload, performance, fuel efficiency, and I think until we get down to the details of understanding the propulsion system, understanding the weight of the airplane and a number of other things, it is -- and those things remain a little unclear, it's really impossible to know for sure.
+
+--------------------------------------------------------------------------------
+Aubrey Cohen,  Seattle PI - Media    [118]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [119]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Operator    [120]
+--------------------------------------------------------------------------------
+Next go to the line of Doug Cameron with Dow Jones. Please go ahead.
+
+--------------------------------------------------------------------------------
+Doug Cameron,  Dow Jones - Media    [121]
+--------------------------------------------------------------------------------
+Good morning, everyone.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [122]
+--------------------------------------------------------------------------------
+Good morning.
+
+--------------------------------------------------------------------------------
+Doug Cameron,  Dow Jones - Media    [123]
+--------------------------------------------------------------------------------
+Jim, one of the reasons you didn't -- or you surprised some folks by not cutting production during the depths of the downturn was overbooking. I'm wondering, with potential reengineering or replacement of the single aisle site as well as potential production increases whether the sort of percentage buffer or the way you think about overbooking is different going into this stage of the -- or the up cycle?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [124]
+--------------------------------------------------------------------------------
+Well, I would tend to look at the issue the other way around, which is that we have a very large backlog for our existing airplanes. We have tremendous customer acceptance for what it does. We have plans to continue to upgrade them. And so the question would be, why re-engine? And the answer, in my view is, you would consider reengineering, if you weren't going to have an airplane available for another 10 to 15 years. That is what we are trying to sort through right now.
+
+--------------------------------------------------------------------------------
+Doug Cameron,  Dow Jones - Media    [125]
+--------------------------------------------------------------------------------
+Maybe I'll ask it in a slightly different way. I guess I'm saying is our booking rate given right now we have seen a splurge of orders, basically level with what we saw in 2005, 2006, 2007?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [126]
+--------------------------------------------------------------------------------
+I would characterize it as maybe modestly less, but still significant.
+
+--------------------------------------------------------------------------------
+Doug Cameron,  Dow Jones - Media    [127]
+--------------------------------------------------------------------------------
+Okay. And one very quick follow-up. Are you comfortable? Or is there room for the concentration of aircraft leasing company derived orders to increase in our order book? Or do you have some internal limits, however nonpublic it might be?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [128]
+--------------------------------------------------------------------------------
+No, no. I mean, we don't have an internal limit. I think leasing, as a percentage of the total, has been increasing gradually, over the last few years, we in the airlines have learned to work with them productively. So no, we don't have a limit. But the preponderance of the market still prefers to order direct and I don't see that changing dramatically.
+
+--------------------------------------------------------------------------------
+Doug Cameron,  Dow Jones - Media    [129]
+--------------------------------------------------------------------------------
+Thanks very much.
+
+--------------------------------------------------------------------------------
+Tom Downey,  The Boeing Company - SVP, Corp. Comm.    [130]
+--------------------------------------------------------------------------------
+Operator, we have time for one last question.
+
+--------------------------------------------------------------------------------
+Operator    [131]
+--------------------------------------------------------------------------------
+From the line of Paul Marion with Crain's Chicago Business.
+
+--------------------------------------------------------------------------------
+Paul Marion,  Crain's Chicago Business - Media    [132]
+--------------------------------------------------------------------------------
+I wanted to ask you about the effort to reduce the cost structure and defense business. One of your major competitors has implemented plans to do some executive layoffs. I was wondering how likely it is you will be considering that?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [133]
+--------------------------------------------------------------------------------
+We'll be looking through our entire cost structure, including the top of the business on down to the bottom of the business and so my guess is, layoffs would be, and our current plans would be that layoffs would be proportional.
+
+--------------------------------------------------------------------------------
+Paul Marion,  Crain's Chicago Business - Media    [134]
+--------------------------------------------------------------------------------
+You mean to the rest of the plan?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [135]
+--------------------------------------------------------------------------------
+No, what I'm saying is there would be no overconcentration at the bottom of the organization. The top of the organization would bear equal brunt.
+
+--------------------------------------------------------------------------------
+Paul Marion,  Crain's Chicago Business - Media    [136]
+--------------------------------------------------------------------------------
+Right. So you are anticipating layoffs then?
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [137]
+--------------------------------------------------------------------------------
+Yes. And attrition, and churn. All the above. But there will be probably be some layoffs in the midst of it all.
+
+--------------------------------------------------------------------------------
+Paul Marion,  Crain's Chicago Business - Media    [138]
+--------------------------------------------------------------------------------
+Okay. Thanks.
+
+--------------------------------------------------------------------------------
+Jim McNerney,  The Boeing Company - Chairman, President, CEO    [139]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Tom Downey,  The Boeing Company - SVP, Corp. Comm.    [140]
+--------------------------------------------------------------------------------
+That concludes our earnings call. Again, for members of the media, if you have further questions, please call our media relations team at 312-544-2002. Thank you.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

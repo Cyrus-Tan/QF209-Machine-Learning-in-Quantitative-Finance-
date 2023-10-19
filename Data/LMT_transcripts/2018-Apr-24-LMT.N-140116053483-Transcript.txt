@@ -1,0 +1,575 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2018 Lockheed Martin Corp Earnings Call
+APRIL 24, 2018 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Marillyn Hewson
+   Lockheed Martin Corporation - Chairman, President, and CEO
+ * Greg Gardner
+   Lockheed Martin Corporation - VP of IR
+ * Bruce Tanner
+   Lockheed Martin Corporation - EVP and CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Matt McConnell
+   RBC Capital Markets - Analyst
+ * Rich Safran
+   Buckingham Research Group - Analyst
+ * Pete Skibitski
+   Drexel Hamilton - Analyst
+ * Ron Epstein
+   BofA Merrill Lynch - Analyst
+ * Rajeev Lalwani
+   Morgan Stanley - Analyst
+ * Hunter Keay
+   Wolfe Research - Analyst
+ * David Strauss
+   Barclays Plc - Analyst
+ * Joe DeNardi
+   Stifel Nicolaus - Analyst
+ * Noah Poponak
+   Goldman Sachs - Analyst
+ * Seth Seifman
+   JPMorgan - Analyst
+ * Cai von Rumohr
+   Cowen and Company - Analyst
+ * George Shapiro
+   Shapiro Research - Analyst
+ * Peter Arment
+   Robert W. Baird & Company, Inc. - Analyst
+ * Doug Harned
+   Bernstein - Analyst
+ * Rob Stallard
+   Vertical Research Partners - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by and welcome to the Lockheed Martin first-quarter 2018 earnings results conference call. (Operator Instructions). As a reminder, today's call is being recorded.
+I'll turn the conference now over to Mr. Greg Gardner, Vice President of Investor Relations. Please go ahead, sir.
+
+--------------------------------------------------------------------------------
+Greg Gardner,  Lockheed Martin Corporation - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, John, and good morning. I'd like to welcome everyone to our first-quarter 2018 earnings conference call. Joining me today on the call are Marillyn Hewson, our Chairman, President, and Chief Executive Officer; and Bruce Tanner, our Executive Vice President and Chief Financial Officer.
+Statements made in today's call that are not historical fact are considered forward-looking statements and are made pursuant to the Safe Harbor provisions of federal securities law. Actual results may differ materially from those projected in the forward-looking statements. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to differ materially from those in the forward-looking statements.
+We have posted our charts on our website today that we plan to address during the call to supplement our comments. Please access our website at www.lockheedmartin.com, and click on the (technical difficulty) to view and follow the charts.
+With that, I'd like to turn the call over to Marillyn.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Greg. Good morning, everyone, and welcome to our call today. We're pleased to have you join us as we review our first-quarter results and some key operational accomplishments from across our Company. I want to take this opportunity to thank our team for their high level of performance, as we continue to focus the organization on long-term growth and value creation. The Corporation continues to deliver critical solutions and products to our customers while also returning value to our stockholders, and I am extraordinarily proud of our Lockheed Martin team.
+As today's release detailed, we had a very strong quarter, operationally and financially. We will review the results in depth a little later on the call. I am very pleased that our strong year-to-date financial performance across all business areas and our expectations for the remainder of 2018 have enabled us to increase our full-year outlook for sales, operating profit, and earnings per share. Our financial results and increased outlook reflect the outstanding execution across our four business segments, and the strength provided by our broad portfolio of products and services.
+I will cover some performance highlights from our business areas in just a moment, but first I want to recognize one significant operational milestone that was attained this month. Our F-35 team celebrated the conclusion of the system design and development phase, or SDD, flight test program, fulfilling the final requirements at Naval Air Station Patuxent River.
+Since the inception of this test program over 11 years ago, F-35 aircraft have successfully completed over 9,200 test sorties totaling over 17,000 flight hours; and satisfied over 65,000 test points, marking the conclusion of the most comprehensive, complex, and rigorous developmental flight test program in aviation history. I'd like to thank the entire F-35 enterprise, including industry and government teams, for their dedication and diligence as this unrivaled stealth fighter jet progresses on to its next chapter.
+Turning to the Department of Defense budgets, we were very pleased to see Congress enact the Consolidated Appropriations Act of 2018, providing much-needed funding for our nation's military and national security. Notably, the 2018 Appropriations Act raised DoD base budget funding to $600 billion, over 14% above 2017 levels, representing the largest year-to-year increase in base budget funding for the Department of Defense in 15 years.
+When coupled with the overseas contingency operations funding, the total amount appropriated for defense activities rose to $665 billion. Included in this increase was the recognition of the need to significantly recapitalize our nation's forces, with the investment accounts appropriated at levels over 20% greater than the previous fiscal year.
+Lockheed Martin's programs were especially well supported in the budget markup, with the legislation including increased funding for 20 additional F-35 fighter jets, 17 additional C-130 J transport aircraft, 16 additional Black Hawk and Seahawk helicopters, two CH-53K helicopters, and increases in multiple missile production programs as well as our Orion contract.
+All told, key Lockheed Martin programs representing all four of our business areas received over $7 billion of appropriations above the fiscal-year 2018 budget request, a clear sign of a strong support our broad portfolio has garnered from the customer community.
+I'll close on my budget discussion with a look ahead to fiscal-year 2019. In February, Congress passed the Bipartisan Budget Act of 2018, and raised the defense budget caps in both 2018 and 2019. We were very pleased to see appropriations enacted to support the 2018 increase in base budget funding. We are encouraged by these legislative actions that provide our military with the resources needed to enable them to fulfill their crucial missions, and we are hopeful that the fiscal-year 2019 funding process will follow the same positive path in the coming months.
+Before addressing our business area highlights for this quarter, I'd like to provide you a brief update on activities relating to our opportunities in the kingdom of Saudi Arabia. Just this month, I had the honor of hosting His Royal Highness Mohammed bin Salman, the Crown Prince of kingdom of Saudi Arabia, at our Sunnyvale, California, location. During his visit, His Royal Highness was able to see firsthand the innovative satellite technology being incorporated into two new satellites which Lockheed Martin is building to provide enhanced telecommunications capabilities in Saudi Arabia. As part of this historic tour, the Crown Prince also saw some of our air and missile defense product line, including key elements of our THAAD system, an important component of the joint global security announcement the US and Saudi Arabia made last May.
+We remain in discussions on several opportunities with the kingdom. And in March, we were awarded a contract for nearly $500 million to fund long lead activities for construction of four multi-mission service combatant ships, a key element in the kingdom of Saudi Arabia's defensive strategy. We look forward to continuing our more than 50-year partnership with the kingdom to help them provide for the security of their citizens and support to His Royal Highness's Saudi Vision 2030, his blueprint for transformation of their country.
+Moving on, I would like to highlight several operational milestones we achieved across the Corporation during the recent few months, beginning with an update on our F-35 program. During the first quarter, I was proud to represent our Corporation at the Korea rollout ceremony at our manufacturing facility in Fort Worth, Texas. The Republic of Korea and the US government leaders celebrated the public debut of the first F-35 produced for the Republic of Korea Air Force.
+The ceremony was attended by over 450 guests, and represented a major program milestone as the Korean Air Force took delivery of the first aircraft in its 40-jet plan of record. Five more will follow this year, as our production line continues to ramp up and we progress on our 2018 goal of delivering more than 90 aircraft to our US and international customers.
+Keeping with our Aeronautics business area, this quarter our aero team celebrated the delivery of the 400th C-130 J Super Hercules, as the Air Force Special Operations Command received its latest Commando II special ops model of the venerable C-130 J platform.
+A hallmark of the C-130J is its versatility, and this aircraft supports 17 different mission configurations, including this special forces version. The performance of this remarkable plane has drawn global demand with operators in 17 countries, as C-130Js have amassed over 1.7 million flight hours, supporting these varied missions. The C-130J has proven to be the tactical airlift platform of choice, and we look forward to continuing our global leadership in air mobility for decades to come.
+Thirdly, NASA awarded our Aeronautics organization a new contract to design, build, and flight test a low boom flight demonstrator, a new supersonic X plane that, despite flying in excess of the speed of sound, will produce a sonic boom that will not be disruptive to the general public. Because of noise restrictions over land, air travel above Mach 1, which creates these sonic booms, is currently not allowed.
+This program will build on the preliminary design we started several years ago under NASA's Quiet Supersonic Technology effort. The new demonstrator aircraft will be built in our Skunk Works facility, and we look forward to its first flight in just a few years, with the goal of making quiet supersonic passenger air travel a reality.
+Moving to our Missiles and Fire Control business area, we saw continued demand for our air and missile defense products. Our THAAD team received an award of approximately $460 million for the production and delivery of additional interceptors and engineering support, bringing the contract value of our Lot 10 program to over $1.2 billion.
+We also received an award of over $500 million as the US and international customers look to upgrade their missile defense capabilities using our PAC-3 and PAC-3 missile segment enhancement, or MSE, interceptors, launch kits, spares, and support equipment. Also, US and Polish officials signed an agreement for Poland to become the fifth international PAC-3 MSE customer.
+The advanced capabilities provided by our PAC-3 MSE interceptors will support the WISLA Air and Missile Defense system, intended to protect Poland's armed forces, citizens, and infrastructure. And we are honored to have this opportunity.
+Before I leave Missiles and Fire Control, I'd like to commend their tactical missile team for the successful operational debut of the joint air-to-surface standoff missile, JASSM, during the recent allied strikes against Syrian chemical weapons research and storage facilities. A total of 19 JASSM stealth cruise missiles were launched, marking their first use in combat. And these weapons performed their missions with precision, contributing to the success of this multinational operation.
+In the Rotary and Mission Systems business area, the US Navy awarded us a unique contract to develop, manufacture, and deliver two high-powered laser weapon systems to eventually be fielded aboard surface ships. This program, the HELIOS contract, is initially worth $150 million. However, with options, it could increase to nearly $950 million.
+This weapons system is the first of its kind, and combines laser technology, traditional ISR sensors and systems, and counter-unmanned aerial system capabilities designed to help provide layered defense support. This award is the result of our commitment to advancing technology with more than 40 years' experience in this domain, including long-standing internal research and development projects, as well as customer-funded contracts. We are honored to be working with the Navy on this program, and we are excited by the opportunity this leading-edge system brings.
+I'll close with our Space business area, which celebrated the successful launch of two upgraded Trident II D5 missiles, certifying the readiness of the crew and the operational performance of this strategic weapon system.
+The two missiles were launched from the Ohio-class ballistic missile submarine, USS Nebraska, and marked the 166th and 167th successful test launches since design completion in 1989, the most reliable test record for any ballistic missile of its kind. This modernized Trident missile will be in service with both the U.S. Navy end the United Kingdom Royal Navy for the next two decades, adding to our over 60-year heritage of support to the sea leg of the nuclear triad. I'd like to congratulate our Space organization on this significant milestone and for their long history of mission success.
+I'll now turn the call over to Bruce to review our first-quarter financial performance and to discuss our expectations for the remainder of 2018. We will then open up the line for your questions.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Marillyn, and good morning, everyone. As I highlight our key financial accomplishments, please follow along with the Web charts that we included with the earnings release today. Let's begin with chart 3 and an overview of our results for the quarter.
+We had a very strong start to the year. Sales and segment operating profit were both higher than our expectations for the quarter, while cash was in line with our expectations, given the planned pension contributions we made this quarter. We returned almost $900 million to our stockholders in the quarter; nearly $600 million through dividends, and about $300 million in share repurchases. Based on these results, we have increased our outlook for sales, operating profit, and earnings per share for the year.
+On chart 4, we compare our sales and segment operating profit in the first quarter of this year with last year's results. Sales were about 4% higher this quarter compared with last year, with three of our four business areas showing growth in the quarter. Aeronautics and Missiles and Fire Control both experienced high-single-digit growth in the quarter. Aeronautics was driven primarily by F-35 production volume, while Missiles and Fire Control was driven by tactical missile and classified programs volume.
+Rotary and Mission Systems had double-digit growth in three of its lines of business that was partially offset by lower volume at Sikorsky due to lower quantities on our government helicopter programs. As expected, Space was slightly lower than last year as a result of our continuing cost reduction efforts on follow-on buys of our large government satellite programs.
+Segment operating profit was up considerably in the quarter compared with last year's results. RMS had the highest operating profit improvement driven by the absence of the charge taken last year for the EADGE-T program; as well as strong performance across the entire portfolio, led by improved performance at Sikorsky. Aeronautics and Missiles and Fire Control increased due to higher sales volume and improved performance, while Space was lower due to the lower sales volume and risk retirements in the quarter.
+Turning to chart 5, we'll discuss our earnings per share in the quarter. Our EPS of $4.02 was 50% higher than our results last year, driven by the higher segment operating profit results that I just discussed as well as a lower tax rate in the quarter as a result of the Tax Cuts and Jobs Act, which was enacted in December.
+On chart 6, we show the impact of our planned pension contributions will have on our cash from operations profile in 2018. Cash in the first quarter was significantly lower than last year as a result of contributing $1.5 billion to our pension trust this year, versus none last year. And with an additional $3.5 billion of contributions planned before the end of the third quarter, we expect cash from operations in the next two quarters to be much lower than our historical results.
+In fact, we could see negative cash from operations in the second quarter, given the planned level of contributions in that quarter. Because of these contributions, we expect our cash generation to be heavily weighted to the fourth quarter. All in all, though, we remain comfortable with our outlook of greater than or equal to $3 billion in cash from operations for the year.
+Chart 7 provides our updated guidance for the year. We're increasing our sales outlook by $350 million based on higher expectations for Aeronautics, MFC, and Space for the rest of this year. We are increasing our segment operating profit outlook by $115 million due to higher sales volume and improved performance in Aeronautics, MFC, and RMS. There's no change to our other unallocated expense or our net FAS/CAS adjustment.
+We are increasing our earnings per share by $0.60. I'll provide more detail into this increase on the next chart. And we're leaving our cash from operations outlook unchanged, at greater than or equal to $3 billion.
+Chart 8 provides a reconciliation of our current and prior earnings-per-share outlook for the year. Our segment operating profit improvement drives a $0.32 increase in our EPS. Updates to our revised estimated effective tax rate for the year and some other miscellaneous changes drives a $0.28 increase in EPS, resulting in a total increase of $0.60 and a new EPS range of $15.80 to $16.10.
+On chart 9, we show our revised sales outlook by business area. We increased our sales outlook in three of our business areas: an increase of $150 million in Space, $125 million in Aeronautics, and $75 million in Missiles and Fire Control, for a total increase of $350 million above the guidance we provided last quarter.
+Chart 10 provides the updated segment operating profit outlook by business area. We increased our outlook for RMS by $80 million; Missiles and Fire Control by $20 million; and Aeronautics by $15 million; for a total increase of $115 million above last quarter's guidance.
+And finally, on chart 11, we have our summary. We're off to a very good start to 2018 with strong financial and operating performance across our portfolio. We continue to see strength in the current level of our backlog as well as our future growth prospects. And based on the results of the quarter, we increased our outlook for sales, operating profit, and earnings per share.
+With that, we're ready for your questions. John?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions). Ron Epstein, Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Marillyn, there's been some press about Japan and the UK collaborating on an advanced stealth fighter, if you will. I don't know if some kind of -- call it sixth gen. Where did Lockheed stand on that, and how does Lockheed view the market for sixth gen fighters? And if you could elaborate on that.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [3]
+--------------------------------------------------------------------------------
+
+          Sure. Thanks, Ron. Thanks for the question. Well, first of all, we are excited about Japan looking forward on their next aircraft and their replacement of the F-2. And we are exploring options that we could bring forward to them in cooperation with both the Japanese and the US government. But at that time that we'll share our relevant details around that at the appropriate time, certainly. We do think that our leadership and experience building these fifth-generation aircraft are critical to provide cost-effective capabilities that will help support Japan's future security threats as they go forward.
+
+--------------------------------------------------------------------------------
+Ron Epstein,  BofA Merrill Lynch - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          And conceptually, is this like a -- how can I say -- a continuation of F-22? I mean, how should we think about the requirements that Japan wants, vis-a-vis an F-35?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [5]
+--------------------------------------------------------------------------------
+
+          Well, at this point, Ron, we are waiting. It's really a government-to-government matter. They will outline what their requirements are, and we have great experience on the F-22 and on the F-35. And so as they look at the capabilities they need, I think we'll have a very good competitive offering for them.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Cai von Rumohr, Cowen and Company.
+
+--------------------------------------------------------------------------------
+Cai von Rumohr,  Cowen and Company - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Just looking at your change in your EPS guide, how much of the $80 million increase at RMS is from Sikorsky, and why? And how much of the benefit is from a lower tax rate, and what is that tax rate?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [8]
+--------------------------------------------------------------------------------
+
+          Yes, Cai, I'll take both those. So, $80 million at RMS, I'll say that the lion's share of that, actually, is at Sikorsky. I think we were up -- if memory serves me right, we were up about $50 million in the first quarter, and that trend is expected to continue through the next three quarters or so. So that's the bulk of why we're seeing the increase at RMS, is because of Sikorsky.
+And I think there we're actually finally seeing -- hopefully getting a little bit of traction with some of the initiatives we put in place, and some of the systems I think that we put in place here recently that I think are giving greater insight hopefully into managing some cost controls than the business has had previously. So we're hoping that trend continues, obviously, as we go out through the rest of the year.
+Then I think your second question was relative to tax rates and so forth. And I think we're -- I think what I had said at the start of this year was we were looking somewhere between 17% to 18%, probably on the higher side of that. And fortunately we've actually had some -- with the benefit of a little more time looking at the Act and some of our planned reductions relative to what we assumed in the Act initially, we think we've got some better opportunities than we assumed in January. As well as we've been really working some of the R&D tax credit items that we always work really hard. And we see some benefit coming there as well. So rather than the 17% to 18%, I think for the year we are looking right around 16% as the effective tax rate, at least in the guidance we're providing today.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          Pete Skibitski, Drexel Hamilton.
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Drexel Hamilton - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Just maybe you guys can talk more about the F-35. The head of the program office I think has made some comments about your strategy in LRIP 11 negotiations. And I'm just wondering if you guys are (technical difficulty) getting LRIP 11 definitized, and when you think that might complete. And what does the delay mean for the 12 to 14 timeline?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [11]
+--------------------------------------------------------------------------------
+
+          Well, Pete, I would just take that to say that we are in in-depth negotiations, and we know that the timeline is just how those negotiations go. So in terms of the date to complete, I think that's just how the negotiations go forward. It's probably better to ask the PEO from his perspective, Admiral Winter, what his timeline is. But I think the negotiations are progressing as they should. And so we feel pretty good about getting to closure in the next -- in the near term.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [12]
+--------------------------------------------------------------------------------
+
+          And the other thing I might add, Pete, is I think we've seen some progress here recently in concert with the Joint Program Office, closing on some open items that I think will hopefully foretell some good signs relative to getting the whole program closed in the not-too-distant future.
+As far as the -- I think the other part of your question was relative to the block buy LRIP 12, 12 through 14. I don't see that being an issue, at least at this point, Pete. The LRIP 12 to 14 is more of a funding issue at this point in time than a negotiation issue. We'd clearly like to get LRIP 11 behind us so we can focus on that. And hopefully we're on the right path to get that done in the not-too-distant future.
+
+--------------------------------------------------------------------------------
+Pete Skibitski,  Drexel Hamilton - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Okay. And are you past this issue with the whole -- with the recent delivery halt?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [14]
+--------------------------------------------------------------------------------
+
+          We are not. We are still in progressing along with the Joint Program Office on that. It's not affecting production at all, because we continue to produce the F-35. That continues. We are confident we're going to meet our deliveries this year of over 90 aircraft for 2018.
+It's just a temporary suspension that they have on accepting some aircraft until we reach agreement on a contractual issue. So we're working through that contractual issue with them. And as you know, the way our -- we recognize revenues based on costs incurred, so we're full steam ahead on the projection and sustainment of the aircraft. And we'll get resolution of this soon, I'm expecting.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          Noah Poponak, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Noah Poponak,  Goldman Sachs - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Marillyn, I wanted to ask on the defense budget, bigger picture. Clearly there have been a few reasonably sizable step-ups in investment spending here over the last few years. When you're speaking to those that have been a part of that seemingly bipartisan decision, is that discussion at this point -- now that we have 2018 spending where it is -- is that discussion closer to, hey, we've now had these big step ups. We're relatively close to where we need to be relative to the capabilities we need and the recapitalization we need, and we're likely to just grow in line with inflation off of this reset level? Or is that conversation closer to, hey, this is great; but we're actually still far short of where we need to be for all of the capabilities and recapitalization we need?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [17]
+--------------------------------------------------------------------------------
+
+          Well, in my discussions, I think, first off, this increase in defense spending was tremendously welcomed by our customers. As you know, we've been in a situation with the budget caps and others where the spending on recapitalization as well as on readiness was not at the level it needed to be. So I see that as welcomed; and certainly for industry, it is welcomed, in terms of the planning and stability that we can see at least for fiscal years 2018 and 2019. Now, we still have looming out there this whole issue of sequestration, which everybody would like to see go away. So I won't ignore the fact that that's sitting out there.
+But what I would say is that the dialogue I have is about the very difficult situation in global security around the world. It's just unpredictable. There's a need to move with speed and agility to address the threats that are there. And so, is it enough? My -- we don't talk specific numbers of it is enough; but I haven't heard anybody say it's enough. There's not much there in new starts. There's not much there in recapitalization.
+And we know that we've really got to focus on that. It solves some of the near-term issues on readiness to address that. But the need for what's happening with -- what I think Secretary Mattis has called the great power competitions with Russia and China and other geopolitical rivals out there, that we've got to stay on our game and continue to invest.
+We're doing that at Lockheed Martin. We're investing in a lot of technologies that we think will be important to our customers in the near-term and in the long-term. But I -- the threats are not going away; they're accelerating. And so, in my view, if you just were to ask my opinion, we need to continue to spend more on defense.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+          Seth Seifman, JPMorgan.
+
+--------------------------------------------------------------------------------
+Seth Seifman,  JPMorgan - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Marillyn, there was some language in the most recent proxy that suggests maybe you'll stay on longer as CEO than maybe the prior customs of the Corporation would have indicated. Can you talk a little bit about the thinking behind that, and about -- are there one or two specific things that you're looking to accomplish in the remainder of your tenure?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [20]
+--------------------------------------------------------------------------------
+
+          Thanks for the question. Well, just speaking in terms of my tenure, I serve at the pleasure of the Board, as does every CEO of a public company. And they determine with me on when's the right time for me to step down. So I think it was important for us in our proxy to make that clear, just because people often look at ages and where people are in their long-term career. I happy to report that I celebrated 35 years with Lockheed Martin in January, so I do have a long tenure with the Corporation. But I intend to stay on longer.
+And so, in terms of what I want to accomplish, I want to continue to sustain the success of this Company with the 100,000 men and women that are working hard every day to support our customers. And that's -- my focus is on how we continue to drive innovation, how we continue to drive performance, the things that we're doing to align with the needs of our customers; and make sure that we are performing on the work we're doing today, but we're looking beyond today. And also for our shareholders, to have a disciplined approach to how we manage the Company and make sure that we bring and create shareholder value, and bring value to them in the long term.
+So, in a nutshell, I serve at the pleasure of the Board. They elect me annually, and I would like to continue to work for some time.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          Rich Safran, Buckingham Research.
+
+--------------------------------------------------------------------------------
+Rich Safran,  Buckingham Research Group - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          So I would like to ask about your cash flow guidance. Bruce, you took up your numbers -- operating profit, sales -- but you left your 2018 cash from operations guide alone. So first part is: I'd like to know if you could just discuss what the thinking was there.
+And Marillyn, in your opening remarks, you talked a bunch about the increases to the investment account. So as a second part, planned defense spending in 2019, at least it seems to be, was a bit above expectations due to lifting of the spending caps, but there wasn't any update on the long-term cash from operations guide. So I thought maybe you could discuss those two items there, and how you're thinking about that.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [23]
+--------------------------------------------------------------------------------
+
+          Yes Rich, so let me take the first part of that on cash flow guidance. And you're right; we did leave 2018 alone, and the thought was a pretty simple thought. Nothing more complicated than we basically did what we thought we were going to do in the first quarter, and didn't see upside to what our expectations were in the first quarter. And, therefore, we didn't increase our outlook for the year. We've got another three quarters to go for the year. We'll watch that very closely and we'll see if -- how much of some of the profit improvement actually translates into higher cash improvement throughout the rest of the year, and we'll update you as you go there.
+We typically had better performance on cash flow than we said at the start of the year. I'm not predicting that here in the first quarter yet, but we'll see as we progress throughout the year. We said at least $3 billion, greater than or equal to that, and that's still what we're seeing as we sit here today.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [24]
+--------------------------------------------------------------------------------
+
+          And just to answer the second part of your question: we remain hopeful for growth, higher growth, based on the plus-ups in the budget and for 2018. And we hope to see that in 2019 that for Lockheed Martin, our programs will still be well-supported, and we'll see additional opportunities there. We don't know specifically how that will play out because we're a long cycle business, and we are going to wait on the final details and the timing of when these things are enacted and get put on contract.
+So we'll see where the orders hit; and then, therefore, that will drive the sales and then ultimately the timing of the cash from operations. So I can't really give you a real specific answer to that other than to say, just as we always do, we look at the opportunities that come.
+In addition to that, I might mention, there are some other discrete proposals that are in process that could also impact our projections if -- as you know, we're pursuing the Advanced Pilot System, the TX is the terminology we typically use for it, but -- as well as MQ-25 and the Huey replacement and some others. So those also will have some play into our opportunities looking forward, and then the timing of cash.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [25]
+--------------------------------------------------------------------------------
+
+          Rich, I might just add little bit to what Marillyn said as well. She mentioned during her prepared remarks the fact that we got more than $7 billion worth of business in the omnibus bill that just closed. You should think of all of that as essentially over and above what we were assuming when we put our guidance out previously.
+So when we talked in January about having $17 billion over the next three years, roughly $3 billion in 2018 and roughly $7 billion each in 2019 and 2020, that's -- nothing has changed to that. As Marillyn said, there are a number of awards that we're waiting on, that whether we -- if we win or lose, could have some impact -- slight impact on the near-term of that.
+But as we sit here today, we still feel really good about that $17 billion over three year. And again, with the increase in the budget that Marillyn talked about, hopefully there's some prospects that weren't in our plan when we came up with those numbers.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+
+          Peter Arment, Baird.
+
+--------------------------------------------------------------------------------
+Peter Arment,  Robert W. Baird & Company, Inc. - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Marillyn, thanks for the color on Saudi. Have you guys quantified in terms of the opportunity that you're looking at there, and -- if that's possible? And then, Bruce, just quickly on the three deliveries of the C-130 in the first quarter. Can you give us expectations for the year, or maybe the cadence for the year? Thanks.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [28]
+--------------------------------------------------------------------------------
+
+          Surely.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [29]
+--------------------------------------------------------------------------------
+
+          So on the kingdom of Saudi Arabia opportunity, the only quantification that we've done in rolling it up as a potential was what we did last May, when the agreements were signed between the kingdom and the United States government about opportunities. And if you recall, I think it was something like $100 billion worth of opportunities that were outlined in that rolled up agreement.
+So when we looked at where our opportunities were in that, from THAAD, to the multi-mission surface combatants, to radars, to helicopters, to aerostats, a range of things, we communicated that we saw a potential of $28 billion. Of course, that would roll out over whatever number of years of when those orders were placed, contract signed, and so forth. But that's, in essence, what we have communicated in terms of the size of the opportunity.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [30]
+--------------------------------------------------------------------------------
+
+          Peter, the C-130 deliveries, we were a little light in the first quarter. I think that's just the contractual schedule that fell in place in the first quarter. Nothing unusual about that. As we look at the remaining quarters for C-130 delivery, I think they are going to average somewhere seven or eight. We might have one quarter or so where it bounces up to nine aircraft in the particular quarter. So, much higher than what we saw in the first quarter; not a whole lot different than what we saw last year, though.
+I will remind you, though, this -- and I appreciate the question on the deliveries -- but this is one of the programs obviously that with the new revenue recognition is also being recognized on a cost to cost of -- the timing of deliveries might not have as much impact obviously on the C-130 program as it did in years past, just maybe to state the obvious.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Doug Harned, Bernstein.
+
+--------------------------------------------------------------------------------
+Doug Harned,  Bernstein - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          In looking at your Missiles and Fire Control results, which -- you have talked about higher volume on missiles for the quarter. We also saw a big backlog gain in missiles in Q4. And there's some significant budget increases in this area over the next two years. So, when you look at this space, do you see this surge in missile demand as a short-term trend or something that is likely to persist for a longer period, say five or more years? And what would drive that?
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [33]
+--------------------------------------------------------------------------------
+
+          I'll take a shot at that, Doug. Look, I think your observations are spot-on. I know when we looked at -- when I looked at the long-range plan, our three-year plan, the thing that sort of jumped off the page to me is Missiles and Fire Control is amongst in our highest growth business areas over that three-year plan period. And that was under the original President's budget, without taking into consideration a number of things that fell out from the omnibus, for instance. So, I think this is a trend that we see increasing. US, I think is -- is this a short-term or is it maybe out there for five years?
+I think in every single missile opportunity that we have, and that's all the way -- PAC-3s to THAADs to JASSMs to Hellfires, GMLRS -- we are looking at increasing the capacity, increasing our build rates in every single one of those categories in the not-too-distant future. So I think what you're seeing is not an aberration. And I would say it is going to, in my judgment, last longer than a short duration. Five years or so, I think that's a possibility, definitely, Doug.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Matt McConnell, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Matt McConnell,  RBC Capital Markets - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          So, your 10-K this year had some new language about the government taking increasingly aggressive positions around intellectual property rights. Could you elaborate on what's changed, or what you were referring to there, and how you are reacting to that change?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [36]
+--------------------------------------------------------------------------------
+
+          Sure, Matt. I'll just take that. We are seeing -- it's not across the board on opportunities that we are pursuing with the US government. But there have been some cases where there had been sort of an unbounded request for all of the intellectual property rights for us to pursue an opportunity. And while we may be able to commit to that from a Lockheed Martin standpoint, our challenge that we outlined is that it's very difficult for us to commit to that for our supply chain.
+And so, we've had some recent RFPs where the intellectual property rights request is (technical difficulty) seen, in fact, we did a pre-award protest for the UH-1N replacement, the Huey replacement. Because we could not get to a position with the US government and the dialogue, up to that point, to be comfortable that we could certify that we could provide all of the intellectual property that they requested. Because we couldn't certify that we could bring forth all of that for some of our subcontractors. So that's just one example of that.
+I don't know if you want to add anything or not, Bruce.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [37]
+--------------------------------------------------------------------------------
+
+          Matt, the only other thing I would add, and this is a piggyback a little bit on what Marillyn said, I think the Huey replacement program is a good example where -- we've had the Black Hawk helicopter being supported through the Army depots for however long we've been flying or they've been flying Black Hawk helicopters, probably 30 years or so. And, yet, the request that came with the Huey replacement program, admittedly an Air Force program, was actually for far more data than, I'll say, the Army is using today to support those aircraft and the fleet. So it's a little puzzling as to why the same helicopter would have two different requirements for intellectual property, when the government is already supporting that aircraft through the Army depots.
+And that's what we're talking about; it is just a little bit of a head-scratcher sometimes where these are -- and oftentimes, these are existing platforms with a new request for intellectual property that's a little puzzling. And as Marillyn said, a lot of it has to do with not so much Lockheed Martin IP as that our subcontractors -- including, more puzzling than most, a lot of software -- and, in some cases, even some commercial software applications. So that's the reason it's mentioned in the 10-K. That's the reason we filed the pre-award protest that Marillyn said on the Huey replacement program.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Joe DeNardi, Stifel.
+
+--------------------------------------------------------------------------------
+Joe DeNardi,  Stifel Nicolaus - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Bruce, I wonder if you could just provide some sensitivity around the pension relative to performance of equity markets over the next few years. Just assume that we experience a flat [S&P] for the next five years. What would that do to your cash funding requirement? Thank you.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [40]
+--------------------------------------------------------------------------------
+
+          Yes, Joe, that's a good question. We've taken a look at that. And we've mentioned in the past that we actually get to a full freeze in the pension come January 1, 2020. So it's sort of disproportionately impactful, if that's the right words to use, up until 2020 and then post-2020. So we are more sensitive, as you just asked the question, to asset returns in the near term than, believe it or not, than we are -- which has historically not been the case. We've typically been more sensitive to discount rate changes. But because the length of time until the plan becomes fully frozen is getting shorter by the day, we are less sensitive to the discount rate changes between now and then.
+Asset returns, we have greater sensitivity to; but you shouldn't think of them as being -- I'll say we've taken I'll say scenarios where we've assumed, instead of a 7.5%, we've assumed 0% return or 0 return in 2018, for instance, just for sensitivity purposes. And then we've actually gone into some negative scenarios. It's not a huge change. You shouldn't think of it as being something that -- where we would have, I'll say, changes to the $17 billion that we talked about earlier as being a significant change to that in total outlook, is the way I would characterize it.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Rob Stallard, Vertical Research.
+
+--------------------------------------------------------------------------------
+Rob Stallard,  Vertical Research Partners - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          I thought I would ask you a quick question about GPS III and the Follow On contract there, or the competition there. It looks like some of your peers may not bid for this. And I was wondering how that changes the dynamic for you -- obviously it increases the chance of you winning. But also, is there anything different in that follow-on contract that makes it less financially attractive than the current situation?
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [43]
+--------------------------------------------------------------------------------
+
+          Well, I can't speak for our competitors but I can just say that we feel very confident about our proposals for the GPS III Follow On. We've already submitted, as we put out a release that we have a fully complying proposal that we've submitted. And it's, for us, as we see it as a follow-on. It's an opportunity for another 22 next-generation satellites to be brought in. We have invested a lot (technical difficulty) in design with flexible, modular architecture that allows us to bring down costs. But, moreover, that it also is at a low-risk approach to continuing the GPS IIIF solutions.
+So, that's one thing that I would add is that -- and we think we're performing well on the ones that we are producing today. And this follow-on, I think we are well positioned to compete for the follow-on.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [44]
+--------------------------------------------------------------------------------
+
+          The only thing that I might add, Rob, is I think the reason for the competition in the first place is we didn't perform as well as we otherwise could have on the first few satellites. We had some payload issues in particular there. And I'll say those we think have been cleaned up. We feel really, really good about the performance of the satellites we're producing now. I think the government is also aware that we are performing satellites very well, as is most of industry. So, not to speak for any of our competitors, but I think the fact that the program is performing extremely well right now serves us well going into this competition.
+And in your second part of your question was sort of -- is there lower profitability or potential that would cause our peers or competitors not to want to do this? We don't see it that way. We see it as essentially the same opportunity as what we've had in the past, without a change there. So that wouldn't be a driver from my perspective.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          Rajeev Lalwani, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Rajeev Lalwani,  Morgan Stanley - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Marillyn, Bruce, just given some of the discussion out there around the top-line trajectory on the F-35 program, can you maybe just provide some thoughts on how you see revenue growth looking over the next several years for the program? And then if not, maybe just thoughts on how it compares to the overall growth rate of the Company, into the end of the decade and beyond.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [47]
+--------------------------------------------------------------------------------
+
+          Rajeev, I'll take that one. Marillyn can add some top cover if she wants to. But look, I think in terms of F-35, the F-35 program in general is going to grow at a faster rate than the Corporation is all the way through the end of the decade. In fact, I would tell you it's going to do that beyond the end of the decade. We don't reach peak production volumes until I think the 2023 or 2024 time frame, somewhere in that time frame. And you should think obviously we spend the dollars; since F-35 is also on the cost to cost, we're recording the sales sooner than we're getting those deliveries. So it's a little bit pushed to the left, if you will. But even with that, you should think of that peak as not occurring until past the end of this decade.
+And then our expectation is that with sustainment for the sheer number of aircraft that are in the field growing significantly between now and then, that sustainment will help position that growth in the future, even when the production starts to slow down a tad.
+The last thing I would add is there's still -- even though, as Marillyn said in her prepared remarks, we completed the SDD program, there's already in the idea, plans in place, to do follow-on modernization of the F-35; not just for the US government, but for international customers as well. So there will be a sustaining level of development, just like there is a sustaining level of development and modification work that we're currently doing on F-22s and F-16s that are decades past their peak production period. We're going to see that going for a long, long time on the F-35 program.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [48]
+--------------------------------------------------------------------------------
+
+          The other thing I would add, Rajeev, is that we currently have, of course, the three US services, the eight international partners, the three foreign military sales partners on the program. But there is a lot of interest beyond that with many countries around the world that want to buy the F-35. So while we have a program of record that we can talk about what we see as the production plan for that, we expect to be selling more F-35s around the world in coming years. So that will be another indicator of continued revenue from the F-35 program and sustainment -- production sustainment; and, as Bruce said, continued modernization and upgrade.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          George Shapiro, Shapiro Research.
+
+--------------------------------------------------------------------------------
+George Shapiro,  Shapiro Research - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Bruce, it looks like you raised the margin rate on the F-35 again based on the numbers that you gave, so I just wanted to validate that. And then second, could you tell us how many deliveries the Air Force currently hasn't taken, and what kind of impact that might have had on cash flow in the quarter? Thanks.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [51]
+--------------------------------------------------------------------------------
+
+          Yes. Good questions, George. So there was a slight pickup on the total F-35 program. I think the biggest single drivers I recall is we had some increases, once again -- I think it was -- as we did last year on some of our international FACO. So this is the final assembly and check out facilities. Those are going extremely well. And this is another example of this quarter where we recognize some of the benefits of the performance we're seeing there taking place, actually greater than it was a year ago this quarter. So that's the primary reason for the upper in the F-35 program.
+And then, let's see; the other question was relative to the number of aircraft that are on hold. And I've lost track in the quarter, George. I want to say it was five -- I will say it's mid-single digits to upper single digits. I've lost track of F-35s, so not a huge impact on cash. Obviously it didn't change sales or earnings because of the way we recognize revenue; but a slight impact on cash. Although not much, because most of those -- with those occur later in the quarter where they weren't going to get collected in any event. So, our expectation would be, come second quarter, hopefully we've got this behind us, and there will be no impact to cash in the second quarter.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          David Strauss, Barclays.
+
+--------------------------------------------------------------------------------
+David Strauss,  Barclays Plc - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Wanted to try and put a finer point on the budget upside that you saw come through, and what it means for growth, going forward. So you've obviously in the past talked about growth accelerating from 2 to 3 -- I'm talking top-line growth -- accelerating from 2% to 3% this year to, like, 4% to 5% in 2019. Given the extra $7 billion that you saw come through, and in normal spend rates, what do you think that implies for that 4% to 5% number?
+And then as a follow-up, Bruce, if you could just update us on C-5 and potential resolution there. Thanks.
+
+--------------------------------------------------------------------------------
+Bruce Tanner,  Lockheed Martin Corporation - EVP and CFO    [54]
+--------------------------------------------------------------------------------
+
+          David, you got a good memory there; I'll give you credit for that one. The first part of your question is a really good one. I'll say it's at least a $64 million question. It's a question that's almost unanswerable at this point in time. We've got to see when that $7 billion starts manifesting itself in terms of contract modifications or contract awards, to add those increases to our existing programs. And my guess is they are all going to get phased in differently. So in some cases, on some of the missiles and the like, we're actually sort of at capacity this year. So I'd say just in general, I wouldn't expect to see much of any of this hit in 2018. And my guess is it will get spread over the 2019, 2020, and 2021 time frames, and maybe even a little further out than that.
+Let's talk the F-35s, for instance. Those, I'd like to think we could get them somewhere in the 12, 13, 14 block buy. But we're off right now going out to suppliers and getting quantities of aircrafts locked down with our suppliers. So it depends on when that gets authorized; and again, modded to the contracts that we already have. But if I were a betting person, I'd say you should think most of that is going to happen 2019, 2020, 2021. And obviously, David, I'll give you better insight, because we'll get better insight into it, as the year goes along; but definitely in the October time frame, when we give trend information for 2019, we'll try to talk about what it looks like beyond 2019 at that point in time.
+I think your last question was on the C-5 equitable adjustment. I literally don't think I have any news on that, David. We're about to -- this year, we finished delivering of the last modernized C-5 aircraft. I want to say that aircraft is in, like, the third quarter of this year. My guess is we'll get a lot more action on that closure once the total program is closed, if that makes sense. So, again, nothing planned from our perspective relative to -- if it doesn't happen this year, it's not like that's a downer, or a hit to this year, because we don't have that planned this year. We haven't talked about that, frankly, in the future years as well, but we still expect we have a very good case there. So, no new news to report is the short answer.
+
+--------------------------------------------------------------------------------
+Greg Gardner,  Lockheed Martin Corporation - VP of IR    [55]
+--------------------------------------------------------------------------------
+
+          John, I think we have time for one more question.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+
+          Hunter Keay, Wolfe Research.
+
+--------------------------------------------------------------------------------
+Hunter Keay,  Wolfe Research - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          On the supersonic X plane, is this your technology? I'm wondering if there is a remote scenario where Lockheed reenters the commercial aircraft market, if this design proves out. And how your experience moving to the commercial market with the LM-100J might persuade you to do that. Thank you.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [58]
+--------------------------------------------------------------------------------
+
+          Well, to your point, Hunter, we do have the LM-100J and we're happy to have that as a commercial offering. It's a follow-on to the L-100s that we sold to about 100 customers some years back, and so having an opportunity to refresh that. We also, as you've probably seen, are supporting another company that is coming out with a supersonic jet, business jet offering, Aerion. And we are supporting them on their project with some engineering support and other things.
+But in terms of our foray into the commercial aircraft aviation side, we're not [at that] -- don't read too much into this technology that we're working on with the low boom. What we're bringing is what we can bring out of the Skunk Works, which is the low boom technology and a lot of other technology that we can support.
+I apologize. I'm fighting a cold here, so my voice is getting a bit scratchy here. But the point being that what companies come to us for -- whether it's NASA or it's commercial companies -- is our deep knowledge and experience and technology that we can bring to support new technology.
+So, as I mentioned earlier, we're engaged a lot in hypersonics and directed energy. And now this is a follow on to some low boom technology work that we've done with NASA to take it to the next level. And our Skunk Works operation is working on it; as are a lot of our advanced technology labs across the Corporation, working a lot of fascinating and interesting advanced technology to help both on the commercial and the military side.
+
+--------------------------------------------------------------------------------
+Greg Gardner,  Lockheed Martin Corporation - VP of IR    [59]
+--------------------------------------------------------------------------------
+
+          Thanks, John. This is Greg. I think we have come up at the top of the hour here, so I'll turn it back over to Marillyn for some final thoughts.
+
+--------------------------------------------------------------------------------
+Marillyn Hewson,  Lockheed Martin Corporation - Chairman, President, and CEO    [60]
+--------------------------------------------------------------------------------
+
+          Sure. I'll make them brief since I'm losing my voice here. I would just thank you all for (technical difficulty) and by highlighting that we had an outstanding quarter. And we continue to be well positioned to deliver long-term value to our customers and to our stockholders. So we look forward to you joining us on the next call. And that concludes our call for today, John.
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+          Thank you. Ladies and gentlemen, that does conclude your conference. Thank you for your participation and for using AT&T's Executive Teleconference service. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2023 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
