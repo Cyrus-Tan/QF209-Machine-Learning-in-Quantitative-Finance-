@@ -58,6 +58,7 @@ Each of the 5 stocks, as stated above, will have the following features. We will
    - NLP FinBert: Financial text analysis
    - Extreme Gradient Boosting (XGBoost): Feature importance
    - Long Short-Term Memory (LSTM): Time-series forecasting
+        - GridSearchCV is used for hyperparameter tuning in LSTM model
 3) **APIs**
    - yiyanghkust/finbert-tone
    - tensorflow/keras
