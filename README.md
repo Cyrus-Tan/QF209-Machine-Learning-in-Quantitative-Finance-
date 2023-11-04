@@ -65,3 +65,7 @@ Each of the 5 stocks, as stated above, will have the following features. We will
 
 ## Conclusion
 
+## Contributing
+
+## License
+
