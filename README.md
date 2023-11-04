@@ -54,6 +54,7 @@ Each of the 5 stocks, as stated above, will have the following features. We will
    - Black-Litterman Model: Incorporates investor views into portfolio optimization process
 2) **Machine Learning Models:**
    - NLP FinBert: Financial text analysis
+   - Extreme Gradient Boosting (XGBoost): Feature importance
    - Long Short-Term Memory (LSTM): Time-series forecasting
 3) **APIs**
    - yiyanghkust/finbert-tone
