@@ -32,7 +32,36 @@ A traditional 60-40 portfolio, comprising 60% stocks and 40% bonds, has been fav
 -> Consists of the same 5 companies as stated above
 
 ## Features 
+Each of the 5 stocks, as stated above, will have the following features. We will then use XGBoost to determine feature importance and aid us in feature selection.
+- Daily_Return
+- Adj Close
+- Volume
+- High
+- Low
+- Open
+- Close
+- RSI
+- Sentiment_score
+- Volatility
+- MACD
+- SMA
+- Upper_Bollinger
+- Lower_Bollinger
 
+## Models & APIs used
+1) **Financial & Mathematical Models:**
+   - Markowitz Model: Risk-return Portfolio Optimization
+   - Black-Litterman Model: Incorporates investor views into portfolio optimization process
+2) **Machine Learning Models:**
+   - NLP FinBert: Financial text analysis
+   - Long Short-Term Memory (LSTM): Time-series forecasting
+3) **APIs**
+   - yiyanghkust/finbert-tone
+   - tensorflow/keras
+   - scikeras: KerasRegressor
+   - PyPortfolioOpt
 
+## Results
 
+## Conclusion
 
