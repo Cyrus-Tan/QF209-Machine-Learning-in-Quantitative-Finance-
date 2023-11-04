@@ -52,7 +52,7 @@ Each of the 5 stocks, as stated above, will have the following features. We will
 
 ## Models_and_APIs_used
 1) **Financial & Mathematical Models:**
-   - Markowitz Model: Risk-return Portfolio Optimization
+   - Markowitz Model: Mean-Variance Portfolio Optimization
    - Black-Litterman Model: Incorporates investor views into portfolio optimization process
 2) **Machine Learning Models:**
    - NLP FinBert: Financial text analysis
