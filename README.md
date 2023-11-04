@@ -6,7 +6,7 @@
 - [Usage](#usage)
 - [Data](#data)
 - [Features](#features)
-- [Models & APIs used](#models&APIsused)
+- [Models %26 APIs used](#modelsandAPIsused)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
