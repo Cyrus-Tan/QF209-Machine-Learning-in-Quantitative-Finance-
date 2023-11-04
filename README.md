@@ -6,7 +6,7 @@
 - [Usage](#usage)
 - [Data](#data)
 - [Features](#features)
-- [Models '%26' APIs used](#modelsandAPIsused)
+- [Models and APIs used](#modelsandAPIsused)
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
@@ -48,7 +48,7 @@ Each of the 5 stocks, as stated above, will have the following features. We will
 - Upper_Bollinger
 - Lower_Bollinger
 
-## Models & APIs used
+## Models and APIs used
 1) **Financial & Mathematical Models:**
    - Markowitz Model: Risk-return Portfolio Optimization
    - Black-Litterman Model: Incorporates investor views into portfolio optimization process
