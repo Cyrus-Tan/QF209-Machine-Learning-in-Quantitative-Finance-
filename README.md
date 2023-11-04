@@ -1,1 +1,4 @@
-# MLQF
+# Machine Learning in Quantitative Finance: Incorporating Sentiment Analysis
+
+### Overview
+A traditional 60-40 portfolio, comprising 60% stocks and 40% bonds, has been favored by institutional investors due to its historical resilience during demand shocks. Stocks are riskier assets, but bonds tend to rise when interest rates fall, which occurs during economic downturns. Earnings call transcripts, unlike daily news, hold latent information, providing insights that might not be immediately factored into market prices. Leveraging Natural Language Processing (NLP), we aim to analyze sentiments in these transcripts to navigate market volatility and optimize asset allocation. We will pass in the sentiment score of each individual earnings call transcript (extracted with NLP FinBert), together with the predicted Adj. Close price 
