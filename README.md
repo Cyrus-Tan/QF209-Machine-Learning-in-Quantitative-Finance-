@@ -21,6 +21,7 @@ A traditional 60-40 portfolio, comprising 60% stocks and 40% bonds, has been fav
 
 ## Data
 1) Earnings call transcripts Data retrieved from Refinitiv Eikon. Timeline of transcripts used are from 1 Jan 2010 - 1 October 2023.
+   
 -> Consists of 5 Companies
    Apple Inc (NASDAQ:AAPL): 55 Transcripts
    Boeing Co (NYSE: BA): 55 Transcripts
@@ -28,7 +29,8 @@ A traditional 60-40 portfolio, comprising 60% stocks and 40% bonds, has been fav
    Marriott International Inc (NASDAQ: MAR): 55 Transcripts
    NVIDIA Corp (NASDAQ: NVDA): 55 Transcripts
 
-2) Stock Price Data retrieved from Yahoo Finance. Timeline of data used are from 1 Jan 2010 - 1 October 2023.
+3) Stock Price Data retrieved from Yahoo Finance. Timeline of data used are from 1 Jan 2010 - 1 October 2023.
+   
 -> Consists of the same 5 companies as stated above
 
 ## Features 
