@@ -50,6 +50,8 @@ Each of the 5 stocks, as stated above, will have the following features. We will
 - Upper_Bollinger
 - Lower_Bollinger
 
+Dataframes of Sentiment score, Stock price data and Technical indicators are merged to a single dataframe on date. We used backfill interpolation to fill up the NaN values of all columns, since this interpolation method is useful for consecutive NaN values.
+
 ## Models_and_APIs_used
 1) **Financial & Mathematical Models:**
    - Markowitz Model: Mean-Variance Portfolio Optimization
