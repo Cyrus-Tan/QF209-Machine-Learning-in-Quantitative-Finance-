@@ -16,6 +16,7 @@
 A traditional 60-40 portfolio, comprising 60% stocks and 40% bonds, has been favored by institutional investors due to its historical resilience during demand shocks. Stocks are riskier assets, but bonds tend to rise when interest rates fall, which occurs during economic downturns. Earnings call transcripts, unlike daily news, hold latent information, providing insights that might not be immediately factored into market prices. Leveraging Natural Language Processing (NLP), we aim to analyze sentiments in these transcripts to navigate market volatility and optimize asset allocation. We will pass in the sentiment score of each individual earnings call transcript (extracted with NLP FinBert), together with the predicted Adj. Close price as inputs into the Black-Litterman Model. This model is unique in the world of portfolio optimization due to its ability to incorporate subjective views of investors or analysts about expected returns. Prior to the implementation of the Black-Litterman model, we will implement a simple Markowitz model as a baseline for comparative analysis, to compare and contrast the resulting portfolio allocation with the Black-Litterman Model's output. This comparison helps assess how the incorporation of subjective market views alters the portfolio allocation strategy. 
 
 ## Installation
+- note: WRITE ABT 3.9
 
 ## Usage
 
