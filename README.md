@@ -67,6 +67,18 @@ Dataframes of Sentiment score, Stock price data and Technical indicators are mer
    - tensorflow/keras
    - scikeras: KerasRegressor
    - PyPortfolioOpt
+4) **Libraries & Packages**
+   - numpy
+   - pandas
+   - yfinance
+   - matplotlib.pyplot
+   - seaborn
+   - scipy
+   - plotly.express
+   - xgboost
+   - sklearn
+   - nltk
+   
 
 ## Results
 
